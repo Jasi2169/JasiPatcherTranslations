@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jasi Patcher</string>
+    <string name="upd">Vérifier les mises à jour</string>
+    <string name="tss">Dépannage</string>
+    <string name="change">Journal des Changements</string>
+    <string name="set">Parametres</string>
+    <string name="hlp">Aide</string>
+    <string name="about">A propos</string>
+    <string name="don">Faire un Don</string>
+    <string name="exit">Quitter</string>
+    <string name="pa">Patch</string>
+    <string name="to">Outils</string>
+    <string name="log">Dump Logs</string>
+    <string name="genr">Géneral</string>
+    <string name="lang">Langue</string>
+    <string name="clang">Changer la Langue</string>
+    <string name="orie">Orientation</string>
+    <string name="corie">Changer Orientation</string>
+    <string name="othr">Autres</string>
+    <string name="vib">Vibration</string>
+    <string name="cvib">Retour Haptique</string>
+    <string name="hid">Cacher le Patcher</string>
+    <string name="ext">Extra</string>
+    <string name="chid">Cacher le Patcher pour les Autres Applis\n(Nécessite le module Xposed et un redémarrage)</string>
+    <string name="intsto">Emplacement du Stockage Interne</string>
+    <string name="find">Retrouvez moi</string>
+    <string name="csort">Changer Ordre de tri des Apps</string>
+    <string name="sort">Trier</string>
+    <string name="upa">Restaurer</string>
+    <string name="app">..Applis..</string>
+    <string name="internal">Selectionner l\'emplacement du Stockage Interne</string>
+    <string name="perm">Autorisation Requise</string>
+    <string name="permmsg">Veuillez accorder toutes les autorisations pour utiliser cette Option...</string>
+    <string name="internalmsg">Si vous n\'etes pas sûr Cliquer sur \'Annuler\' Si cela semble correct.\n\nl\'emplacement du Stockage Interne n\'est pas défini\n\nAs Selon nos calculs votre emplacement du Stockage Interne est :- \n\'%1$s\'\n\nSi cela est correct, Cliquez sur \'ANNULER\' Ou si c\'est faux, \'SELECTIONNER EMPLACEMENT\' pour selectionner le dossier racine de votre Stockage Interne Manuelement.\n\nCet emplacement sera utilisé pour le fonctionnement du Patcher.\nPS L\'emplacement peut également etre redefini dans les réglages.\n\nNOTE :- Selectioner un MAUVAIS emplacement peut causer des platanges ou des disfonctionnements du Patcher dans certaines activités.</string>
+    <string name="selctintloc">Veuillez définir l\'emplacement du Stockage Interne avant de Cliquer sur Options..</string>
+    <string name="plzrest">Redemarrez l\'Appli pour que les modifications prennent Effet!!</string>
+    <string name="letitchk">Veuillez patienter nous interrogeons le Serveur..</string>
+    <string name="intnotavai">Internet N\'est pas disponible Nous ne pouvons procéder..</string>
+    <string name="ser">Trouver sur le Play Store</string>
+    <string name="reb">Redémarrer</string>
+    <string name="done">Opération effectuée.. Vérification du Statut</string>
+    <string name="cach">Nettoyeur</string>
+    <string name="pmenuinfo">Note :- Restaurer peut seullement etre effectué sur\'Code Patch\',\'License Patch\' et \'Hook Patch\',Il n\'est pas disponible pour \'Dalvik Patch\',\'Module Patch\',\'Native Patch\',\'Generate Patch\' et \'Save Patch\'.\n\nRappel :- Avant de mettre à jour vers une nouvelle Version Cliquez sur Restaurer Ensuite mettez a jour et réapliquez le Patch (Requis seulement pour Code Patch).</string>
+    <string name="pmenu">Menu Patch</string>
+	<string name="selloc">Selectionner Emplacement</string>
+    <string name="anim">Animation</string>
+    <string name="canim">Changer l’Animation de la liste d’Appli</string>
+    <string name="font">Police</string>
+    <string name="cfont">Changer la Police</string>
+    <string name="unipat">Patch Universel</string>
+    <string name="down">Telecharger</string>
+    <string name="bati">Activer le jeu d’instruction 32 Bit</string>
+    <string name="cbati">Utiliser le jeu d’instructions 32 Bit sur un Firmware 64 Bit pour Patcher\n(uniquement sélectionnable sur les firmwares 64 Bit ,le Patcheur Utilise par défaut un jeu d’instructions 64 Bit sur les Firmwares 64 Bit pour le Patch, Activez si le Patch ne donne aucun résultat sur un firmware 64 Bit. Comme certains firmwares emploient des instructions 32 Bit malgré leur architecture 64 Bit)</string>
+	<string name="suppat">Patch d\'assistance</string>
+    <string name="hidtools">Cacher les Outils de Patchs</string>
+    <string name="chidtools">Dissimuler les Outils de Patch comme Lucky Patcher, Freedom, Game Killer au regard des autres Applis\n(Nécessite le module Xposed Activé et un redémarrage)</string>
+    <string name="nonbati">64 Bit Firmware détecté</string>
+    <string name="cnonbati">Votre Firmware est en 64 Bit.\n\nLe Patcheur Utilise par défaut un jeu d’instructions 64 Bit sur les Firmwares 64 Bit pour le Patch mais certains firmwares emploient des instructions 32 Bit malgré leur architecture 64 Bit. Si le Patch ne donne aucun résultat sur un firmware 64 Bit Alors vous pouvez activer l’option \'Utiliser le jeu d’instructions 32 Bit\' disponible dans les réglages du Patcheur.</string>
+    <string name="shwagn">Afficher la prochaine fois</string>
+    <string name="dntshwagn">Ne plus afficher</string>
+	<string name="impset">Importer les paramètres</string>
+    <string name="cimpset">Importer les paramètres depuis l\'appareil</string>
+    <string name="setimport">Paramètres importés avec succès\nL\'Application va redémarrer</string>
+    <string name="setimporterror">Aucune sauvegarde de Paramètres n\'a été trouvée\nEtes vous sur que l\'emplacement est il correct ?</string>
+    <string name="expset">Exporter les paramètres</string>
+    <string name="cexpset">Sauvegarder les réglages sur l\'appareil</string>
+    <string name="setexport">Paramètres sauvegardés sur</string>
+    <string name="setexporterror">Impossible d\'enregistrer les réglages sur ce répertoire protégé en écriture\nEtes vous sur que l\'emplacement choisi est correct ?</string>
+    <string name="autoupdate">Activer les  MàJ automatiques</string>
+    <string name="cautoupdate">Vérifier automatiquement l\'existence de Mises à jour</string>
+	<string name="reload">Rafraîchir</string>
+	<string name="hidefab">Cacher FAB</string>
+    <string name="chidefab">Cacher Floating Action Button</string>
+    <string name="spf">Usurpation</string>
+    <string name="apl">Appliquer</string>
+    <string name="hk">Crochet</string>
+	<string name="lm">Emulation</string>
+	<string name="rnd">Aléatoire</string>
+	<string name="clr">Effacer</string>
+	<string name="clrset">RàZ Réglages</string>
+	<string name="cclrset">Remise à Zéro des réglages du Patcheur</string>
+	<string name="setclr">Remise à Zéro des réglages réussie\nApplication redémarre</string>
+	<string name="lau">Lancer</string>
+	<string name="sftrb">Merci de Redémarrer votre appareil adin d\'appliquer correctement les modifications!!</string>
+	<string name="search">Rechercher</string>
+    <string name="ads">Supprimez les pubs</string>
+	<string name="strprch">Supprimer les achats enregistrés</string>
+	<string name="selectapps">Sélectionner Les Applis</string>
+    <string name="saemu">Sélectionnez les applications à émuler</string>
+    <string name="emuandhook">L\'émulation de licence et le hamçonnage de licence ne peuvent pas être sélectionnés en meme temps, l\'autre a été désactivé..</string>
+    <string name="onlyinprem">Disponible uniquement en mode Premium..\nActivez le mode Premium à partir du menu \'Faire un Don\' du Patcher..</string>
+    <string name="xposednotfound">Xposed Introuvable</string>
+    <string name="xposederror">Impossible de procéder, Xposed introuvable..\n\nAvez vous installé le Framework Xposed ? Activé le Module du Patcher et redémarré votre appareil ?\n\n Vous ne savez pas ce qu\'est Xposed ?\n Faites une recherche sur Google.</string>
+    <string name="xposederrorbutcanwork">Emulation impossible, Xposed introuvable..\n\nAvez vous installé le Framework Xposed ? Activé le Module du Patcher et redémarré votre appareil ?\n\nVous n\'avez pas Xposed ? Pas de problème\n\nVous pouvez toujours utiliser l\'émulation de licence et l\'émulation de facturation avec le root mais vous devez appliquer le patch de \'Soutien d\'émulation\' à partir du patch universel. Gardez à l\'esprit que l\'émulation via Xposed est d\'une qualité nettement meilleure que l\'émulation via Root.</string>
+    <string name="sptemu">Soutien d\'émulation</string>
+    <string name="faqs">FAQ</string>
+    <string name="unidetails">
+	.......Détails.......\n\n
+-> Patch :- Patch la vérification de Licence de l\'application choisie. Doit etre restaurée avant de faire une MAJ.\n\n
+-> Restaurer :- Supprime le Patch de l\'application choisie. Restaure l\'application à son état d\'origine. A utiliser avant de mettre à jour l\'application choisie.\n\n
+-> Patch de Soutien :- Patch de soutien pour les autres patchs. Devrait etre appliqué avant d\'appliquer un autre patch ou faire une émulation.\n\n
+-> Soutien d\'émulation :-Patch l\'application choisie pour que l\'émulation de licence et de facturation fonctionnent via Root. Vous n\'avez pas besoin de ceci si vous utilisez le module Xposed.\n\n
+-> Supprimer Pubs :- Supprimez les pubs Google de l\'application choisie.\n\n
+        .......Remarque.......\n\n
+-> Si vous appliquez le Patch de soutien et un autre Patch, assurez-vous d\'appliquer le Patch de soutien avant l\'autre.\n\n
+-> Seules les applications installées par l\'utilisateur qui peuvent etres lancées sont affichées dans la liste.\n
+    </string>
+    <string name="emudetails">
+        .......Details.......\n\n
+-> Emulation de Licence :- N\'exige ni connexion Internet ni que Play Store soit installé.  Redirige la vérification de la licence au Patcher. Peut être utilisée sans Xposed, mais nécessite le Patch \'Soutien d\'Emulation\' pour cibler l\'Application à partir du menu Patch Unviersel.\n\n
+-> Emulation de Facturation :- N\'exige ni connexion Internet ni que Play Store soit installé.  Redirige la facturation d\'achat au Patcher. Peut être utilisée sans Xposed, mais nécessite le Patch \'Soutien d\'Emulation\' pour cibler l\'Application à partir du menu Patch Unviersel.\n\n
+-> Hamçonnage de Licence :- EXIGE que le Play Store soit installé ainsi qu\'une connexion Internet. Intercèpte les requêtes et les reponses du Play Store. Xposed est OBLIGATOIRE. Ne peut donc pas etre utilisé sans Xposed.\n\n
+-> Sélectionner Les Applis :- Sélectionnez les applications que vous souhaitez émuler, par défaut toutes les applications installées par l\'utilisateur sont sélectionnées. Si vous désélectionnez une application, même si l\'émulation est activée, cette application ne sera pas hamçonnée. Utilise pour désactiver l\'hamçonnage des applis achetés légalement. Nécéssite Xposed. Si vous n\'avez pas Xposed, utilisez le patch \'Soutien d\'Emulation\' comme une alternative.
+        .......Remarque.......\n\n
+-> Cochez toujours \'Enregistrer l\'achat\' lors de l\'achat d\'un article \'NON Consomable\' mais JAMAIS lors de l\'achat d\'un article Consomable.\n
+NON Consomable :- Statut Prémium, Pro...etc dans les applis.\n
+Consomable :- Argent, Gemmes...etc dans les jeux.\n\n
+-> Après avoir désactivé l\'émulation de facturation, certaines applications avec des articles non consommables reviennent à l\'état gratuit (Non Premium,Non Pro..etc), mais lors de la réactivation de l\'émulation, elles posséderont à nouveau à l\'état acheté (Premium,Pro..etc), il est donc préférable de garder l\'émulation de facturation activée.\n\n
+-> Meme cas lors de la désactivation de l\'émulation de licence. Certaines Applis demanderont la licence à nouveau. Il vaut donc mieux de garder l\'émulation de licence activée.\n\n
+-> Si vous avez une licence légale ou des achats légaux, sélectionnez UNIQUEMENT les applications où vous souhaitez que l\'émulation fonctionne. Si vous avez sélectionné toutes les applications, désactivez toutes les émulations (Licence, Facturation, Hamçonnage) car si l\'une d\'entre elles est activée, cela créera des problèmes avec vos licences et achats légaux. Mais dans la plus part des cas, cela n\'arrive pas.\n\n
+-> Certaines applications utilisent une ancienne bibliothèque de licence, lorsque l\'émulation de licence est activée et même si l\'application n\'est pas sélectionnée dans la liste, la licence légale de l\'application ne s\'active pas à cause d\'une interference entre le patcher et cette ancienne bibliothèque. Il faudra donc désactiver l\'émulation de licence completement, activer la licence de l\'application problèmatique puis réactiver l\'émulation. Meme chose pour l\'émulation de facturation.\n\n
+-> Si vous n\'avez pas Xposed, vous pouvez toujours utiliser l\'émulation de licence et l\'émulation de facturation avec le root mais vous devez appliquer le patch de \'Soutien d\'émulation\' à partir du patch universel. Gardez à l\'esprit que l\'émulation via Xposed est d\'une qualité nettement meilleure que l\'émulation via Root.\n\n
+-> Certaines applications ont des contrôles supplémentaires, vous pouvez appliquer le \'Patch de Soutien\' afin de parer ces contrôles supplémentaires et utiliser par la suite l\'émulation.\n\n
+-> L\'émulation ne nécéssite pas de redémarrage. Après avoir activé une émulation, forcer l\'arret de l\'application à laquelle vous souhaitez que l\'émulation fonctionne. Il est tout de meme préférable de redémarrer pour fonctionnement correct.\n\n
+    </string>
+	<string name="cuspat">Patch Personnalisé</string>
+	<string name="kill">Tuer L\'Appli</string>
+    <string name="clrdata">Effacer Données</string>
+    <string name="uninst">Désinstaller</string>
+    <string name="bkup">Sauvegarder</string>
+    <string name="rstr">Restaurer</string>
+    <string name="bkapk">Sauvegarder Apk</string>
+    <string name="rsapk">Restaurer Apk</string>
+    <string name="clcacheapps">Effacer Cache des Applis </string>
+    <string name="clcachepart">Nettoyer La Partition Cache</string>
+    <string name="cldlvk">Nettoyer Cache Dalvik </string>
+    <string name="clodex"> Nettoyer les Odex Dalvik non utilisés</string>
+    <string name="rbtsf">Redémarrage Doux</string>
+    <string name="rbt">Redémarrer</string>
+    <string name="rbtrec">Redémarrage Recovery</string>
+    <string name="pwrof">Eteindre</string>
+    <string name="loadicons">Désactiver les icônes des Applis</string>
+    <string name="cloadicons">Désactiver le chargement des icônes d\'applis et utiliser les icônes par défaut</string>
+    <string name="hook1">Rendre Toutes les Applis Débeuggable\nRemarque :- Fonctionne meme si la propriété de débeugage est absente du manifeste de l\'appli.</string>
+    <string name="hook2">Désactiver le contrôle relié au débogueur\nRemarque :- Aucun déboggueur ne sera détécté meme s\'il est connecté.</string>
+    <string name="hook3">Désactiver la vérification de la version d\'Android lors de l\'installation\nRemarque :- Installez l\'appli  même si votre version Android est inférieure à la version minimale requise.\nFonctionne sur Android Lollipop 5.0 ou plus récent, sur les version antérieur il n\'y a pas de garantie.</string>
+    <string name="hook4">Rétrograder les Applis\nRemarque :- Installez une version plus ancienne de l\'application que celle actuellement installée.\nFonctionne sur Android Lollipop 5.0 ou plus récent, sur les version antérieur il n\'y a pas de garantie.</string>
+    <string name="hook5">Désactiver la vérification de la signature\nRemarque :- Installez la même application avec une signature differente que celle installée actuellement.\nFonctionne sur Android Lollipop 5.0 ou plus récent, sur les version antérieur il n\'y a pas de garantie.</string>
+    <string name="hook6">Désactiver la signature des APK\nRemarque :- Désactivez la vérification de la signature lors de l\'installation d\'APK afin que vous puissiez modifier les fichiers à l\'intérieur d\'APK sans le signer à nouveau et conserver l\'ancienne signature du développeur.</string>
+    <string name="hook7">Désactiver Superposition Detectée\nRemarque :- Contourne le méssage Superposition Detectée par Android lors de l\'octroi de permissions ou l\'installation des Applis.</string>
+
+</resources>

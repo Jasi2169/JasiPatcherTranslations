@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jasi破解器</string>
+    <string name="upd">检查更新</string>
+    <string name="tss">故障排查</string>
+    <string name="change">更新记录</string>
+    <string name="set">设置</string>
+    <string name="hlp">帮助</string>
+    <string name="about">关于</string>
+    <string name="don">捐赠</string>
+    <string name="exit">退出</string>
+    <string name="pa">破解</string>
+    <string name="to">工具</string>
+    <string name="log">收集日志</string>
+    <string name="genr">通用选项</string>
+    <string name="lang">语言</string>
+    <string name="clang">更改语言</string>
+    <string name="orie">屏幕方向</string>
+    <string name="corie">更改屏幕方向</string>
+    <string name="othr">其他</string>
+    <string name="vib">振动</string>
+    <string name="cvib">启用振动反馈</string>
+    <string name="hid">隐藏破解器</string>
+    <string name="ext">额外</string>
+    <string name="chid">对其他应用隐藏破解器\n（要求Xposed模块已启用并重启）</string>
+    <string name="intsto">内部存储位置</string>
+    <string name="find">与我联系</string>
+    <string name="csort">更改应用排序方式</string>
+    <string name="sort">排序</string>
+    <string name="upa">取消破解</string>
+    <string name="app">..应用..</string>
+    <string name="internal">设定内部存储位置</string>
+    <string name="perm">需要权限</string>
+    <string name="permmsg">要使用此选项，请授予本程序所有需要的权限...</string>
+    <string name="internalmsg">如果你不确定，请点击“取消”，因为程序的判断一般是正确的。\n\n未设定内部存储位置\n\n根据判断，你的设备的内部存储位置为：\n\'%1$s\'\n\n如果正确，请选择“取消”。如果错误，请选择 “设定内部存储位置”来手动选择内部存储的位置。\n\n此位置会被用于破解器工作。\n你可以在设置中重新设置内部存储位置。\n\n选择错误的位置有可能会导致破解器崩溃或者在进行某些破解时失败！</string>
+    <string name="selctintloc">请首先设定内部存储位置，然后再次选择此选项来生效...</string>
+    <string name="plzrest">要使更改生效，请重新启动破解器！</string>
+    <string name="letitchk">请等待破解器从服务器获取数据...</string>
+    <string name="intnotavai">网络不可用，无法执行...</string>
+    <string name="ser">在Google Play上查找</string>
+    <string name="reb">重新启动系统</string>
+    <string name="done">已执行，正在检查状态</string>
+    <string name="cach">清理器</string>
+    <string name="pmenuinfo">注释：“取消破解”选项只能在“程序代码破解”，“授权验证破解”和“Xposed钩子破解”中使用,在“代码缓存破解”，“模块破解”，“库文件破解”,“生成补丁” 和 “数据存储破解”中不可用。\n\n注意：如果你使用“程序代码破解”，请在更新被破解应用前先选择“取消破解”选项。</string>
+    <string name="pmenu">破解菜单</string>
+    <string name="selloc">选择位置</string>
+    <string name="anim">动画</string>
+    <string name="canim">更改应用程序列表的动画</string>
+    <string name="cfont">更改字体</string>
+    <string name="font"> 字体</string>
+    <string name="unipat">通用破解</string>
+    <string name="down">下载</string>
+    <string name="bati">使用32位指令集</string>
+    <string name="cbati">在64位固件上使用32位指令集\n只能在64位固件上被启用。破解器默认会在64位固件上使用64位指令集，但是有些64位固件上会使用32位指令集。如果破解器在64位固件上无效，请选择此选项。</string>
+	<string name="suppat">破解支持</string>
+    <string name="hidtools">隐藏破解工具</string>
+    <string name="chidtools">对其他应用隐藏各种破解器，如幸运破解器，Freedom，八门神器\n要求Xposed模块启用且重启</string>
+    <string name="nonbati">检测到64位固件</string>
+    <string name="cnonbati">你正在使用64位固件。\n\n破解器默认会在64位固件上使用64位指令集，但是一些64位固件会使用32位指令集。所以，如果破解器在64位固件上无效，请在设置里选择使用32位指令集。</string>
+    <string name="shwagn">下次显示</string>
+    <string name="dntshwagn">不要再显示</string>
+	<string name="impset">导入设置</string>
+    <string name="cimpset">从设备导入设置</string>
+    <string name="setimport">设置导入成功\n程序将重新载入</string>
+    <string name="setimporterror">找不到可导入的数据。\n请确认内部存储位置是否正确。</string>
+    <string name="expset">导出设置</string>
+    <string name="cexpset">导出设置到设备</string>
+    <string name="setexport">设置已导出到</string>
+    <string name="setexporterror">无法导出，目标文件夹为只读。\n请确认内部存储位置是否正确。</string>
+    <string name="autoupdate">启用自动升级</string>
+    <string name="cautoupdate">自动检查更新</string>
+	<string name="reload">重新载入</string>
+	<string name="hidefab">隐藏 FAB</string>
+    <string name="chidefab">隐藏 Floating Action Button</string>
+    <string name="spf">签名欺骗</string>
+    <string name="apl">应用</string>
+    <string name="hk">干预</string>
+    <string name="lm">模拟</string>
+    <string name="rnd">随机</string>
+    <string name="clr">清除</string>
+    <string name="clrset">重置设置</string>
+    <string name="cclrset">重置破解器的所有设置</string>
+    <string name="setclr">重置成功\n破解器将重启</string>
+    <string name="lau">启动</string>
+    <string name="sftrb">为使更改生效，请对设备进行软重启。</string>
+    <string name="search">搜索</string>
+    <string name="ads">广告移除</string>
+    <string name="strprch">移除已保存的内购</string>
+    <string name="selectapps">选择应用</string>
+    <string name="saemu">选择需要模拟的应用</string>
+	<string name="emuandhook">授权模拟和授权干预不能同时被启用，已自动关闭另一个选项。</string>
+    <string name="onlyinprem">只在高级版下可用。请在捐赠模式中启用高级版模式。</string>
+    <string name="xposednotfound">找不到Xposed框架。</string>
+    <string name="xposederror">找不到Xposed框架，无法处理。\n\n你是否安装了Xposed框架，启用了破解器模块并重启？\n\n如果不知道Xposed是什么，请尝试在网上搜索。</string>
+    <string name="xposederrorbutcanwork">找不到Xposed框架，无法处理。\n\n你是否安装了Xposed框架，启用了破解器模块并重启？\n\n即使你不知道Xposed是什么，\n\n你仍然可以通过Root方式使用授权模拟和内购模拟功能，但是你需要在“通用破解”菜单内对目标应用启用“模拟支持”功能。请注意，Root方式的模拟功能与Xposed有所不同。</string>
+    <string name="sptemu">模拟支持</string>
+    <string name="faqs">常见问题</string>
+    <string name="unidetails">详细信息\n\n
+-> 破解：破解目标应用的授权验证，请注意在升级应用之前还需要先移除破解。\n\n
+-> 移除破解：移除目标应用的破解，适合在升级应用之前使用。\n\n
+-> 破解支持：为破解或模拟提供支持，适合在应用破解或模拟选项之前使用。\n\n
+-> 模拟支持：为Root方式的授权模拟或内购模拟提供支持，如果拥有Xposed则无需使用该选项。该选项是“模拟”选项的替代选项。\n\n
+-> 移除广告：移除目标应用内的广告。\n\n
+        注意\n\n
+-> 如果同时应用了破解支持和破解这两个选项，请确保破解支持应用在破解的前面。\n\n
+-> 只有具有启动活动项的用户应用会显示在列表中。\n
+    </string>
+    <string name="emudetails">
+       详细信息\n\n
+-> 授权验证模拟：无需安装Play商店或网络连接，此功能将授权验证重定向至破解器，若没有Xposed则需要在“通用破解”菜单内对目标应用启用“模拟支持”功能。\n\n
+-> 内购模拟：无需安装Play商店或网络连接，此功能将内购请求重定向至破解器，若没有Xposed则需要在“通用破解”菜单内对目标应用启用“模拟支持”功能。\n\n
+-> 授权干预：要求Play商店已安装并且已联网。此功能可以干预Play商店的授权请求和回应，若没有Xposed则无法使用此功能。\n\n
+-> 选择应用：选择想要启用模拟支持功能的应用，默认情况下对所有的用户应用都已启用，你可以对以合法渠道购买的应用取消选择此选项。要求已安装Xposed，若没有Xposed则需要在“通用破解”选项中对目标应用启用“模拟支持”功能。\n\n
+        注意\n\n
+-> 请在购买非消耗品的时候选中“保存内购”选项，而购买消耗品时请勿选中此选项。\n
+非消耗品：应用的专业版、高级版等。\n
+消耗品：游戏中的金币等。\n\n
+-> 有些包含非消耗品的应用会在关闭内购模拟时恢复到未购买的状态。为了使破解效果更加可靠，推荐始终打开内购模拟选项，因为有些应用会始终检查购买情况。\n\n
+-> 有些应用会在授权验证模拟功能关闭时要求重新验证，为了使破解效果更加可靠，推荐始终打开授权模拟选项。\n\n
+-> 如果你拥有某些应用的合法授权或合法内购，请只对需要应用破解的程序启用模拟功能；如果已经为所有应用启用了模拟功能，请关闭授权模拟、内购模拟和授权干预功能。因为这类功能可能会对合法的购买的内容造成影响，但是在大多数情况下仍然可以在拥有合法购买内容的情况下正常使用模拟功能。\n\n
+-> 对于有些使用旧版授权验证库的应用，当授权模拟功能启用时即使没有对这个应用启用破解，也可能显示授权不合法。这是由于破解器对旧版授权验证库的干预而导致对单个应用的控制无效。这时请关闭授权模拟功能，等到正确授权之后再重新打开即可。\n\n
+-> 即使未安装Xposed框架，你仍然可以通过Root方式使用授权模拟和内购模拟功能，但是你需要在“通用破解”菜单内对目标应用启用“模拟支持”功能。请注意，Root方式的模拟功能与Xposed有所不同。\n\n
+-> 一些应用可能会有额外的授权检查，这时你可以在“通用破解”菜单中对目标应用使用“破解支持”功能以绕过这些额外检查，然后再使用模拟功能。\n\n
+-> 模拟功能无需重启，在应用模拟功能之后只需强行停止目标应用，但重启的效果可能会更好。\n
+    </string>
+	<string name="cuspat">自定义破解</string>
+	<string name="kill">强行停止</string>
+    <string name="clrdata">清除数据</string>
+    <string name="uninst">卸载</string>
+    <string name="bkup">备份</string>
+    <string name="rstr">恢复</string>
+    <string name="bkapk">备份APK文件</string>
+    <string name="rsapk">恢复APK文件</string>
+    <string name="clcacheapps">清除缓存</string>
+    <string name="clcachepart">清理/Cache分区</string>
+    <string name="cldlvk">清理虚拟机缓存</string>
+    <string name="clodex">清理未使用的虚拟机缓存破解文件</string>
+    <string name="rbtsf">软重启</string>
+    <string name="rbt">重启</string>
+    <string name="rbtrec">重启至恢复模式</string>
+    <string name="pwrof">关机</string>
+    <string name="loadicons">停用应用图标</string>
+    <string name="cloadicons">不加载应用图标，使用默认图标来显示应用程序</string>
+    <string name="hook1">使所有应用变为可调试状态\n（即使在应用内未定义调试状态，或应用不允许调试）</string>
+    <string name="hook2">禁止调试器连接检查\n（返回的结果将是无调试器，即使实际上调试器已经连接）</string>
+    <string name="hook3">禁止在安装程序时进行的Android版本检查\n（在安装应用时，即使Android版本低于安装应用要求的最低版本也能够安装。此功能理论上对Android 5.0及以上有效，但在5.0以下也有可能会生效。）</string>
+    <string name="hook4">允许降级安装应用\n（使用旧版本的应用覆盖安装新版本应用。此功能理论上对Android 5.0及以上有效，但在5.0以下也有可能会生效。）</string>
+    <string name="hook5">禁止应用管理器签名检查\n（使用不同签名的程序包覆盖安装现有应用。此功能理论上对Android 5.0及以上有效，但在5.0以下也有可能会生效。）</string>
+    <string name="hook6">禁止ZIP签名检查\n（在修改APK后无需对其再次签名即可安装，即在修改的同时保留原开发者的签名。）</string>
+    <string name="hook7">禁止屏幕叠加层检测\n（禁止系统在授予应用权限和安装应用时对屏幕叠加层的检测。）</string>
+
+</resources>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jasi Patcher</string>
+    <string name="upd">Procurar Atualizações</string>
+    <string name="tss">Solução de Problemas</string>
+    <string name="change">Log de Mudanças</string>
+    <string name="set">Configurações</string>
+    <string name="hlp">Ajuda</string>
+    <string name="about">Sobre</string>
+    <string name="don">Doações</string>
+    <string name="exit">Sair</string>
+    <string name="pa">Patch</string>
+    <string name="to">Ferramentas</string>
+    <string name="log">Registro de Logs</string>
+    <string name="genr">Geral</string>
+    <string name="lang">Idioma</string>
+    <string name="clang">Alterar o Idioma</string>
+    <string name="orie">Orientação</string>
+    <string name="corie">Alterar a Orientação</string>
+    <string name="othr">Outros</string>
+    <string name="vib">Vibrar</string>
+    <string name="cvib">Feedback</string>
+    <string name="hid">Ocultar o Patcher</string>
+    <string name="ext">Extra</string>
+    <string name="chid">Ocultar o Patcher de outros aplicativos\n(Requer o módulo Xposed ativado e reinicializado)</string>
+    <string name="intsto">Local de armazenamento interno</string>
+    <string name="find">Me encontre</string>
+    <string name="sort">Ordenar</string>
+    <string name="csort">Alterar a ordem de classificação dos aplicativos</string>
+    <string name="app">..Aplicativos..</string>
+    <string name="upa">Despatchear</string>
+    <string name="perm">Permissões Necessárias</string>
+    <string name="permmsg">Conceda todas as permissões para usar esta opção ...</string>
+    <string name="internal">Selecione o local de armazenamento interno</string>
+    <string name="internalmsg">Se não tiver certeza, clique em \'CANCELAR\', se tiver dúvidas.\n\na localização de armazenamento interno e não for definida\n\nCom o nosso cálculo, o local de armazenamento interno do dispositivo será definido :- \n\'%1$s\'\n\nSe não tiver certeza, pressione \'CANCELAR\' ou se tiver em dúvida, pressione \'SELECIONAR LOCALIZAÇÃO\' para selecionar manualmente a pasta raiz (root) do seu armazenamento interno.\n\nEste local será usado para o trabalho do Patcher.\nA Posição PS também poderá ser refeita em configurações.\n\nNOTA :- Selecionar o local errado pode levar a falhas ou o Patcher pode falhar em algumas tarefas.</string>
+    <string name="intnotavai">Sem conexão de Internet, Não é possível prosseguir...</string>
+    <string name="letitchk">Por favor, aguarde, enquanto verificamos no servidor..</string>
+    <string name="selctintloc">Selecione a localização de armazenamento interno em primeiro lugar Clique em Opção novamente para prosseguir.</string>
+    <string name="plzrest">Reinicie o aplicativo para que as alterações sejam feitas!!</string>
+    <string name="ser">Procurar na Play Store</string>
+    <string name="reb">Reiniciar</string>
+    <string name="done">Processamento concluído Verificar status</string>
+    <string name="cach">Limpador</string>
+    <string name="pmenuinfo">Nota :- Despatchear só pode ser feito em \'Patch de código\',\'Patch de licença\' e \'Hook Patch\',portanto não está disponível em \'Dalvik Patch\',\'Patch de módulo\',\'Patch Nativo\',\'Gerar Patch\' e \'Salvar Patch\'.\n\nLembre-se :- Antes de atualizar para uma nova versão Clique em Despatch e depois em Atualizar e Patch novamente (Necessário apenas no patch de código).</string>
+    <string name="pmenu">Menu de Patches</string>
+    <string name="selloc">Selecionar Localização</string>
+    <string name="anim">Animação</string>
+    <string name="canim">Alterar animação da lista de aplicativos</string>
+    <string name="font">Fonte</string>
+    <string name="cfont">Mudar Fonte</string>
+    <string name="unipat">Patch Universal</string>
+    <string name="down">Baixar</string>
+    <string name="bati">Ativar Estrutura de 32 bits</string>
+    <string name="cbati">Use a estrutura de 32 Bits para patchear estruturas em 64 Bits\n(Está opção somente poderá ser selecionada em Firmwares de 64 Bit, O Patcher usa  estruturas de 64 Bit por definição para Patchear aplicações, Habilite esta opção se o Patch não funcionar em Firmwares de 64 Bits como alguns firmwares usados em 32 Bits mesmo se a estrutura de firmware do seu aparelho seja de 64 Bits)</string>
+	<string name="suppat">Patch de suporte</string>
+    <string name="hidtools">Ocultar ferramentas de Patches</string>
+    <string name="chidtools">Ocultar Ferramentas de Patches como: Lucky Patcher, Freedom, Game Killer de outras aplicações\n(Requer Módulo Xposed habilitado e reinicializado)</string>
+    <string name="nonbati">Firmware de 64 Bits Detectado</string>
+    <string name="cnonbati">O seu firmware é de 64 bits.\n\nPatcher usa estrutura de firmware de 64 Bits por definição em  dispositivos com firmware de 64 Bits para patchear, mas alguns firmwares utilizam firmwares de 32 Bits mesmo ele sendo um firmware de 64 Bits. Então se Patch são funcionar em dispositivos com firmwares de 64 Bits você poderá Habilitar a estruturas de firmware de 32 Bits definindo nas configurações em Patcher\'s.</string>
+    <string name="shwagn">Me Mostre novamente</string>
+    <string name="dntshwagn">Não Me Mostre Novamente</string>
+	<string name="impset">Importar Configurações</string>
+    <string name="cimpset">Importar Configurações do Dispositivo</string>
+    <string name="setimport">Configurações Importadas com Sucesso\nO aplicativo será reiniciado Agora</string>
+    <string name="setimporterror">Nenhuma configuração de backup encontrada para importação\nVocê tem certeza que a localização interna que você selecionou é a correta?</string>
+    <string name="expset">Exportar Configurações</string>
+    <string name="cexpset">Exportar Configurações do Dispositivo</string>
+    <string name="setexport">Configurações Exportadas Para</string>
+    <string name="setexporterror">Não é possível exportar configurações, este diretório não é gravável\nVocê tem certeza que a localização interna que você selecionou é a correta?</string>
+    <string name="autoupdate">Ativar Atualização Automática</string>
+    <string name="cautoupdate">Procurar por Atualizações Automaticamente</string>
+	<string name="reload">Recarregar</string>
+	<string name="hidefab">Ocultar FAB</string>
+    <string name="chidefab">Ocultar Botão de Ação Flutuante</string>
+    <string name="spf">Spoof</string>
+    <string name="apl">Aplicar</string>
+    <string name="hk">Hooker</string>
+	<string name="lm">Emulação</string>
+	<string name="rnd">Aleatória</string>
+	<string name="clr">Limpar</string>
+	<string name="clrset">Redefinir configurações</string>
+	<string name="cclrset">Redefinir configurações do Patcher</string>
+	<string name="setclr">Configurações redefinidas com êxito\nAplicação será recarregada agora</string>
+	<string name="lau">Iniciar</string>
+    <string name="sftrb">Por favor use Reinicio suave para que as mudanças tenha efeito</string>
+    <string name="search">Procurar</string>
+    <string name="ads">Remover anúncios</string>
+    <string name="strprch">Remover compras armazenadas</string>
+    <string name="selectapps">Selecione os Aplicativos</string>
+    <string name="saemu">Selecione os Aplicativos para Emular</string>
+    <string name="emuandhook">Emulação de licenças e captura de licenças não podem ser selecionados juntos...</string>
+    <string name="onlyinprem">Disponível apenas no modo Premium..\nPor favor, ative o modo Premium na opção Doar do Patcher..</string>
+    <string name="xposednotfound">Xposed não encontrado</string>
+    <string name="xposederror">Não é possível prosseguir, Xposed não encontrado..\n\nVocê instalou Xposed Framework e habilitou o módulo Patcher nele e depois reiniciou?\n\nNão sei o que é Xposed?\nExperimente pesquisar no Google.</string>
+    <string name="xposederrorbutcanwork">Não é possível emular, Xposed não encontrado..\n\nVocê instalou Xposed Framework e habilitou o módulo Patcher nele e depois reiniciou?\n\nNão sei o que é Xposed? Sem problema\n\nVocê ainda pode usar emulação de licenças e emulação de faturamento com o root, mas você precisa aplicar \'Suporte de Emulação\' Patch no patch universal para o aplicativo de destino e também manter em mente que o modo de Root de emulação não é mesmo perto de Xposed tipo de emulação que é uma qualidade.</string>
+    <string name="sptemu">Suporte de emulação</string>
+    <string name="faqs">FAQs</string>
+    <string name="unidetails">
+.......Detalhes.......\n\n
+-> Patchear :- Patch de Verificação de licença do aplicativo escolhido, Com isso é nescessario despatchear antes de atualizar o aplicativo escolhido.\n\n
+-> Despatchear :- Remove um patch de um determinado aplicativo, Isso faz aplicativo escolhido retornar para o estado de normal de sem licença, use isso antes de atualizar o aplicativo escolhido.\n\n
+-> Patch de suporte :- Patch de suporte para que os aplicativos funcione com o patch ou emulação, Deve ser aplicada antes de usar qualquer patch ou emulação.\n\n
+-> Suporte de Emulação :- Patch de um aplicativo escolhido para Licença e Emulação de faturamento para funcionar com root, Se você tem Xposed então você não precisa usar esta opção. Isto é uma alternativa da opção \'Selecionar Apps\' na emulação.\n\n
+-> Remover Anúncios :- Remover anúncios do Google do aplicativo de destino.\n\n
+        .......Notas.......\n\n
+-> Se você aplicar o patch de suporte e um patch, certifique-se que o Patch de suporte deve ser aplicado primeiro antes do patch.\n\n
+-> Somente aplicativos instalados pelo usuário com intenção de inicialização são mostrados na lista.\n
+    </string>
+    <string name="emudetails">
+        .......Detalhes.......\n\n
+-> License Emulation :- Ele não exige Play Store instalado ou conexão à Internet e redirecionar verificação de licença para Patcher, Pode ser usado sem Xposed mas exigir o patch \'Suporte de Emulação\' para o aplicativo escolhido no Patch Universal UI.\n\n
+-> Billing Emulation :- Ele não exige Play Store instalado ou conexão à Internet e redirecionar faturamento de compra para Patcher, Pode ser usado sem Xposed mas exigir o patch \'Suporte de Emulação\' para o aplicativo escolhido no Patch Universal UI.\n\n
+-> License Hook :- Exige Play Store instalado, bem como conexão à Internet na verificação e ele vai interceptar Play Store para solicitações e respostas, Xposed é obrigatório, portanto não pode ser usado sem Xposed.\n\n
+-> Selecionar Apps :- Selecione os aplicativos que você deseja emular, por padrão, todos os aplicativos instalados pelo usuário são selecionados, se você desmarcar qualquer aplicativo, a emulação é ativada, Desmarque apps que você comprou legalmente, Exigir Xposed ,se você não tem Xposed então use a opçãp \'Suporte de Emulação\' para o aplicativo escolhido no Patch Universal que é a alternativa dessa opção.\n\n
+        .......Notas.......\n\n
+->Sempre marque a opção \'Store Purchase\' para compra um item não consumível mas nunca no item consumível.\n
+Não consumível :- Premium, Pro e Etc em Aplicativos.\n
+consumível :- Ouros, Gemas e Etc em jogos.\n\n
+-> Depois de desativar a emulação de faturamento, alguns aplicativos com itens não consumíveis retornarão ao estado livre, mas quando você ativá-lo novamente, ele estará de volta ao estado comprado, por isso é melhor manter a emulação de faturamento ativada para que funcione confiável porque esses aplicativos mantem sincronização de compras.\n\n
+-> Também depois de desativar a emulação de licenças, algumas aplicações pedem licença novamente porque mantêm a sincronização de licenças, portanto, é melhor manter a emulação de licenças ativada para que ela funcione confiável.\n\n
+-> Se você tiver licenças legais ou compras legais, selecione apenas as aplicações em que deseja que a emulação funcione ou selecione todas as aplicações para emulação e, em seguida, desative todas as emulações de licenças, emulação de faturamento e gancho de licenças porque qualquer um deles ativado criará um problema Licença legal e compra, você também pode usar emulação em sua licença real ou compras vai funcionar bem na maioria dos casos.\n\n
+-> Alguns aplicativos usam a biblioteca de licenciamento antiga, quando a emulação de licenciamento está ativada e o aplicativo nem é selecionado na lista de aplicativos baseados, ainda não são licenciados para a licença legal, porque o Patcher interfere devido à biblioteca antiga do LVL e à seleção baseada no aplicativo não funcionam,Desative Emulação de Licenciamento e agora ele não vai interferir em qualquer pedido de licença, uma vez licenciado você pode ativá-lo novamente, mesmo acontece com emulação de faturamento.\n\n
+-> Se você não tiver Xposed então você pode usar a emulação da licença e do faturamento com root, ele requer o patch \'Suporte de Emulação\' no Patch Universal para o aplicativo escolhido mas mantenha na mente o tipo Root da emulação não está nivelado mesmo ao tipo Xposed da emulação que é uma qualidade.\n\n
+-> Algumas aplicações têm cheques extras para que você também possa aplicar \'Patch de suporte\' no Patch Universal para o aplicativo escolhido Para ignorar esses cheques extras e, em seguida, usar a emulação.\n\n
+-> Emulação não precisa de reinicialização suave, após ativar qualquer emulação Apenas força Parar esse aplicativo que você deseja emulação para trabalhar, mas é melhor para reinicialização suave para funcionar corretamente.\n
+    </string>
+	<string name="cuspat">Patch Personalizado</string>
+	<string name="kill">Matar Aplicativo</string>
+    <string name="clrdata">Limpar Dados</string>
+    <string name="uninst">Desinstalar</string>
+    <string name="bkup">Backup</string>
+    <string name="rstr">Restaurar</string>
+    <string name="bkapk">Backup Apk</string>
+    <string name="rsapk">Restaurar Apk</string>
+    <string name="clcacheapps">Limpar Cache dos Apps</string>
+    <string name="clcachepart">Limpar Partição de Cache</string>
+    <string name="cldlvk">Limpar Dalvik Cache</string>
+    <string name="clodex">Limpar Dalvik Odex não utilizado</string>
+    <string name="rbtsf">Reiníciar Rápido</string>
+    <string name="rbt">Reiníciar</string>
+    <string name="rbtrec">Reiníciar em Recuperação</string>
+    <string name="pwrof">Desligar</string>
+    <string name="loadicons">Desativar ícone do App</string>
+    <string name="cloadicons">Desativar o carregamento de ícones dos aplicativos e usar ícones padrão em vez disso</string>
+    <string name="hook1">Tornar todos os aplicativos debutáveis\nNOTA :- Mesmo se a propriedade debutável de aplicativos é falsa ou não está presente no Manifest.</string>
+    <string name="hook2">Desativar a verificação de depurador conectado\nNOTA :- Resultará em nenhum depurador conectado, mesmo se o depurador estiver conectado.</string>
+    <string name="hook3">Desativar a verificação de versão do android na instalação\nNOTA :-Instale o aplicativo mesmo se sua versão do Android for menor do que a aplicação da versão mínima requer.\nFunciona no Android Lollipop 5.0 e acima, abaixo pode funcionar ou não.</string>
+    <string name="hook4">Permitir aplicativos de downgrade\nNOTA :- Instale a versão mais antiga do aplicativo sobre a versão mais recente atualmente instalada.\nFunciona no Android Lollipop 5.0 e acima, abaixo pode funcionar ou não.</string>
+    <string name="hook5">Desativar verificação de assinatura\nNOTA :- Instale o mesmo aplicativo com assinatura diferente atualmente instalado com outra assinatura.\nFunciona no Android Lollipop 5.0 e acima, abaixo pode funcionar ou não.</string>
+    <string name="hook6">Desativar assinatura da APK\nNOTA :- Desative a checagem de assinatura ao instalar o APK para que você possa modificar os arquivos dentro da APK sem assinar novamente e manter a antiga assinatura do desenvolvedor.</string>
+    <string name="hook7">Desativar detecção de sobreposição\nNOTA :- pular a alerta de detecção de sobreposição do Android ao conceder permissões ou instalar aplicativos.</string>
+
+</resources>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jasi Patcher</string>
+    <string name="upd">Überprüfe nach Updates</string>
+    <string name="tss">Fehlerbehebung</string>
+    <string name="change">Änderungsverzeichnis</string>
+    <string name="set">Einstellungen</string>
+    <string name="hlp">Hilfe</string>
+    <string name="about">Über</string>
+    <string name="don">Spende</string>
+    <string name="exit">Verlassen</string>
+    <string name="pa">Patch</string>
+    <string name="to">Werkzeuge</string>
+    <string name="log">Protokoll</string>
+    <string name="genr">Allgemein</string>
+    <string name="lang">Sprache</string>
+    <string name="clang">Ändere Sprache</string>
+    <string name="orie">Orientierung</string>
+    <string name="corie">Ändere Orientierung</string>
+    <string name="othr">Andere</string>
+    <string name="vib">Vibration</string>
+    <string name="cvib">Haptisches Feedback</string>
+    <string name="hid">Verstecke Patcher</string>
+    <string name="ext">Zusätzliches</string>
+    <string name="chid">Verstecke den Patcher vor anderen Apps\n(Setzt voraus, dass das Xposed Modul aktiviert ist und das System neugestartet wurde)</string>
+    <string name="intsto">Interner Speicherpfad</string>
+    <string name="find">Folge mir</string>
+    <string name="csort">Ändere App-Reichenfolge</string>
+    <string name="sort">Sortiere</string>
+    <string name="upa">Unpatch</string>
+    <string name="app">Apps</string>
+    <string name="internal">Wähle den Internen Speicherpfad</string>
+    <string name="perm">Berechtigungen benötigt</string>
+    <string name="permmsg">Bitte erlaube alle Berechtigungen, damit diese Option funktioniert</string>
+    <string name="internalmsg">Wenn du dir nicht sicher bist, wähle \'Abbrechen\'.\n\nInterner Speicherpfad wurde nicht gesetzt\n\nNach Berechnungen, ist der interne Speicherpfad folgender: :- \n\'%1$s\'\n\nWenn dies korrekt ist, wähle \'Abbrechen\' Wenn nicht, wähle \'Wähle Speicherpfad\' Um den Speicherpfad deines Gerätes zu bestimmen.\n\nDer Speicherpfad wird von dem Patcher benutzt.\nPS Speicherpfad kann ebenfalls in den Einstellungen geändert werden.\n\nWichtig :- Wenn du einen falschen Pfad angibst, funktioniert der Patcher eventuell nicht richtig.</string>
+    <string name="selctintloc">Bitte wähle den Speicherpfad und bestätige ihn mit erneutem Klicken auf den Optionen</string>
+    <string name="plzrest">Bitte starte die App erneut, damit die Änderungen angewendet werden können</string>
+    <string name="letitchk">Bitte warte, während der Server deine Anfrage überprüft...</string>
+    <string name="intnotavai">Eine Netzwerkverbindung ist nicht aufgebaut. Bitte überprüfe deine Internetverbindung oder versuche es erneut.</string>
+    <string name="ser">Zeige im Play Store</string>
+    <string name="reb">Neustarter</string>
+    <string name="done">Änderungen angewandt. Bitte überprüfe das Ergebnis</string>
+    <string name="cach">Bereiniger</string>
+    <string name="pmenuinfo">Wichtig :- Ein "Unpatch" kann nur hier angewandt werden: \'Code Patch\',\'Lizenz Patch\' und \'Hook Patch\'. Es ist nicht verfügbar in \'Dalvik Patch\',\'Module Patch\',\'Native Patch\',\'Generate Patch\' und \'Save Patch\'.\n\nWichtig : Führe einen "Unpatch" durch, bevor du die App aktualisierst. (Wird nur in  Code Patch benötigt.).</string>
+    <string name="pmenu">Patch Menü</string>
+    <string name="selloc">Wähle den Speicherpfad</string>
+    <string name="anim">Animation</string>
+    <string name="canim">Ändere Animation von der List aller Apps</string>
+    <string name="font">Schriftart</string>
+    <string name="cfont">Ändere Schriftart</string>
+    <string name="unipat">Allgemeiner Patch</string>
+    <string name="down">Herunterladen</string>
+    <string name="bati">Aktiviere 32 Bit Instruction Set</string>
+    <string name="cbati">Benutze 32 Bit Instruction Set bei 64 Bit Firmwares für Patching\n(Kann nur bei 64 Bit Firmwares angwandt werden. Der Patcher benutzt 64 Bit Instruction Set automatisch bei 64 Bit Firmwares für Patching. Aktiviere dies nur, wenn der Patch kein Ergebnis erziehlt. Manche 64 Bit Firmares benutzen 32 Bit Instruction)</string>
+    <string name="suppat">Support Patch</string>
+    <string name="hidtools">Verstecke Patching Werkzeuge</string>
+    <string name="chidtools">Verstecke Patching Werkzeuge, wie Lucky Patcher, Freedom, Game Killer vor anderen Apps\n(Setzt voraus, dass das Xposed Modul aktiviert ist und das System neugestartet wurde)</string>
+    <string name="nonbati">64 Bit Firmware erkannt</string>
+    <string name="cnonbati">Deine Firmware ist 64 Bit.\n\nDer Patcher benutzt 64 Bit Instruction Set automatisch bei 64 Bit Firmwares für Patching. Aktiviere dies nur, wenn der Patch kein Ergebnis erziehlt. Manche 64 Bit Firmares benutzen 32 Bit Instruction)</string>
+    <string name="shwagn">Zeige es erneut</string>
+    <string name="dntshwagn">Zeige es nicht erneut</string>
+    <string name="impset">Importiere Einstellungen</string>
+    <string name="cimpset">Importiere Einstellungen vom Gerät6</string>
+    <string name="setimport">Einstellungen wurden erfolgreich importiert.\nDie App wird nun neustarten.</string>
+    <string name="setimporterror">Es wurden keine Einstellungen zum Importieren gefunden.\nBist du dir sicher, dass du den richtigen Pfad ausgewählt hast?</string>
+    <string name="expset">Exportiere Einstellungen</string>
+    <string name="cexpset">Exportiere Einstellungen zum Gerät.</string>
+    <string name="setexport">Einstellungen wurden exportiert nach: </string>
+    <string name="setexporterror">Konnte Einstellungen nicht exportieren.\nBist du dir sicher, dass du den richtigen Pfad ausgewählt hast?</string>
+    <string name="autoupdate">Aktiviere Automatische Aktualisierungen</string>
+    <string name="cautoupdate">Überpüft automatisch nach Einstellungen</string>
+    <string name="reload">Aktualisiere</string>
+    <string name="hidefab">Verstecke FAB</string>
+    <string name="chidefab">Versteckt Floating Action Button</string>
+    <string name="spf">Spoof</string>
+    <string name="apl">Anwenden</string>
+    <string name="hk">Hook</string>
+    <string name="lm">Emulation</string>
+    <string name="rnd">Zufällig</string>
+    <string name="clr">Bereinige</string>
+    <string name="clrset">Einstellungen zurücksetzen</string>
+    <string name="cclrset">Setzt die Einstellungen des Patchers zurück</string>
+    <string name="setclr">Einstellungen erfolgreich zurückgesetzt\nApp wird nun neustarten</string>
+    <string name="lau">Starte</string>
+    <string name="sftrb">Bitte starte dein Gerät neu, damit die Änderungen angewandt werden können</string>
+    <string name="search">Suche</string>
+    <string name="ads">Entferne Werbung</string>
+    <string name="strprch">Entferne gespeicherte Käufe</string>
+    <string name="selectapps">Wähle App</string>
+    <string name="saemu">Wähle die zu emulierende App</string>
+    <string name="emuandhook">Lizenz Emulation und Lizenz Hook können nicht zusammen aktiviert sein. Die andere Option wird nun deaktiviert...</string>
+    <string name="onlyinprem">Nur für Premium Benutzer verfügbar...\nAktivere den Premium Modus im Spenden Reiter...</string>
+    <string name="xposednotfound">Xposed wurde nicht gefunden</string>
+    <string name="xposederror">Konnte nicht fortfahren, da Xposed nicht installiert ist...\n\nHast du das Xposed Framework installiert und das Modul für den Patcher aktiviert (Gerät neustarten) ?\n\nDu weißt nicht, was Xposed ist?\nSuche bei Google für weitere Infos</string>
+    <string name="xposederrorbutcanwork">Konnte nicht emulieren, da Xposed nicht gefunden wurde...\n\nHast du das Xposed Framework installiert und das Modul für den Patcher aktiviert (Gerät neustarten) ?\n\nDu kannst Xposed nicht installieren?\n\nKein Problem!\n\nDu kannst weiterhin Lizenz Emulation und Billing Emulation mit Root verwenden, aber du musst  \'Support Emulate\' zu der jeweiligen App patchen. Beachte, dass diese Art von Emulation nicht so erfolgreich ist, wie eine mit Xposed Modul.</string>
+    <string name="sptemu">Support Emulate</string>
+    <string name="faqs">FAQs</string>
+    <string name="unidetails">
+	.......Details.......\n\n
+-> Patch :- Patcht die Lizenz der ausgewählten App. Bevor du die App aktualisiert, musst du einen "Unpatch" ausführen.\n\n
+-> Unpatch :- Entfernt den Patch der ausgewählten App. Entfernt ebenfalls die Lizenz, sodass diese unlizensiert ist. Sollte benutzt werden, bevor du die App aktualisierst.\n\n
+-> Support Patch :- Ein Support Patch, damit die App emuliert werden kann. Sollte angewandt werden, bevor du eine App patcht oder emulierst.\n\n
+-> Support Emulate :- Patcht die ausgewählte App, damit Lizenz Patches und Emulierungen mit Root funktionieren. Wenn du Xposed installiert hast, musst du diesen Patch nicht durchführen, da Xposed dies automatisch tut. Es ist eine Alternative zu \'Wähle App\' Option in der Emulation.\n\n
+-> Entferne Werbung :- Entfernt Werbung von der ausgewählten App\n\n
+        .......Wichtig.......\n\n
+-> Wenn du den Support Patch und beides patcht, dann beachte, dass der Support Patch zuerst ausgeführt wird.\n\n
+-> Nur vom Benutzer installierte Apps mit der Absicht ausgeführt zu werden, werden angezeigt.\n
+    </string>
+    <string name="emudetails">
+        .......Details.......\n\n
+-> Lizenz Emulation :- Play Store muss nicht installiert sein und eine Internetverbindung muss nicht hergestellt sein. Es leitet die Verifikation zum Patcher um. Es kann ohne Xposed ausgeführt werden, aber der \'Support Emulate\' Patch muss angewandt werden.\n\n
+-> Billing Emulation :- Play Store muss nicht installiert sein und eine Internetverbindung muss nicht hergestellt sein. Es leitet die Verifikation zum Patcher um. Es kann ohne Xposed ausgeführt werden, aber der \'Support Emulate\' Patch muss angewandt werden.\n\n
+-> License Hook :- Play Store muss installiert sein und eine Internetverbindung muss hergestellt worden sein. Bei der Verifikation, wird Play Store angehalten und der Patcher verifiziert die Lizenz. Xposed ist notwendig dabei und muss installiert sein.\n\n
+-> Wähle Apps :- Wähle die App aus, die emuliert werden soll. Es werden automatisch alle Apps ausgewählt. Wenn du eine App nicht auswählst, wird die App nicht gehookt. Sollte bei legal erworbenen Apps benutzt werden. Xposed ist vorrausgesetzt. Wenn du Xposed nicht installiert hast, wähle \'Support Emulate\' Option aus.\n\n
+        .......Wichtig.......\n\n
+-> Wähle aus, ob der Kauf gespeichert werden soll.\n
+Speichere Kauf :- Premium, Pro Etc für Apps.\n
+Consumable :- Coins, Gems Etc für Spiele.\n\n
+-> Nachdem Ausschalten der Billing Emulation, werden manche Apps in ihren eigenen Zustant zurückgesetzt. Wenn du es wieder aktivierst, wird die App allerdings automatisch in ihren gekauften Zustand gesetzt. Also ist es empfehlenswert Billing Emulation aktiviert zu haben, damit alles vernünftig funktioniert.\n\n
+-> Ebenfalls nach dem Ausschalten von Lizenz Emulation, werden manche Apps erneut nach einer Lizenz fragen, da sie die Lizenz mit ihren Server synchronisieren. Also ist es empfehlenswert Lizenz Emulation akviviert zu haben, damit alles richtig funktioniert.\n\n
+-> Wenn du eine Legale Lizenz oder einen Legalen Kauf besitzt, wähle nur die Apps aus, die wirklich emuliert werden sollen, da es sonst zu Komplikationen mit deinem legalen Kauf oder deiner legalen Lizenz führen kann.\n\n
+-> Manche Apps benutzen eine veraltete Lizenz Bibilothek. Wenn die Lizenz Emulation bei der App aktiviert ist, sind diese nicht legal lizensiert. LVL Bibilotheken funktionieren nicht, also deaktiviere Lizenz Emulation.\n\n
+-> Wenn du kein Xposed besitzt, kannst du eine Lizenz und Billing Emulation ausführen als Root ausführen. Es benötigt \'Support Emulate\' Patch. Beachte, dass diese Art von Emulation nicht so erfolgreich ist, wie eine mit Xposed Modul.\n\n
+-> Manche Apps besitzen eine zusätzliche Verifikation, also musst du zusätzlich den \'Support Patch\' ausführen und dann die Emulation, damit dieser umgangen wird.\n\n
+-> Eine Emulation benötigt keinen Neustart. Nach einer Emulation musst du lediglich die App vollständig beenden. Es ist trotzdem empfehlenswert, dein Gerät nach einer Emulation neuzustarten.\n
+    </string>
+	<string name="cuspat">Benutzerdefinierter Patch</string>
+	<string name="kill">Beende App</string>
+    <string name="clrdata">Lösche Daten</string>
+    <string name="uninst">Deinstalliere</string>
+    <string name="bkup">Sichere App</string>
+    <string name="rstr">App wiederherstellen</string>
+    <string name="bkapk">Sichere Apk</string>
+    <string name="rsapk">Apk wiederherstellen</string>
+    <string name="clcacheapps">Bereinige App Cache</string>
+    <string name="clcachepart">Lösche Cache Partition</string>
+    <string name="cldlvk">Lösche Dalvik Cache</string>
+    <string name="clodex">Lösche nicht verwendeten Dalvik Odex</string>
+    <string name="rbtsf">Sanfter Neustart</string>
+    <string name="rbt">Neustart</string>
+    <string name="rbtrec">Neustart in die Recovery</string>
+    <string name="pwrof">Ausschalten</string>
+    <string name="loadicons">Deaktiviere App Icons</string>
+    <string name="cloadicons">Benutze die Standart Icons anstelle der App Icons.</string>
+    <string name="hook1">Mache alle Apps Debug fähig\nNOTE :- Auch wenn eine Debug Option nicht von der App unterstützt wird (bzw. nicht im Manifest vorhanden ist)</string>
+    <string name="hook2">Deaktivier Debugger Überprüfung\nNOTE :- App wird denken, man benutze keinen Debugger.</string>
+    <string name="hook3">Deaktivere Android Versions Überprüfung beim installieren einer App\nNOTE :- Installiere die App, auch wenn die minimale SDK Version größer, als die vom System ist.\nFunktioniert bei Android Lollipop 5.0 und höher. (Darunter nur teilweise)</string>
+    <string name="hook4">Erlaube die Installation älterer Versionen\nNOTE :- Installiere eine ältere Version, als die momentane Version der App\nFunktioniert bei Android Lollipop 5.0 und höher. (Darunter nur teilweise)</string>
+    <string name="hook5">Deaktiviere Signaturen Überprüfung von Apps\nNOTE :- Installiere die selber App mit einer anderen Signatur, als die installierte App besitzt.\nFunktioniert bei Android Lollipop 5.0 und höher. (Darunter nur teilweise).</string>
+    <string name="hook6">Deaktiviere Signaturen Überprüfung von APKs\nNOTE :- Deaktiviere die Signaturen Überprüfung einer APK, sodass du die Dateien in der APK ohne einzuloggen modifizieren kannst. Behält die alte Entwickler Signatur.</string>
+    <string name="hook7">Deaktiviere "Overlay erkannt"\nNOTE :- Umgeht die Overlay Überprüfung von Android, während du eine App installierst oder ihr Berechtigungen erteilst.</string>
+
+</resources>

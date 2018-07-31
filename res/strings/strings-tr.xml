@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jasi Patcher</string>
+    <string name="upd">Güncellemeleri Kontrol Et</string>
+    <string name="tss">Sorun Giderme</string>
+    <string name="change">Değişiklikler</string>
+    <string name="set">Ayarlar</string>
+    <string name="hlp">Yardım</string>
+    <string name="about">Hakkında</string>
+    <string name="don">Bağış</string>
+    <string name="exit">Çıkış</string>
+    <string name="pa">Yamala</string>
+    <string name="to">Araçlar</string>
+    <string name="log">Döküm Kayıtları</string>
+    <string name="genr">Genel</string>
+    <string name="lang">Dil</string>
+    <string name="clang">Dili Değiştir</string>
+    <string name="orie">Yönlendirme</string>
+    <string name="corie">Yönlendirmeyi Değiştir</string>
+    <string name="othr">Diğer</string>
+    <string name="vib">Titreşim</string>
+    <string name="cvib">Dokunma Geribildirimi</string>
+    <string name="hid">Yamalayıcıyı Gizle</string>
+    <string name="ext">Ekstra</string>
+    <string name="chid">Yamalayıcıyı Diğer Uygulamalardan Gizle\n(Xposed Modülünün Aktif Edilmesini ve Yeniden Başlatma Gerektirir)</string>
+    <string name="intsto">Dahili Hafızanın Konumu</string>
+    <string name="find">Beni Bul</string>
+    <string name="csort">Uygulamaların Sıralanmasını Değiştir</string>
+    <string name="sort">Sırala</string>
+    <string name="upa">Yamayı Kaldır</string>
+    <string name="app">..Uygulamalar..</string>
+    <string name="internal">Dahili Hafızanın Konumunu Seç</string>
+    <string name="perm">İzinler Gerekli</string>
+    <string name="permmsg">Bu Özelliği Kullanabilmek İçin Lütfen Tüm İzinleri Verin...</string>
+    <string name="internalmsg">Eğer Emin Değilseniz Neredeyse Hep Doğru Olan \'İPTAL\'e Tıklayın.\n\nDahili Hafıza Konumu Ayarlanmadı\n\nHesaplamalarımıza Göre Cihazınızın Dahili Hafıza Konumu :- \n\'%1$s\'\n\nEğer Doğruysa, \'İPTAL\'e Basın Veya Yanlışsa Dahili Hafızanızın Kök Dizinini Elle Ayarlamak İçin \'KONUM SEÇ\'e Basın.\n\nBu Konum Yamalayıcının Çalışması İçin Kullanılacak.\nPS Konum Ayarlardan Yeniden Seçilebilir.\n\nNOT :- YANLIŞ Konumu Seçmek Çökmelere Veya Yamalayıcının Bazı Görevleri Yapamamasına Sebep Olabilir.</string>
+    <string name="selctintloc">Lütfen Önce Dahili Depolama Yeri Seçin Sonra Devam Etmek İçin Seçeneğe Yeniden Tıklayın..</string>
+    <string name="plzrest">Değişikliklerin Etkili Olması İçin Lütfen Uygulamayı Yeniden Başlatın!!</string>
+    <string name="letitchk">Lütfen Bekleyin, Server Kontrol Ediliyor..</string>
+    <string name="intnotavai">Internet Bağlı Değil, Devam Edilemiyor..</string>
+    <string name="ser">Play Store\'da Aç</string>
+    <string name="reb">Yeniden Başlatıcı</string>
+    <string name="done">İşlem Bitti Durumu Kontrol Edin</string>
+    <string name="cach">Temizleyici</string>
+    <string name="pmenuinfo">Not :- Yama Kaldırma Sadece \'Kod Yaması\',\'Lisans Yaması\' Ve \'Hook Yaması\'nda Yapılabilir, Yani \'Dalvik Yaması\',\'Modül Yaması\',\'Yerel Yama\',\'Yama oluştur\' Ve \'Kayıt Yaması\' İçin Yapılamaz.\n\nHatırlatma :- Yeni Versiyona Güncellemeden Önce Yamayı Kaldırmaya Basın Ve Sonra Güncelleyin ve Yeniden Yamalayın. (Sadece Kod Yamasında Gerekmektedir).</string>
+    <string name="pmenu">Patch Menüsü</string>
+    <string name="selloc">Konum Seç</string>
+    <string name="anim">Animasyon</string>
+    <string name="canim">Uygulama Listesinin Animasyonunu Değiştir</string>
+    <string name="font">Font</string>
+    <string name="cfont">Font\'u Değiştir</string>
+    <string name="unipat">Evrensel Yama</string>
+    <string name="down">İndir</string>
+    <string name="bati">32 Bit Komut Setini Etkinleştir</string>
+    <string name="cbati">Use 32 Bit Instruction Set On 64 Bit Firmwares For Patching\n(Sadece 64 Bit Yazılımlarda Seçilebilir,Yamalayıcı 64 Bit Yazılımlarda Yamalamak İçin Varsayılan Olarak 64 Bit Komut Setini Kullanır,Bu Yamayı, Yama 64 Bit Yazılımda İşe Yaramazsa Kullanın Çünkü Bazı Yazılımlar 64 Bit Olsalar Bile 32 Bit Komut Setini Kullanır.)</string>
+    <string name="suppat">Destek Yaması</string>
+    <string name="hidtools">Yama Araçlarını Gizle</string>
+    <string name="chidtools">Lucky Patcher, Freedom, Game Killer Gibi Yama Programlarını Diğer Uygulamalardan Gizle\n(Xposed Modülünün Aktif Edilmesini ve Yeniden Başlatma Gerektirir)</string>
+    <string name="nonbati">64 Bit Yazılım tespit edildi</string>
+    <string name="cnonbati">Yazılımınız 64 Bit.\n\nYamalayıcı 64 Bit Yazılımlarda Yamalamak İçin Varsayılan Olarak 64 Bit Komut Setini Kullanır Fakat Bazı Yazılımlar 64 Bit Olsalar Bile 32 Bit Komut Setini Kullanır. Yani Yama 64 Bit Yazılımlarda İşe Yaramazsa Yamalayıcının Ayarlarında Bulunan 32 Bit Komut Seti Ayarını Aktive Edebilirsiniz.</string>
+    <string name="shwagn">Daha Sonra Yeniden Göster</string>
+    <string name="dntshwagn">Yeniden Gösterme</string>
+    <string name="impset">Ayarları İçe Al</string>
+    <string name="cimpset">Ayarları Cihazdan İçe Al</string>
+    <string name="setimport">Ayarlar Başarıyla İçe Alındı\nUygulama Şimdi Yenilenecek</string>
+    <string name="setimporterror">İçe Almak İçin Ayarların Yedeği Bulunamadı\nDahili Hafızanın Konumunu Doğru Seçtiğinize Emin Misiniz ?</string>
+    <string name="expset">Ayarları Dışa Aktar</string>
+    <string name="cexpset">Ayarları Cihaza Dışa Aktar</string>
+    <string name="setexport">Ayarlar Şuraya Aktarıldı</string>
+    <string name="setexporterror">Ayarlar, Konum Yazılabilir Olmadığı İçin Dışa Aktarılamadı\nDahili Hafızanın Konumunu Doğru Seçtiğinize Emin Misiniz ?</string>
+    <string name="autoupdate">Otomatik Güncellemeyi Aktif Et</string>
+    <string name="cautoupdate">Güncellemeleri Otomatik Kontrol Et</string>
+    <string name="reload">Yenile</string>
+    <string name="hidefab">FAB\'ı Gizle</string>
+    <string name="chidefab">Hareketli Eylem Butonunu Gizle</string>
+    <string name="spf">Spoof</string>
+    <string name="apl">Uygula</string>
+    <string name="hk">Hook</string>
+    <string name="lm">Emülasyonu</string>
+    <string name="rnd">Rastgele</string>
+    <string name="clr">Temizle</string>
+    <string name="clrset">Ayarları Sıfırla</string>
+    <string name="cclrset">Patcher\'ın Ayarlarını Sıfırla</string>
+    <string name="setclr">Ayarlar Başarıyla Sıfırlandı\nUygulama Şimdi Yenilenecek</string>
+    <string name="lau">Çalıştır</string>
+    <string name="sftrb">Değişikliklerin Etkili Olabilmesi İçin Lütfen Cihazınızı Yazılımsal YENİDEN BAŞLATIN!!</string>
+    <string name="search">Ara</string>
+    <string name="ads">Reklamları Kaldır</string>
+    <string name="strprch">Kayıtlı Satın Almaları Kaldır</string>
+    <string name="selectapps">Uygulamaları Seç</string>
+    <string name="saemu">Emüle Edilecek Uygulamaları Seç</string>
+    <string name="emuandhook">Lisans Emülasyonu ve Lisans Hook Beraber Seçilemez, Diğeri Şu Anda Kapatıldı..</string>
+    <string name="onlyinprem">Sadece Premium Moda Özgüdür..\nLütfen Premium Modu Programdaki Bağış Kısmından Aktifleştirin..</string>
+    <string name="xposednotfound">Xposed Bulunamadı</string>
+    <string name="xposederror">İşlem Yapılamadı, Xposed Bulunamadı..\n\nXposed Framework\'u Yükleyip Yamalayıcının Modülünü Xposed\'tan Aktifleştirdikten Sonra Yeniden Başlattınız Mı ?\n\nXposed\'ın Ne Olduğunu Bilmiyor Musunuz ?\nGoogle\'da Aramayı Deneyin.</string>
+    <string name="xposederrorbutcanwork">Emüle Edilemedi, Xposed Bulunamadı..\n\nXposed Framework\'u Yükleyip Yamalayıcının Modülünü Xposed\'tan Aktifleştirdikten Sonra Yeniden Başlattınız Mı ?\n\nXposed Yüklü Değil Mi ? Sorun Değil\n\nLisans Emülasyonunu Ve Faturalandırma Emülasyonunu Root\'la Hala Kullanabilirsiniz Fakat Evrensel Yama Kısmından Hedef Uygulamaya \'Emülasyon Desteği\' Uygulamanız Gerekir Ve Aynı Zamanda Unutmayın Ki Root\'la Emülasyon, Xposed\'la Emülasyon Kadar Kaliteli Olmayacaktır.</string>
+    <string name="sptemu">Emülasyon Desteği</string>
+    <string name="faqs">SSS</string>
+    <string name="unidetails">
+	.......Detaylar.......\n\n
+-> Yama :- Hedef Uygulamanın Lisans Kontrolünü Yamalayın, Hedef Uygulamayı Güncellemeden Önce Yamayı Kaldırmak Gerekir.\n\n
+-> Yamayı Kaldır :- Hedef Uygulamadan Yamayı Kaldırır, Hedef Uygulamayı Normal Lisanssız Haline Döndürür, Hedef Uygulamayı Güncellemeden Önce Yamayı Kaldırmak İçin Kullanılmalıdır.\n\n
+-> Destek Yaması :- Uygulamaların Yamalama Veya Emülasyonla Çalışması İçin Destek Yamasıdır, Yamalama Veya Emülasyondan Önce Uygulanmalıdır.\n\n
+-> Emülasyon Desteği :- Hedef Uygulamayı Lisans Ve Faturalandırma Emülasyonunun Root\'la Çalışabilmesi İçin Yamala, Eğer Xposed\'a Sahipseniz Xposed Modülü Bu İşlevi Yaptığından Buna İhtiyacınız Yoktur, Bu Emülasyondaki \'Uygulamaları Seç\' Seçeneğinin Alternatifidir.\n\n
+-> Reklamları Kaldır :- Hedef Uygulamadan Google Reklamlarını Kaldır.\n\n
+        .......Not.......\n\n
+-> Eğer Hem Destek Yaması Hem De Yamayı Uygularsanız, Destek Yamasının Normal Yamadan Önce Uygulandığından Emin Olun.\n\n
+-> Listede Sadece Kullanıcı Uygulamaları Gösterilir.\n
+    </string>
+    <string name="emudetails">
+        .......Ayrıntılar.......\n\n
+-> Lisans Emülasyonu :- Play Store Veya Internet Bağlantısı Gerektirmez. Lisans Kontrolünü Patcher.a Yönlendirir, Xposed Kullanılmadan Kullanılabilir \'Support Emulate\' Yama Uygulamasını UI üzerinden uygular.\n\n
+-> Faturalandırma :- Play Store veya Internet bağlantısı gerektirmez. Ve Faturalama Satıcısına Yeniden Yönlendirir, Xposed Kullanılmadan Kullanılabilir  \'Support Emulate\' Yama Uygulamasını UI üzerinden Uygular.\n\n
+-> Lisans Kancası :- Internet Bağlantısı ve Doğru Olarak Yüklenen Play Store Gerektirir. İstek ve cevaplar için Play Store müdahale edecek. Xposed Zorunlu Olduğundan Xposed Olmadan Kullanılamaz.\n\n
+-> Uygulama Seç :- Aşmak istediğiniz Uygulamaları seçin. Varsayılan Olarak Tüm Yüklenen Uygulamalar Seçili Gelebilir. Satın aldığınız uygulamaları seçmemeye dikkat ediniz ve satın aldığınız uygulamaların işaretini kaldırın. Eğer Xposed yoksa, xposed gerekebilir ve \'Support Emulate\' bu Seçeneğin alternatifi Universal Patch uygulanabilir..\n\n
+        .......Notlar.......\n\n
+-> Her zaman kontrol et \'Mağazadan Satın Al\' Süresiz ürün satın alırken seçilebilecek seçenek. Asla süresi bitmez..\n
+Süresizler :- Premium, Pro Uygulamalar vb.\n
+Süreliler :- Paralar, Oyunlarda Taşlar Vb.\n\n
+-> Fatura emülasyonunu Kapattıktan Sonra, Süresiz Bazı Uygulamalar Geri Dönecektir. Ama Tekrar Açtığınızda Bu Durum Sorun Olmayacaktır. Bu yüzden Fatura Emülasyonunu Açık Tutmak Daha İyi Olur. Bu nedenle Çalışır olmalı. Çünkü Bu Uygulamalar Güvenilirdir. Satın Alma İşlemlerini Senkronize Edebilirsiniz.\n\n
+-> Lisans Emülasyonunu Kapattıktan Sonra, Bazı Uygulamalar Lisansı Senkronize Etmeye Devam Ettikleri İçin Yeniden Lisans İsteyebilirler. Bu yüzden Lisans Emülasyonunu Korumak Daha İyi Olur. Bu şekilde daha güvenli çalışırlar.\n\n
+-> Eğer yasal lisans veya yasal Satın Alma varsa, sadece emülasyonu çalışmak istediğiniz uygulamaları seçin ya da Emülasyonu için tüm uygulamaları seçtikten sonra gerçek lisanslı uygulamalarınızın işaretlemisini kaldırın. Aksi durumda gerçekten lisanslı bulunan uygulamalarınızda sorunlar yaşayabilirsiniz. Bu durumda uyguluma iyi çalışacaktır.\n\n
+-> Bazı Uygulamalar Eski Lisans Kitaplığını Kullanarak Lisans Alma Emülasyonu Açık Olduğunda, Uygulamaya Dayalı Listeye Göre Seçilmediğinden Hala Lisanslı Değildir uyarısı verebilir. Çünkü Lisanslılar Eski LVL Kitaplığı ve Uygulamaya Dayalı Seçim Nedeniyle Parazit Yapmazlar. Lisanslama Emülasyonu Ve Artık Lisans İsteğinde Müdahale Edilmeyecek, Lisans Verildikten Sonra Geri Gelebilir, Fatura Emülasyonu İle Aynı Olabilir.\n\n
+-> Eğer Xposed Yoksa O Zaman Lisans Ve Root İle Fatura Emülasyonu Kullanabilirsiniz, bu  \'Destek Yaması\' evrensen yamadan hedef uygulamaya yama yapabilir. Ama Emülasyon Root Türü Xposed modülü kadar iyi değildir. Unutmayın .\n\n
+-> Bazı Uygulamalarda Ekstra kutucuklar var. Sen de Seçebilirsin. \'Destek Yaması\' Ekstra kutucukları baypas etmek için Evrensel Patch uygulayabilirsiniz.\n\n
+-> Emulasyon yaptıktan sonra yeniden başlatmaya gerek yoktur. Sadece ilgili uygulamayı durdurun ve yeniden başlatın. Ama her zaman yeniden başlatmayı öneririz.\n
+    </string>
+    <string name="cuspat">Özel Yama</string>
+    <string name="kill">Uygulamayı Öldür</string>
+    <string name="clrdata">Veriyi Sil</string>
+    <string name="uninst">Kaldır</string>
+    <string name="bkup">Yedekle</string>
+    <string name="rstr">Geri Yükle</string>
+    <string name="bkapk">Apk\'yı Yedekle</string>
+    <string name="rsapk">Apk\'yı Geri Yükle</string>
+    <string name="clcacheapps">Uygulamaların Ön Belleğini Temizle</string>
+    <string name="clcachepart">Ön Belleği Bölümünü Sil</string>
+    <string name="cldlvk">Dalvik Ön Belleğini Sil</string>
+    <string name="clodex">Kullanılmayan Dalvik Odexlerini Sil</string>
+    <string name="rbtsf">Yazılımsal Yeniden Başlatma</string>
+    <string name="rbt">Yeniden Başlat</string>
+    <string name="rbtrec">Kurtarma Modunda Başlat</string>
+    <string name="pwrof">Kapat</string>
+    <string name="loadicons">Uygulama İkonlarını Devre Dışı Bırak</string>
+    <string name="cloadicons">Uygulama İkonlarının Yüklenmesini Devre Dışı Bırak Ve Yerine Varsayılan İkonları Kullan</string>
+    <string name="hook1">Tüm Uygulamaları Hata Ayıklanabilir Yap\nNOT :- Uygulamaların Hata Ayıklanabilme Özelliği Kapalı Veya Manifestosunda Olmasa Bile.</string>
+    <string name="hook2">Hata Ayıklayıcı Bağlantısı Kontrolünü Devre Dışı Bırak\nNOT :- Hata Ayıklayıcı Bağlı Olsa Bile Hiçbir Hata Ayıklayıcı Bağlı Değille Sonuçlanacaktır.</string>
+    <string name="hook3">Yüklemelerde Android Versiyon Kontrolünü Devre Dışı Bırak\nNOT :- Uygulamaları Android Versiyonunuz Uygulamanın Gerektirdiği Minimum Android Versiyonundan Düşük Olsa Bile Yükler.\nAndroid Lollipop 5.0 Ve Üstünde Çalışır, Daha Düşük Sürümlerde Çalışadabilir, Çalışmayadabilir.</string>
+    <string name="hook4">Versiyon Düşürmeye İzin Ver\nNOT :- Uygulamaların Şu Anda Yüklü Olan Yeni Versiyonlarının Üzerine Eski Versiyonlarını Yüklemeye İzin Ver.\nAndroid Lollipop 5.0 Ve Üstünde Çalışır, Daha Düşük Sürümlerde Çalışadabilir, Çalışmayadabilir.</string>
+    <string name="hook5">İmza Kontrolünü Devre Dışı Bırak\nNOT :- Aynı Uygulamanın Farklı İmzaya Sahip Versiyonunu Şu Anda Yüklenmiş Farklı İmzalı Uygulamanın Üzerine Yükle.\nAndroid Lollipop 5.0 Ve Üstünde Çalışır, Daha Düşük Sürümlerde Çalışadabilir, Çalışmayadabilir.</string>
+    <string name="hook6">APK İmza Kontrolünü Devre Dışı Bırak\nNOT :- APK Yüklerken İmza Kontrolünü Devre Dışı Bırakın Ve Bu Sayede APK İçindeki Dosyaları APK\'yı Tekrar İmzalamaya Gerek Kalmadan Geliştiricinin İmzası Saklı Kalarak Değiştirin.</string>
+    <string name="hook7">Kaplama Bulundu Uyarısını Devre Dışı Bırak\nNOT :- Uygulama Yüklerken Veya İzin Verirken Çıkan Kaplama Bulundu Kutucuğunu Bypass Et.</string>
+
+</resources>

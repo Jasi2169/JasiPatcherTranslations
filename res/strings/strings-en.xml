@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jasi Patcher</string>
+    <string name="upd">Check For Updates</string>
+    <string name="tss">Troubleshooting</string>
+    <string name="change">Changelogs</string>
+    <string name="set">Settings</string>
+    <string name="hlp">Help</string>
+    <string name="about">About</string>
+    <string name="don">Donate</string>
+    <string name="exit">Exit</string>
+    <string name="pa">Patch</string>
+    <string name="to">Tools</string>
+    <string name="log">Dump Logs</string>
+    <string name="genr">General</string>
+    <string name="lang">Language</string>
+    <string name="clang">Change Language</string>
+    <string name="orie">Orientation</string>
+    <string name="corie">Change Orientation</string>
+    <string name="othr">Other</string>
+    <string name="vib">Vibration</string>
+    <string name="cvib">Haptic Feedback</string>
+    <string name="hid">Hide Patcher</string>
+    <string name="ext">Extra</string>
+    <string name="chid">Hide Patcher From Other Apps\n(Requires Xposed Module Enabled And Rebooted)</string>
+    <string name="intsto">Internal Storage Location</string>
+    <string name="find">Find Me</string>
+    <string name="csort">Change Sort Order Of Apps</string>
+    <string name="sort">Sort</string>
+    <string name="upa">Unpatch</string>
+    <string name="app">..Apps..</string>
+    <string name="internal">Select Internal Storage Location</string>
+    <string name="perm">Permissions Required</string>
+    <string name="permmsg">Please Grant All Permissions To Use This Option...</string>
+    <string name="internalmsg">If You Are Not Sure Click \'CANCEL\' As It Is Almost Correct.\n\nInternal Storage Location Is Not Set\n\nAs Per Our Calculation Your Device Internal Storage Location Is :- \n\'%1$s\'\n\nIf It Is Correct,Then Press \'CANCEL\' Or If It Is Wrong Then Press \'SELECT LOCATION\' To Select Root Folder Of Your Internal Storage Manually.\n\nThis Location Will Be Used For Patcher Work.\nPS Location Can Also Be Reselect In Settings.\n\nNOTE :- Selecting WRONG Location May Lead To Crashes Or Patcher May Fail In Some Tasks.</string>
+    <string name="selctintloc">Please Select Internal Storage Location First Then Click Option Again To Proceed..</string>
+    <string name="plzrest">Please Restart The App For Changes To Take Effect!!</string>
+    <string name="letitchk">Please Wait Let It Check Server..</string>
+    <string name="intnotavai">Internet Is Not Available Can\'t Proceed..</string>
+    <string name="ser">Find On Play Store</string>
+    <string name="reb">Rebooter</string>
+    <string name="done">Processing Done Check Status</string>
+    <string name="cach">Cleaner</string>
+    <string name="pmenuinfo">Note :- Unpatch Can Only Be Done In \'Code Patch\',\'License Patch\' And \'Hook Patch\',So It Is Not Available In \'Dalvik Patch\',\'Module Patch\',\'Native Patch\',\'Generate Patch\' And \'Save Patch\'.\n\nRemember :- Before Updating To New Version Click Unpatch And Then Update And Patch Again (Required Only In Code Patch).</string>
+    <string name="pmenu">Patch Menu</string>
+    <string name="selloc">Select Location</string>
+    <string name="anim">Animation</string>
+    <string name="canim">Change Animation Of Apps List</string>
+    <string name="font">Font</string>
+    <string name="cfont">Change Font</string>
+    <string name="unipat">Universal Patch</string>
+    <string name="down">Download</string>
+    <string name="bati">Enable 32 Bit Instruction Set</string>
+    <string name="cbati">Use 32 Bit Instruction Set On 64 Bit Firmwares For Patching\n(Only Can Be Selected On 64 Bit Firmwares,Patcher Uses 64 Bit Instruction Set By Default On 64 Bit Firmwares For Patching,Enable This If Patch Does Not Result In Patching On 64 Bit Firmwares As Some Firmwares Uses 32 Bit Instruction Set Even Its 64 Bit Firmware)</string>
+    <string name="suppat">Support Patch</string>
+    <string name="hidtools">Hide Patching Tools</string>
+    <string name="chidtools">Hide Patching Tools Like Lucky Patcher, Freedom, Game Killer From Other Apps\n(Requires Xposed Module Enabled And Rebooted)</string>
+    <string name="nonbati">64 Bit Firmware Detected</string>
+    <string name="cnonbati">Your Firmware Is 64 Bit.\n\nPatcher Uses 64 Bit Instruction Set By Default On 64 Bit Firmwares For Patching But Some Firmwares Uses 32 Bit Instruction Set Even Its 64 Bit Firmware So If Patch Does Not Result In Patching On 64 Bit Firmwares Then You Can Enable 32 Bit Instruction Set Available In Patcher\'s Settings Then Try Patching Again.</string>
+    <string name="shwagn">Show Me Again</string>
+    <string name="dntshwagn">Don\'t Show Me Again</string>
+    <string name="impset">Import Settings</string>
+    <string name="cimpset">Import Settings From Device</string>
+    <string name="setimport">Settings Imported Successfully\nApplication Will Reload Now</string>
+    <string name="setimporterror">No Settings Backup Found To Import\nAre You Sure Internal Location You Selected Is Right ?</string>
+    <string name="expset">Export Settings</string>
+    <string name="cexpset">Export Settings To Device</string>
+    <string name="setexport">Settings Exported To</string>
+    <string name="setexporterror">Can\'t Export Settings As Directory Is Not Writable\nAre You Sure Internal Location You Selected Is Right ?</string>
+    <string name="autoupdate">Enable AutoUpdate</string>
+    <string name="cautoupdate">Check For Updates Automatically</string>
+    <string name="reload">Reload</string>
+    <string name="hidefab">Hide FAB</string>
+    <string name="chidefab">Hide Floating Action Button</string>
+    <string name="spf">Spoof</string>
+    <string name="apl">Apply</string>
+    <string name="hk">Hook</string>
+    <string name="lm">Emulation</string>
+    <string name="rnd">Random</string>
+    <string name="clr">Clear</string>
+    <string name="clrset">Reset Settings</string>
+    <string name="cclrset">Reset Settings Of Patcher</string>
+    <string name="setclr">Settings Reset Successfully\nApplication Will Reload Now</string>
+    <string name="lau">Launch</string>
+    <string name="sftrb">Please Soft REBOOT The Device For Changes To Take Effect Properly!!</string>
+    <string name="search">Search</string>
+    <string name="ads">Remove Ads</string>
+    <string name="strprch">Remove Stored Purchases</string>
+    <string name="selectapps">Select Apps</string>
+    <string name="saemu">Select Apps To Emulate</string>
+    <string name="emuandhook">License Emulation And License Hook Can Not Be Selected Together,The Other One Is Turned Off Now..</string>
+    <string name="onlyinprem">Available Only In Premium Mode..\nPlease Enable Premium Mode From Donate Option In Patcher..</string>
+    <string name="xposednotfound">Xposed Not Found</string>
+    <string name="xposederror">Can\'t Proceed, Xposed Not Found..\n\nDid You Installed Xposed Framework And Enabled Patcher Module In It And Then Rebooted ?\n\nDo Not Know What Is Xposed ?\nTry Search Google.</string>
+    <string name="xposederrorbutcanwork">Can\'t Emulate, Xposed Not Found..\n\nDid You Installed Xposed Framework And Enabled Patcher Module In It And Then Rebooted ?\n\nDo Not Have Xposed ? No Problem\n\nYou Can Still Use License Emulation And Billing Emulation With Root But You Need To Apply \'Support Emulate\' Patch From Universal Patch To Target App And Also Keep In Mind Root Kind Of Emulation Is Not Even Close To Xposed Kind Of Emulation Which Is A Quality.</string>
+    <string name="sptemu">Support Emulate</string>
+    <string name="faqs">FAQs</string>
+    <string name="unidetails">
+	.......Details.......\n\n
+-> Patch :- Patch License Check Of The Target App, It Need To Be Unpatch Before Updating The Target App.\n\n
+-> Unpatch :- Remove Patch From The Target App, It Returns Target App To Normal Unlicensed State, Should Be Used To Remove Patch Before Updating The Target App.\n\n
+-> Support Patch :- Support Patch For Apps To Work With Patch Or Emulation, Should Be Applied First Before Using Either Patch Or Emulation.\n\n
+-> Support Emulate :- Patch Target App For License And Billing Emulation To Work With Root, If You Have Xposed Then You Do Not Need This As Xposed Module Will Take Care Of This Itself, It Is Alternate Of \'Select Apps\' Option In Emulation.\n\n
+-> Remove Ads :- Remove Google Ads From The Target App.\n\n
+        .......Note.......\n\n
+-> If You Apply Support Patch And Patch Both Then Make Sure Support Patch Should Be Applied First Before Patch.\n\n
+-> Only User Installed Apps Are Shown In List.\n
+    </string>
+    <string name="emudetails">
+        .......Details.......\n\n
+-> License Emulation :- It Does Not Require Play Store Installed Or Internet Connection And It Redirect License Check To Patcher, It Can Be Used Without Xposed But Require \'Support Emulate\' Patch To Target App From Universal Patch UI.\n\n
+-> Billing Emulation :- It Does Not Require Play Store Installed Or Internet Connection And It Redirect Billing Purchase To Patcher, It Can Be Used Without Xposed But Require \'Support Emulate\' Patch To Target App From Universal Patch UI.\n\n
+-> License Hook (Removed In v3.0) :- It Does Require Play Store Installed As Well As Internet Connection On Verification And It Will Intercept Play Store For Requests And Responses, Xposed Is Mandatory So Can Not Be Used Without Xposed.\n\n
+-> Select Apps :- Select The Apps You Want To Emulate, By Default All User Installed Apps Are Selected, If You Unselect Any App Then Even If Emulation Is Turned ON That App Won\'t Be Hooked, Should Be Used To Exclude Legal Bought Apps, It Require Xposed So If You Do Not Have Xposed Then Use \'Support Emulate\' Option On Target App From Universal Patch Which Is Alternate Of This Option.\n\n
+        .......Note.......\n\n
+-> Always Check \'Store Purchase\' Option While Purchasing A Non Consumable Item But Never In Consumable Item.\n
+Non Consumable :- Premium, Pro Etc In Apps.\n
+Consumable :- Coins, Gems Etc In Games.\n\n
+-> After Turning OFF Billing Emulation, Some Apps With Non Consumable Items Will Revert Back To Free State But When You Turn It ON Again It Will Be Back To Bought State, So It Is Better To Keep Billing Emulation Turned ON So It Work Reliable Because These Apps Keep Synchronizing Purchases.\n\n
+-> Also After Turning OFF License Emulation, Some Apps Ask For License Again Because They Keep Synchronizing License, So It Is Better To Keep License Emulation Turned ON So It Work Reliable.\n\n
+-> If You Have Legal License Or Legal Purchases, Either Only Select Those Apps You Want Emulation To Work On Or If You Selected All Apps For Emulation Then Turn OFF All License Emulation, Billing Emulation And License Hook Because Anyone Of Them Turned ON Will Create Problem In Legal License And Purchase, You Can Also Use Emulation On Your Real License Or Purchases It Will Work Fine In Most Of The Cases.\n\n
+-> Some Apps Use Old Licensing Library, When Licensing Emulation Is Turned On And App Is Not Even Selected In Per App Based List Still They Are Not Licensed From Legal License Because Patcher Interfere Due To Old LVL Library And Per App Based Selection Do Not Work So Turn Off Licensing Emulation And Now It Will Not Interfere In Any License Request, Once Licensed You Can Turn It On Back, Same Goes With Billing Emulation.\n\n
+-> If You Do Not Have Xposed Then You Can Use License And Billing Emulation With Root, It Requires \'Support Emulate\' Patch From Universal Patch To Target App But Keep In Mind Root Kind Of Emulation Is Not Even Close To Xposed Kind Of Emulation Which Is A Quality.\n\n
+-> Some Applications Have Extra Checks So You Can Also Apply \'Support Patch\' From Universal Patch To Target App To Bypass Those Extra Checks And Then Use Emulation.\n\n
+-> Emulation Does Not Need Soft Reboot, After Enabling Any Emulation Just Force Stop That App You Want Emulation To Work On, But It Is Better To Soft Reboot To Work Properly.\n
+    </string>
+    <string name="cuspat">Custom Patch</string>
+    <string name="kill">Kill App</string>
+    <string name="clrdata">Clear Data</string>
+    <string name="uninst">Uninstall</string>
+    <string name="bkup">Backup</string>
+    <string name="rstr">Restore</string>
+    <string name="bkapk">Backup Apk</string>
+    <string name="rsapk">Restore Apk</string>
+    <string name="clcacheapps">Clean Apps Cache</string>
+    <string name="clcachepart">Wipe Cache Partition</string>
+    <string name="cldlvk">Wipe Dalvik Cache</string>
+    <string name="clodex">Wipe Unused Dalvik Odex</string>
+    <string name="rbtsf">Soft Reboot</string>
+    <string name="rbt">Reboot</string>
+    <string name="rbtrec">Reboot Recovery</string>
+    <string name="pwrof">Power Off</string>
+    <string name="loadicons">Disable App Icons</string>
+    <string name="cloadicons">Disable Loading Of Application Icons And Use Default Icons Instead</string>
+    <string name="hook1">Make All Apps Debuggable\nNOTE :- Even If Debuggable Property Of Apps Is False Or Not Present In Manifest.</string>
+    <string name="hook2">Disable Debugger Connected Check\nNOTE :- Will Result In No Debugger Connected,Even If Debugger Is Connected.</string>
+    <string name="hook3">Disable Android Version Check On Install\nNOTE :- Install The App Even If Your Android Version Is Less Than The Minimum Version App Requires.\nIt Works On Android Lollipop 5.0 And Above,On Below It May Work Or May Not.</string>
+    <string name="hook4">Allow Downgrade Apps\nNOTE :- Install The Older Version Of App Over Newer Version Currently Installed.\nIt Works On Android Lollipop 5.0 And Above,On Below It May Work Or May Not.</string>
+    <string name="hook5">Disable Signature Check\nNOTE :- Install The Same App With Different Signature Over Currently Installed With Other Signature.\nIt Works On Android Lollipop 5.0 And Above,On Below It May Work Or May Not.</string>
+    <string name="hook6">Disable Signature Of APK\nNOTE :- Disable Signature Check While Installing APK So You Can Modify The Files Inside APK Without Signing It Again And Keeping The Old Developer Signature.</string>
+    <string name="hook7">Disable Overlay Detected\nNOTE :- Bypass Overlay Detected Pop Up By Android While Granting Permissions Or Installing Apps.</string>
+    <string name="shwsa">Show System Apps</string>
+    <string name="theme">Themes</string>
+    <string name="ctheme">Change Theme Of Patcher</string>
+    <string name="settheme">Theme Changed Successfully\nApplication Will Reload Now</string>
+    <string name="hidedetails">Hide Device Details</string>
+    <string name="chidedetails">Hide Device Details On Dashboard</string>
+    <string name="shwaa">Show Apps Without Permissions</string>
+    <string name="bkdta">Backup Data</string>
+    <string name="rsdta">Restore Data</string>
+    <string name="rbdwn">Reboot Download</string>
+    <string name="rbbut">Reboot Bootloader</string>
+    <string name="rbsfm">Reboot Safe Mode</string>
+
+</resources>

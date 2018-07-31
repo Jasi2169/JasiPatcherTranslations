@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jasi 破解器</string>
+    <string name="upd">檢查更新</string>
+    <string name="tss">故障排解</string>
+    <string name="change">更新日誌</string>
+    <string name="set">設定</string>
+    <string name="hlp">幫助</string>
+    <string name="about">關於</string>
+    <string name="don">捐獻</string>
+    <string name="exit">退出</string>
+    <string name="pa">破解</string>
+    <string name="to">工具</string>
+    <string name="log">轉儲日誌</string>
+    <string name="genr">一般選項</string>
+    <string name="lang">語言</string>
+    <string name="clang">更改語言</string>
+    <string name="orie">屏幕方向</string>
+    <string name="corie">更改屏幕方向</string>
+    <string name="othr">其它</string>
+    <string name="vib">振動</string>
+    <string name="cvib">觸控時振動</string>
+    <string name="hid">隱藏破解器</string>
+    <string name="ext">額外</string>
+    <string name="chid">於其它應用中隱藏破解器 (需要啟用 Xposed模組，並重新啟動系統)</string>
+    <string name="intsto">內部存儲位置</string>
+    <string name="find">聯繫我們</string>
+	<string name="csort">更改應用的排序模式</string>
+    <string name="sort">排序</string>
+    <string name="upa">取消破解</string>
+    <string name="app">..應用..</string>
+	<string name="internal">選擇內部存儲位置</string>
+    <string name="perm">需要權限</string>
+    <string name="permmsg">要使用此選項，請授予本程式所有權限...</string> 
+    <string name="internalmsg">如果你不確定，請點擊 \'取消\' 因為程式判斷一般都是正確的.\n\n未設置內部存儲位置\n\n根據計算您的設備內部存儲位置是 :- \n\'%1$s\'\n\n如果正確，請選擇 \'取消\' 或如果它是錯誤，請點擊 \'選擇存儲位置\' 用手動方式，選擇您的內部存儲位置的根資料夾.\n\n 此位置會被用於破解器工作.\n您亦可以在設定中重新選擇內部存儲位置.\n\n注意 :- 選擇錯誤位置有可能導致破解器崩潰或進行某些程式破解時失敗！</string>
+	<string name="selctintloc">請首先設定內部存儲位置，然後再次點擊此選項繼續...</string>
+    <string name="plzrest">要使更改生效，請重新啟動破解器!!</string>
+    <string name="letitchk">破解器正檢查服務器，請等待...</string>
+    <string name="intnotavai">網絡不可用，無法執行...</string>
+    <string name="ser">在 Google Play上找尋</string>
+    <string name="reb">重新啟動系統</string>
+    <string name="done">處理完成，正檢查狀態</string>
+    <string name="cach">清理器</string>
+    <string name="pmenuinfo">注意 :- 「取消破解」選項只能在 \'代碼破解\'、\'授權驗證破解\' 和 \'Xposed 掛鉤破解\',中使用，因此它在 \'代碼緩存破解\'、\'模組破解\'、\'庫文件破解\'、\'生成補丁\' 及 \'數據儲存破解\'中不能使用.\n\n請記住 :- 如果你有應用使用「代碼破解」在更新被破解的應用前，請點擊「取消破解」然後到安裝新版本後，再破解該應用一次 (僅在「代碼破解」中需要).</string>
+    <string name="pmenu">破解選單</string>
+    <string name="selloc">選擇存儲位置</string>
+    <string name="anim">動畫</string>
+    <string name="canim">更改應用程式列表的動畫</string>
+    <string name="font">字體</string>
+    <string name="cfont">更改字體</string>
+    <string name="unipat">通用破解</string>
+    <string name="down">下載</string>
+    <string name="bati">啟用 32位元指令集</string>
+    <string name="cbati">在 64位元固件上，使用 32位元指令集進行破解\n(此選項只能在 64位元固件上選擇，破解器預設會在 64位元固件上，使用 64位元指令集行破解，但有些 64位元固件可能需要使用 32位元指令集. 如果破解器在 64位元固件上破解無效，請選擇此選項)</string>
+	<string name="suppat">支持破解</string>
+    <string name="hidtools">隱藏破解工具</string>
+    <string name="chidtools">從其它應用程式中隱藏破解工具，如幸運破解器、Freedom、八門神器 \n( 需要 Xposed模塊啟用且重啟系統)</string>
+    <string name="nonbati">檢測到 64位元固件</string>
+    <string name="cnonbati">你正在使用 64位元固件.\n\n破解器預設會在 64位元固件上，使用 64位元指令集行破解，但有些 64位元固件可能需要使用 32位元指令集. 所以，如果破解器在 64位元固件上無效，請在設定裡選擇[ 啟用 32位元指令集 ]</string>
+    <string name="shwagn">再顯示我</string>
+    <string name="dntshwagn">不要再顯示</string>
+	<string name="impset">導入設置</string>
+    <string name="cimpset">從設備導入設置</string>
+    <string name="setimport">設置導入成功\n應用程式將立即重新加載</string>
+    <string name="setimporterror">未找到供導入的[設置備份]\n您確定您選擇的內部位置正確嗎？</string>
+    <string name="expset">導出設置</string>
+    <string name="cexpset">導出設置到設備</string>
+    <string name="setexport">將設置導出到</string>
+    <string name="setexporterror">無法導出設置為目錄不可寫入\n您確定您選擇的內部位置正確嗎？</string>
+    <string name="autoupdate">啟用自動更新</string>
+    <string name="cautoupdate">自動檢查更新</string>
+	<string name="reload">重新加載</string>
+	<string name="hidefab">隱藏 FAB</string>
+    <string name="chidefab">隱藏 Floating Action Button</string>
+    <string name="spf">欺騙</string>
+    <string name="apl">應用更改</string>
+    <string name="hk">鉤</string>
+	<string name="lm">仿真</string> 
+	<string name="rnd">隨機</string> 
+	<string name="clr">清除</string> 
+	<string name="clrset">重新設置</string> 
+	<string name="cclrset">重置破解程式的設置</string> 
+	<string name="setclr">恢復設置成功\n應用程式將立即重新加載</string> 
+	<string name="lau">啟動</string>
+    <string name="sftrb">請軟重啟設備讓更改能正常生效！！</string>
+    <string name="search">搜尋</string>
+    <string name="ads">移除廣告</string>
+    <string name="strprch">刪除已存儲的購買</string>
+    <string name="selectapps">選擇應用程式</string>
+    <string name="saemu">選擇要仿真破解的應用程式</string>
+    <string name="emuandhook">許可證仿真破解和許可掛鉤不能同時選擇，請現在關閉其中一項..</string>
+    <string name="onlyinprem">僅在高級模式下可用..\n請從 Patcher 捐贈選項中啟用高級模式..</string>
+    <string name="xposednotfound">沒有找到 Xposed 程式</string>
+    <string name="xposederror">沒有找到 Xposed 程式,不能繼續..\n\n你須安裝 Xposed 框架並啟用 Patcher 程式模塊，然後重新啟動設備?\n\n如不知道 Xposed是什麼?\n請嘗試從 Google搜尋.</string>
+    <string name="xposederrorbutcanwork">沒有找到 Xposed 程式,不能仿真..\n\n你是否安裝了 Xposed 框架並啟用了 Patcher 程式模塊，然後重新啟動設備?\n\n如沒有 Xposed？ 沒有問題\n\n您仍然可以使用許可證仿真破解和計費仿真破解，(但您設備需要 Root)\'支持仿真破解\'破解從通用破解到目標應用程式，還要牢記 Root 類型的仿真破解甚至不接近 Xposed 類型仿真破解的哪個質量.</string>
+    <string name="sptemu">支持仿真破解</string>
+    <string name="faqs">常見問題-及-解答</string>
+    <string name="unidetails">
+	.......詳細.......\n\n
+-> 破解 :- 目標應用程式的破解許可證檢查, 在更新目標應用程式之前需要取消破解.\n\n
+-> 取消破解 :- 從目標應用程式中解除破解，它將目標應用程式返回到正常未破解的無許可狀態，應該用於在更新目標應用程式之前解除破解.\n\n
+-> 支持破解 :- 支持應用程式使用破解或仿真破解, 在使用破解或仿真破解之前該先應用.\n\n
+-> 支持仿真破解 :- 許可證仿真破解和計費仿真破解工作予 Root 模式下，, 如果你有 Xposed 你不需要這個為 Xposed 模塊將會照顧自己, 這是替代 \'選擇應用程式\' 仿真破解選項.\n\n
+-> 刪除廣告 :- 從目標應用程式中刪除 Google 的廣告.\n\n
+        .......注意.......\n\n
+-> 如果您使用支持破解和破解這兩項，請確保支持破解必需在破解之前應用.\n\n
+-> 只要用戶安裝的應用程式具有啟動意圖即顯示在列表中.\n
+    </string>
+    <string name="emudetails">
+        .......詳細.......\n\n
+-> 許可證仿真破解 :- 它不需要 Play商店安裝或互聯網連接，並在 Patcher重定向許可證檢查，它可以在沒有 Xposed中使用但需要 \'支持仿真破解\' 從通用破解的使用介面中來定位破解目標應用程式.\n\n
+-> 計費仿真破解 :- 它不需要 Play商店安裝或互聯網連接，並在 Patcher重定向帳單購買，它可以在沒有 Xposed中使用但需要 \'支持仿真破解\' 從通用破解的使用介面中來定位破解目標應用程式.\n\n
+-> 許可掛鉤 :- 它不需要 Play商店安裝以及互聯網連接驗證，它會攔截 Play商店的請求和回應， Xposed是強制性的，所以不能在沒有 Xposed下使用.\n\n
+-> 選擇應用程式 :- 選擇您要仿真破解的應用程式，預設情況下，所有用戶安裝的應用程式都被勾選的，如果您取消勾選任何應用程式，即使仿真破解被打開，該應用程式不被勾選生效，應該用於排除法定購買的應用程式，它需要 Xposed所以如果你沒有 Xposed而使用 \'支持仿真破解\' 選項在目標應用程式從通用破解中替代這個選項.\n\n
+        .......注意.......\n\n
+-> 總是檢查 \'商店購買\' 選擇購買非消耗品項目，但從來沒有在消耗品項目.\n
+非消耗品 :- Premium, Pro Etc In Apps.\n
+消耗品 :- Coins, Gems Etc In Games.\n\n
+-> 在關閉計費仿真破解之後，一些具有不消耗品的應用程式將恢復到未購買的狀態，但是當您再次打開後它將重新恢復購買狀態，所以最好保持計費仿真破解被打開，讓這些應用程式工作更可靠，一直保持購買同步.\n\n
+-> 在關閉許可證仿真破解之後，一些應用程式再次請求許可證，因為它們是保持同步許可證的，所以最好保持許可證仿真破解被打開，讓這些應用程式工作更可靠.\n\n
+-> 如果您有合法許可或合法購買，請選擇您想要仿真破解的應用程式，或者如果您選擇所有應用程式進行仿真破解，然後關閉所有許可證仿真破解，計費仿真破解和許可證掛鉤，因為任何人打開將創建問題合法許可和購買，您還可以在您的實際許可證上使用仿真破解或購買它將在大多數情況下工.\n\n
+-> 一些應用程式使用舊的許可證庫，當許可證仿真被啟用和應用程式甚至不選擇在每個基於應用程式的列表仍然他們沒有從法律許可執照，由於舊的LVL庫和每個基於應用程式的選擇不起作用，所以關閉許可證仿真，現在它不會干擾任何許可證請求，一旦許可你可以把它打開，相同的計費仿真.\n\n
+-> 如果你沒有Xposed，那麼你可以使用許可證和計費仿真在 Root 模式下，它需要 \'支持仿真破解\' 破解從通用破解到目標應用程式，但保持 Root 種類的仿真破解甚至不接近 Xposed 類型仿真破解的哪個質量.\n\n
+-> 某些應用程式有額外的檢查，所以你也可以從通用破解應用 \'支持破解\' 目標應用程式繞過那些額外的檢查然後使用仿真破解.\n\n
+-> 仿真破解不需要軟重新啟動，啟用任何仿真破解後，只需強制停止該應用程式，您想要仿真破解正常工作，最好迎是軟重新啟動設備.\n
+    </string>
+	<string name="cuspat">自訂破解</string>
+    <string name="kill">強制停止</string>
+    <string name="clrdata">清除數據</string>
+    <string name="uninst">卸載</string>
+    <string name="bkup">備份</string>
+    <string name="rstr">恢復</string>
+    <string name="bkapk">備份 Apk檔案</string>
+    <string name="rsapk">恢復 Apk檔案</string>
+    <string name="clcacheapps">清除應用程式緩存</string>
+    <string name="clcachepart">清理 Cache緩存分區</string>
+    <string name="cldlvk">清理虛擬機緩存</string>
+    <string name="clodex">清理未使用的虛擬機緩存破解 Odex文件</string>
+    <string name="rbtsf">軟重啟</string>
+    <string name="rbt">重啟</string>
+    <string name="rbtrec">重啟至恢復模式</string>
+    <string name="pwrof">關機</string>
+    <string name="loadicons">不啟用應用圖標</string>
+    <string name="cloadicons">不加載應用程式圖標，並使用預設圖標來顯示</string>
+    <string name="hook1">讓所有應用變為可調試狀態
+\n注意 :- 即使應用程式的可調試性錯誤或應用不允許調試.</string>
+    <string name="hook2">禁止調試器連接檢查\n注意 :- 將導致沒有調試器連接，即使實際上調試器已經連接.</string>
+    <string name="hook3">禁止在安裝程式時進行 Android版本檢查\n注意 :- 在安裝應用時，即使 Android版本低於安裝應用要求的最低版本也能夠安裝.\n此功能理論上對Android  Lollipop 5.0及以上有效，但在5.0以下也有可能會生效.</string>
+    <string name="hook4">允許降級安裝應用\n注意 :- 使用舊版本的應用覆蓋安裝新版本應用.\n此功能理論上對Android  Lollipop 5.0及以上有效，但在5.0以下也有可能會生效.</string>
+    <string name="hook5">禁止簽名檢查\n注意 :- 安裝相同的應用程式來覆蓋當前已安裝不同簽名的相同應用程式.\n此功能理論上對Android  Lollipop 5.0及以上有效，但在5.0以下也有可能會生效.</string>
+    <string name="hook6">禁止 Apk檔案簽名檢查\n注意 :- 禁用 APK檔案簽名檢查，在修改 APK檔後無需對其再次簽名即可安裝，即在修改的同時保留原開發者的簽名.</string>
+    <string name="hook7">禁用覆蓋檢測\n注意 :- 在允許授權或安裝應用程式時，由 Android彈出.</string>
+
+</resources>

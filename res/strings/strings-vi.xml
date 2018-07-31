@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jasi Patcher</string>
+    <string name="upd">Kiểm tra cập nhật</string>
+    <string name="tss">Tìm pan</string>
+    <string name="change">Các thay đổi</string>
+    <string name="set">Cài đặt</string>
+    <string name="hlp">Trợ giúp</string>
+    <string name="about">Về ứng dụng</string>
+    <string name="don">Đóng góp</string>
+    <string name="exit">Thoát</string>
+    <string name="pa">Kiểu vá</string>
+    <string name="to">Công cụ</string>
+    <string name="log">Nhật ký kết xuất</string>
+    <string name="genr">Chung</string>
+    <string name="lang">Ngôn ngữ</string>
+    <string name="clang">Đổi ngôn ngữ</string>
+    <string name="orie">Hướng xoay</string>
+    <string name="corie">Đổi hướng xoay</string>
+    <string name="othr">Khác</string>
+    <string name="vib">Rung</string>
+    <string name="cvib">Phản hồi chạm</string>
+    <string name="hid">Ẩn bản vá</string>
+    <string name="ext">Bổ sung</string>
+    <string name="chid">Ẩn bản vá với ứng dụng khác\n(Yêu cầu bật Xposed Module và khởi động lại)</string>
+    <string name="intsto">Vị trí bộ nhớ trong</string>
+    <string name="find">Tìm tôi</string>
+    <string name="csort">Đổi thứ tự sắp xếp ứng dụng</string>
+    <string name="sort">Sắp thứ tự</string>
+    <string name="upa">Hủy vá</string>
+    <string name="app">..Ứng dụng..</string>
+    <string name="internal">Chọn vị trí bộ nhớ trong</string>
+    <string name="perm">Yêu cầu cấp phép</string>
+    <string name="permmsg">Vui lòng cấp phép toàn bộ để dùng tùy chọn này...</string>
+    <string name="internalmsg">Nếu không chắc chắn click \'CANCEL\' Hầu như đúng.\n\nChưa set vị trí bộ nhớ trong\n\nTheo tính toán vị trí bộ nhớ trong của thiết bị là :- \n\'%1$s\'\n\nNếu đúng, nhấn \'CANCEL\' Or Nếu sai nhấn \'SELECT LOCATION\' Để chọn thủ công thư mục root của bộ nhớ trong.\n\nVị trí này sẽ được dùng cho tác vụ vá.\nPS Có thề chọn lại vị trí trong cài đặt.\n\nLƯU Ý :- Chọn sai vị trí có thể gây xung đột hoặc bản vá không thể hoạt động trong một số tác vụ.</string>
+    <string name="selctintloc">Vui lòng chọn vị trí bộ nhớ trong rồi click Tùy Chọn lần nữa để tiến hành..</string>
+    <string name="plzrest">Vui lòng khởi động lại ứng dụng để cập nhật thay đổi!!</string>
+    <string name="letitchk">Vui lòng chờ kiểm tra Server..</string>
+    <string name="intnotavai">Không thể tiến hành do mạng không khả dụng..</string>
+    <string name="ser">Tìm trong chợ ứng dụng</string>
+    <string name="reb">Khở động lại</string>
+    <string name="done">Xử lý xong kiểm tra trạng thái</string>
+    <string name="cach">Dọn dẹp</string>
+    <string name="pmenuinfo">Lưu ý :- Hủy vá chỉ có thể thực hiện trong \'Vá code\',\'Vá bản quyền\' And \'Vá kết nối\',Vì vậy nó không khả dụng trong \'Vá Dalvik\',\'Vá mô-đun\',\'Vá tự nhiên\',\'Vá tạo ra\' And \'Vá khi lưu\'.\n\nNên nhớ :- Click Hủy Vá trước khi thực hiện cập nhật phiên bản mới rồi vá lại khi cập nhật xong (Chỉ yêu cầu trong Vá Code).</string>
+    <string name="pmenu">Trình Đơn Vá</string>
+    <string name="selloc">Chọn vị trí</string>
+	<string name="anim">Ảnh động</string>
+    <string name="canim">Thay ảnh động của danh sách ứng dụng</string>
+    <string name="font">Kiểu chữ</string>
+    <string name="cfont">Đổi kiểu chữ</string>
+    <string name="unipat">Vá đa năng</string>
+    <string name="down">Tải về</string>
+    <string name="bati">Kích hoạt tập lệnh 32 Bit</string>
+    <string name="cbati">Dùng tập lệnh 32 Bit trên Firmware 64 Bit để vá\n(Chỉ chọn được trên Firmware 64 Bit, Kiểu vá dùng tập lệnh 64 Bit trên Firmware 64 Bit để vá theo mặc định , kích hoạt lựa chọn này nếu vá không có kết quả trên Firmware 64 Bit vì một số Firmware dùng tập lệnh 32 Bit  ngay cả trong Firmware 64 Bit của nó)</string>
+	<string name="suppat">Hỗ trợ vá</string>
+    <string name="hidtools">Ẩn công cụ vá</string>
+    <string name="chidtools">Ẩn công cụ vá như Lucky Patcher, Freedom, Game Killer từ các ứng dụng khác\n(Cần kích hoạt mô-đun Xposed và khởi động lại)</string>
+    <string name="nonbati">Phát hiện Firmware 64 Bit</string>
+    <string name="cnonbati">Firmware của bạn là 64 Bit.\n\nKiểu vá dùng tập lệnh 64 Bit trên Firmware 64 Bit để vá theo mặc định nhưng một số Firmware sử dụng tập lệnh 32 Bit ngay cả trong Firmware 64 Bit của nó nên nếu vá không có kết quả trên Firmware 64 Bit thì bạn có thể kích hoạt tập lệnh 32 Bit có sẵn trong kiểu vá\'s Cài đặt.</string>
+    <string name="shwagn">Cho tôi xem lần nữa</string>
+    <string name="dntshwagn">Đừng cho tôi xem lại</string>
+	<string name="impset">Nhập cấu hình</string>
+    <string name="cimpset">Nhập cấu hình từ thiết bị</string>
+    <string name="setimport">Cấu hình đã nhập thành công\nBây giờ ứng dụng sẽ được nạp lại</string>
+    <string name="setimporterror">Không tìm thấy bản sao lưu cấu hình nào để nhập vào\nBạn có chắc chắn vị trí lưu trữ đã chọn là đúng?</string>
+    <string name="expset">Xuất cấu hình</string>
+    <string name="cexpset">Xuất cấu hình đến thiết bị</string>
+    <string name="setexport">Cấu hình được xuất đến</string>
+    <string name="setexporterror">Không thể xuất cấu hình do thư mục không thể ghi được\nBạn có chắc chắn vị trí lưu trữ đã chọn là đúng?</string>
+    <string name="autoupdate">Kích hoạt tự động cập nhật</string>
+    <string name="cautoupdate">Tự động kiểm tra các cập nhật</string>
+	<string name="reload">Tải lại</string>
+	<string name="hidefab">Ẩn công FAB</string>
+    <string name="chidefab">Ẩn công Floating Action Button</string>
+    <string name="spf">Phỉnh chơi</string>
+    <string name="apl">áp dụng các thay đổi</string>
+    <string name="hk">Cái móc</string>
+	<string name="lm">Thi đua</string>
+	<string name="rnd">Ngẫu nhiên</string>
+	<string name="clr">Xóa</string>
+	<string name="clrset">Reset Cài đặt</string>
+	<string name="cclrset">Reset Cài đặt của miếng vá</string>
+	<string name="setclr">Reset Cài đặt thành công\nỨng dụng sẽ tải lại bây giờ</string>
+	<string name="lau">Khởi tạo</string>
+    <string name="sftrb">Vui lòng khởi động lại thiết bị để thay đổi có hiệu lực!!</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="ads">Gỡ bỏ quảng cáo</string>
+    <string name="strprch">Gỡ bỏ mua hàng đã lưu trữ</string>
+    <string name="selectapps">Chọn ứng dụng</string>
+    <string name="saemu">Chọn ứng dụng để giả lập</string>
+    <string name="emuandhook">Mô Phỏng Giấy Phép và Trích Xuất Giấy Phép không thể chọn đồng thời, bây giờ một cái sẽ bị tắt..</string>
+    <string name="onlyinprem">Chỉ khả dụng trong chế độ Premium..\nVui lòng bật chế độ Premium từ Tùy Chọn Đóng Góp trong Bộ Vá..</string>
+    <string name="xposednotfound">Không tìm thấy Xposed</string>
+    <string name="xposederror">Không thể tiến hành, không tìm thấy Xposed..\n\nBạn có cài đặt Xposed Framework và bật Mô-đun Bộ Vá trong nó và khởi động lại chưa ?\n\nKhông biết Xposed là gì ?\nHãy tìm trên Google</string>
+    <string name="xposederrorbutcanwork">Không thể mô phỏng, không tìm thấy Xposed..\n\nBạn có cài đặt Xposed Framework và bật Mô-đun Bộ Vá trong nó và khởi động lại chưa ?\n\nKhông có Xposed ? Không sao\n\nBạn vẫn có thể giả lập Giấy Phép và giả lập Thanh Toán với Rootnhưng cần phải áp dụng \'Hỗ Trợ Giả Lập\' Vá từ Vá Đa Năng đến ứng dụng đích và nên nhớ rằng giả lập Root không thể có chất lượng như giả lập Xposed.</string>
+    <string name="sptemu">Hỗ Trợ Giả Lập</string>
+    <string name="faqs">Những câu hỏi thường gặp</string>
+    <string name="unidetails">
+	.......Chi tiết.......\n\n
+-> Vá :- Vá kiểm tra giấy phép của ứng dụng đích, cần phải gỡ vá trước khi cập nhật ứng dụng.\n\n
+-> Bỏ Vá :- Gỡ vá ứng dụng đích, trả ứng dụng đích về trạng thái không giấp phép, phải sử dụng để gỡ vá trước khi cập nhật ứng dụng.\n\n
+-> Vá Hỗ Trợ :- Vá Hỗ Trợ ứng dụng để hoạt động với Vá hoặc Giả Lập, phải được áp dụng trước khi dùng Vá hoặc Giả Lập.\n\n
+-> Hỗ Trợ Giả Lập :- Vá ứng dụng đích để giả lập vá và giả lập thanh toán hoạt động với root, nếu có Exposed thì không cần nữa vì Mô-đun Xposed sẽ làm việc này, đây là thay thế của \'Chọn ứng dụng\' Tùy chọn giả lập.\n\n
+-> Gỡ bỏ quảng cáo :- Gỡ bỏ quảng cáo Google từ ứng dụng đích.\n\n
+        .......Ghi chú.......\n\n
+-> Nếu sử dụng Vá và Vá Hỗ Trợ cùng lúc thì phải đảm bảo áp dụng Vá Hỗ Trợ trước Vá.\n\n
+-> Chỉ những ứng dụng do người dùng cài đặt với Launch Intent được liệt kê.\n
+    </string>
+    <string name="emudetails">
+        .......Chi tiết.......\n\n
+-> Giả Lập Giấy Phép:- Không cần cài Play Store hoặc kết nối Internet mà tự dẫn hướng Kiểm Tra Giấy Phép đến Bộ Vá, có thể dùng không có Xposed nhưng yêu cầu \'Hỗ Trợ Giả Lập\' Vá ứng dụng đích từ giao diện Vá Đa Năng.\n\n
+-> Giả Lập Thanh Toán :- Không cần cài Play Store hoặc kết nối Internet mà tự dẫn hướng Thanh Toán Mua Hàng đến Bộ Vá, có thể dùng không có Xposed nhưng yêu cầu \'Hỗ Trợ Giả Lập\' Vá ứng dụng đích từ giao diện Vá Đa Năng.\n\n
+-> Trích Xuất Giấy Phép :- Không cần cài Play Store hoặc kết nối Internet khi xác minh mà tự chặn Kho Ứng Dụng khi có yêu cầu, bắt buộc phải có Xposed khi sử dụng.\n\n
+-> Chọn ứng dụng :- Chọn ứng dụng muốn giả lập, mặc định tất cả ứng dụng người dùng cài đặt đều được chọn, nếu bỏ chọn bất kỳ ứng dụng nào thì ứng dụng đó không trích xuất giấy phép dù giả lập được bật, phải được dùng để loại những ứng dụng mua hợp pháp, cần có Xposed nên nếu không có Xposed thì dùng \'Hỗ Trợ Giả Lập\' Tùy chọn trên ứng dụng đích từ vá đa năng xem như thay thế cho tùy chọn này.\n\n
+        .......Ghi chú.......\n\n
+-> Luôn kiểm tra \'Mua từ kho ứng dụng\' Tùy chọn khi mua một mục không tiêu thụ được nhưng không bao giờ nằm trong mục tiêu thụ được.\n
+Không tiêu thụ được :- Premium, Pro v.v... In Apps.\n
+Tiêu thụ được :- Coins, Gems v.v... trong trò chơi.\n\n
+-> Sau khi tắt Giả  Lập Thanh Toán, một số ứng dụng với các mục không tiêu thụ được sẽ quay về trạng thái miễn phí nhưng khi bật lại ứng dụng sẽ quay lại trạng thái đã mua, vì vậy tốt nhất nên bật Giả Lập Thanh Toán để nó hoạt động tin cậy vì các ứng dụng này luôn đồng bộ việc mua hàng.\n\n
+-> Cũng như vậy khi tắt Giả Lập Giấy Phép, một số ứng dụng yêu cầu giấy phép trở lại vì giấy phép luôn được đồng bộ, vì vậy tốt nhất nên bật Giả Lập Giấy Phép để nó hoạt động tin cậy.\n\n
+-> Nếu có giấy phép hoặc mua hàng hợp pháp, hoặc chỉ chọn những ứng dụng muốn giả lập hoạt động hoặc chọn tất cả ứng dụng để giả lập rồi tắt tất cả Giả Lập Giấy Phép, Giả Lập Thanh Toán và Móc Giấy Phép vì một trong số chúng được bật sẽ gây sự cố cho giấy phép hợp lệ, có thể dùng giả lập trên giấy phép mua hàng thực và nó sẽ hoạt động tốt trong hầu hết các trường hợp.\n\n
+-> Một số ứng dụng sử dụng thư viện giấy phép cũ, khi Giả Lập Giấy Phép được bật và ngay cả ứng dụng không được chọn trong danh sách chúng sẽ không được cấp giấy phép vì Bộ Vá xung đột do thư viện cũ và chức năng chọn ứng dụng không hoạt động, khi ấy tắt giả lập Giấy Phép để nó không xung đột với bất kỳ yêu cầu giấy phép nào, khi có giấy phép thì có thể bật lại, làm giống như vậy với Giả Lập Thanh Toán.\n\n
+-> Nếu không có Xposed thì có thể dùng Giả Lập Giấy Phép và Thanh Toán với root, yêu cầu \'Hỗ Trợ Giả Lập\' Vá từ Vá Đa Năng cho ứng dụng đích nhưng luôn nhớ rằng loại giả lập root không giống với loại giả lập Xposed về chất lượng.\n\n
+-> Một số ứng dụng có các kiểm tra phụ vì vậy cũng có thể áp dụng \'Vá Hỗ Trợ\' Từ Vá Đa Năng đến ứng dụng đích để bỏ qua các kiểm tra phụ rồi dùng Giả Lập.\n\n
+-> Giả lập không cần khởi động lại, sau khi cho phép bất kỳ giả lập nào chỉ cần buộc dừng ứng dụng muốn giả lập, nhưng tốt hơn hết nên khởi động lại để hoạt động được tốt.\n
+    </string>
+	<string name="cuspat">Vá tùy chỉnh</string>
+	<string name="kill">Đóng ứng dụng</string>
+    <string name="clrdata">Xóa dữ liệu</string>
+    <string name="uninst">Gỡ cài đặt</string>
+    <string name="bkup">Sao lưu</string>
+    <string name="rstr">Phục hồi</string>
+    <string name="bkapk">Sao lưu Apk</string>
+    <string name="rsapk">Phục hồi Apk</string>
+    <string name="clcacheapps">Xóa cache ứng dụng</string>
+    <string name="clcachepart">Làm sạch phân vùng cache</string>
+    <string name="cldlvk">Làm sạch Dalvik Cache</string>
+    <string name="clodex">Làm sạch Dalvik Odex không sử dụng</string>
+    <string name="rbtsf">Khởi động mềm</string>
+    <string name="rbt">Khởi động lại</string>
+    <string name="rbtrec">Khởi động lại khôi phục</string>
+    <string name="pwrof">Tắt máy</string>
+    <string name="loadicons">Vô hiệu hóa icon ứng dụng</string>
+    <string name="cloadicons">Vô hiệu hóa nạp icon ứng dụng và thay thế bằng icon mặc định</string>
+    <string name="hook1">Làm cho tất cả ứng dụng có thể dò lỗi\nNOTE :- Ngay cả đặc tính có thể dò lỗi của ứng dụng bị lỗi hoặc không có trong Manifest.</string>
+    <string name="hook2">Vô hiệu hóa kiểm tra bộ dò lỗi\nNOTE :- Sẽ dẫn đến không kết nối bộ dò lỗi, ngay cả khi bộ dò lỗi được kết nối.</string>
+    <string name="hook3">Vô hiệu hóa kiểm tra phiên bản Android khi cài đặt\nNOTE :- Cài đặt ứng dụng ngay cả khi phiên bản Android của bạn thấp hơn yêu cầu tối thiểu.\nNó hoạt động trên Android Lollipop 5.0 trở lên,nếu thấp hơn nó có thể hoạt động hoặc không.</string>
+    <string name="hook4">Cho phép hạ cấp ứng dụng\nNOTE :- Cài đặt ứng dụng phiên bản thấp lên phiên bản mới hơn đang có.\nNó hoạt động trên Android Lollipop 5.0 trở lên,nếu thấp hơn nó có thể hoạt động hoặc không.</string>
+    <string name="hook5">Disable Signature Check\nNOTE :- Cài đặt cùng một ứng dụng với chữ ký khác nhau lên ứng dụng đang có với chữ ký khác.\nNó hoạt động trên Android Lollipop 5.0 trở lên,nếu thấp hơn nó có thể hoạt động hoặc không.</string>
+    <string name="hook6">Vô hiệu hóa chữ ký của APK\nNOTE :- Vô hiệu hóa kiểm tra chữ ký khi cài đặt APK để có thể sửa đổi các tệp bên trong APK mà không phải sign nó lại và giữ nguyên chữ ký cũ của nhà phát triển.</string>
+    <string name="hook7">Vô hiệu hóa Overlay được tìm thấy\nNOTE :- Bỏ qua Overlay tìm thấy xuất hiện bởi Android khi cấp phép hoặc cài ứng dụng.</string>
+
+</resources>

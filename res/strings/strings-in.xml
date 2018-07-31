@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jasi Patcher</string>
+    <string name="upd">Cek Pembaruan</string>
+    <string name="tss">Troubleshooting</string>
+    <string name="change">Perubahan</string>
+    <string name="set">Setelan</string>
+    <string name="hlp">Bantuan</string>
+    <string name="about">Tentang</string>
+    <string name="don">Donasi</string>
+    <string name="exit">Keluar</string>
+    <string name="pa">Patch</string>
+    <string name="to">Alat</string>
+    <string name="log">Dump Log</string>
+    <string name="genr">Umum</string>
+    <string name="lang">Bahasa</string>
+    <string name="clang">Ubah Bahasa</string>
+    <string name="orie">Orientasi</string>
+    <string name="corie">Ubah Orientasi</string>
+    <string name="othr">Lainnya</string>
+    <string name="vib">Getar</string>
+    <string name="cvib">Sentuhan Bergetar</string>
+    <string name="hid">Sembunyikan Patcher</string>
+    <string name="ext">Ekstra</string>
+    <string name="chid">Sembunyikan Patcher Dari Apl Lain\n(Modul Xposed Harus Diaktifkan Dan Restart)</string>
+    <string name="intsto">Lokasi Penyimpanan Internal</string>
+    <string name="find">Temukan Saya</string>
+    <string name="csort">Ubah Urutan Apl</string>
+    <string name="sort">Urutkan</string>
+    <string name="upa">Unpatch</string>
+    <string name="app">..Apl..</string>
+    <string name="internal">Pilih Lokasi Penyimpan Internal</string>
+    <string name="perm">Diperlukan Perijinan</string>
+    <string name="permmsg">Harap Ijinkan Semua Perijinan Untuk Menggunakan Opsi Ini...</string>
+    <string name="internalmsg">Jika Anda Tidak Yakin Klik \'BATAL\' Sebab Ini Hampir Selalu Cocok.\n\nLokasi Penyimpanan Internal Tidak Ditentukan\n\nMenurut Perhitungan Kami Lokasi Penyimpan Internal Perangkat Anda Adalah :- \n\'%1$s\'\n\nJika Ini Benar,Maka Tekan \'BATAL\' Atau Jika Salah Maka Tekan \'PILIH LOKASI\' Untuk Memilih Folder Akar Dari Penyimpanan Internal Secara Manual.\n\nLokasi Ini Akan Digunakan Patcher Bekerja.\nNB Lokasi Juga Dapat Dipilih Ulang Di Setelan.\n\nCATATAN :- Memilih Lokasi Yang SALAH Bisa Membuat Crash Atau Patcher Gagal Menjalankan Beberapa Proses.</string>
+    <string name="selctintloc">Pertama-tama Harap Pilih Lokasi Penyimpan Internal Kemudian Klik Opsi Lagi Untuk Melanjutkan..</string>
+    <string name="plzrest">Harap Mulai Ulang Apl Agar Perubahan Dapat Diterapkan!!</string>
+    <string name="letitchk">Harap Tunggu Biarkan Apl Mengecek Server..</string>
+    <string name="intnotavai">Internet Tidak Tersedia, Tidak Dapat Melanjutkan..</string>
+    <string name="ser">Temukan Di Play Store</string>
+    <string name="reb">Mulai Ulang</string>
+    <string name="done">Selesai Memproses Cek Status</string>
+    <string name="cach">Pembersih</string>
+    <string name="pmenuinfo">Catatan :- Unpatch Hanya Dapat Dilakukan Di \'Patch Kode\',\'Patch Lisensi\' And \'Patch Pengalihan\',Jadi Ini Tidak Tersedia Di \'Patch Dalvik\',\'Patch Modul\',\'Patch Asli\',\'Patch Menghasilkan\' Dan \'Patch Aman\'.\n\nIngat :- Sebelum Memperbarui Ke Versi Baru Klik Unpatch Dan Kemudian Update Dan Patch Ulang (Dibutuhkan Hanya Di Patch Kode).</string>
+    <string name="pmenu">Menu Patch</string>
+    <string name="selloc">Pilih Lokasi</string>
+    <string name="anim">Animasi</string>
+    <string name="canim">Ubah Animasi Daftar Apl</string>
+    <string name="font">Font</string>
+    <string name="cfont">Ubah Font</string>
+    <string name="unipat">Patch Universal</string>
+    <string name="down">Download</string>
+    <string name="bati">Aktifkan Set Instruksi 32 Bit</string>
+    <string name="cbati">Menggunakan Set Instruksi 32 Bit Pada Firmware 64 Bit Untuk Mem-patch\n(Hanya Dapat Dipilih Pada Firmware 64 Bit,Patcher Menggunakan Set Instruksi 64 Bit Sebagai Default Pada 64 Bit Firmwares Untuk Mem-patch, Aktifkan Ini Jika Patch Tidak Ada Hasil Saat Mem-patch Pada Firmware 64 Bit Karena Beberapa Firmware Menggunakan Set Instruksi 32 Bit Walaupun Firmware Tersebut 64 Bit)</string>
+    <string name="suppat">Patch Didukung</string>
+    <string name="hidtools">Sembunyikan Alat Patch</string>
+    <string name="chidtools">Menyembunyikan Alat Patch Seperti Lucky Patcher, Freedom, Game Killer Dari Apl Lain\n(Modul Xposed Harus Diaktifkan Dan Restart)</string>
+    <string name="nonbati">Firmware 64 Bit Terdeteksi</string>
+    <string name="cnonbati">Firmware Anda 64 Bit.\n\nPatcher Menggunakan 64 Bit Set Instruksi Untuk Defaultnya Pada Firmware 64 Bit Untuk Mem-patch Tetapi Beberapa Firmware Menggunakan Set Instruksi 32 Bit Walaupun Firmware Tersebut 64 Bit Jadi Jika Patch Tidak Ada Hasil Saat Patch Pada Firmware 64 Bit Maka Anda Dapat Mengaktifkan Set Instruksi 32 Bit Yang Tersedia Di Setelan Patcher.</string>
+    <string name="shwagn">Tampilkan Lagi</string>
+    <string name="dntshwagn">Jangan Tampilkan Lagi</string>
+    <string name="impset">Impor Setelan</string>
+    <string name="cimpset">Impor Setelan Dari Perangkat</string>
+    <string name="setimport">Setelan Berhasil Diimpor \nAplikasi Akan Memuat Ulang Sekarang</string>
+    <string name="setimporterror">Tidak Ada Cadangan Ditemukan Untuk Diimport\nAnda Yakin Lokasi Penyimpanan Internal Yang Anda Pilih Benar ?</string>
+    <string name="expset">Ekspor Setelan</string>
+    <string name="cexpset">Ekspor Setelan Ke Perangkat</string>
+    <string name="setexport">Setelan Diekspor Ke</string>
+    <string name="setexporterror">Tidak Dapat Mengekspor Karena Direktori Tidak Dapat Dituliskan File\nAnda Yakin Lokasi Penyimpanan Internal Yang Anda Pilih Benar ?</string>
+    <string name="autoupdate">Aktifkan Pembaruan Otomatis</string>
+    <string name="cautoupdate">Mengecek Pembaruan Otomatis</string>
+    <string name="reload">Muat Ulang</string>
+    <string name="hidefab">Sembunyikan FAB</string>
+    <string name="chidefab">Sembunyikan Tombol Aksi Mengambang</string>
+    <string name="spf">Spoof</string>
+    <string name="apl">Terapkan</string>
+    <string name="hk">Pengalihan</string>
+    <string name="lm">Emulasi</string>
+    <string name="rnd">Acak</string>
+    <string name="clr">Bersihkan</string>
+    <string name="clrset">Setel Ulang Setelan</string>
+    <string name="cclrset">Menyetel Ulang Setelan Patcher</string>
+    <string name="setclr">Berhasil Menyetel Ulang Setelan\nAplikasi Akan Memuat Ulang Sekarang</string>
+    <string name="lau">Luncurkan</string>
+    <string name="sftrb">Harap Soft REBOOT perangkat agar perubahan diterapkan dengan sempurna!!</string>
+    <string name="search">Cari</string>
+    <string name="ads">Hapus Iklan</string>
+    <string name="strprch">Hapus pembelian tersimpa </string>
+    <string name="selectapps">Pilih app</string>
+    <string name="saemu">Pilih app untuk diemulasikan</string>    
+   <string name="emuandhook">Emulasi dan Pengalihan tidak dapat dipilih secara bersamaan, salah satu dimatikan..</string>
+    <string name="onlyinprem">Hanya tersedia di Mode Premium..\nHarap aktifkan Mode Premium dari opsi Donasi di Patcher..</string>
+    <string name="xposednotfound">Xposed tidak ditemukan</string>
+    <string name="xposederror">Tidak dapat melanjutkan, Xposed tidak ditemukan..\n\nApakah Anda sudah memasang Xposed Framework dan mengaktifkan Module Patcher dan reboot?\n\nTidak tahu apa itu Xposed ?\nSilahkan mencoba mencari di Google</string>
+    <string name="xposederrorbutcanwork">Tidak dapat mengemulasi, Xposed tidak ditemukan..\n\nApakah Anda sudah memasang Xposed Framework dan mengaktifkan Module Patcher dan reboot ?\n\nTidak memiliki Xposed ? Tidak masalah\n\nAnda tetap dapat menggunakan Emulasi Lisensi dan Emulasi Pembayaran dengan Root tetapi Anda harus mengaktifkan Patch \'Dukungan Emulasi\' dari Patch Universal ke app yang dituju dan juga harap diingat keakuratan jenis emulasi root tidaklah sama dengan jenis emulasi Xposed.</string>
+    <string name="sptemu">Dukungan Emulasi</string>
+    <string name="faqs">FAQs</string>
+    <string name="unidetails">.......Rincian.......\n\n
+-> Patch :- Patch lisensi cek app target, perlu di Unpatch sebelum update app target.\n\n
+-> Unpatch :- Menghilangkan patch dari app target, mengembalikan app ke status normal tidak berlisensi, digunakan untuk menghilangkan patch sebelum update app target.\n\n
+-> Dukungan Patch :- Mendukung patch untuk app agar bekerja dengan Patch atau Emulasi, diaktifkan pertama kali sebelum menggunakan Patch atau Emulasi.\n\n
+-> Dukungan Emulasi :- Patch app target agar Emulasi Lisensi dan Pembayaran bekerja dengan Root, jika anda mempunyai Xposed, maka Anda tidak membutuhkannya karena Module Xposed yang akan menghandle, tindakan ini pengganti dari opsi \'Pilih App\' di Emulasi.\n\n
+-> Hapus Iklan:- Hapus Iklan Google dari app target.\n\n
+        .......Catatan.......\n\n
+-> Jika anda menerapkan Dukungan Patch dan juga Patch maka pastikan Dukungan Patch diterapkan terlebih dahulu sebelum Patch.\n\n
+-> Hanya app pengguna yang terinstall dengan intent peluncuran yang ditampilkan di daftar.\n
+    </string>
+    <string name="emudetails">
+        .......Rincian.......\n\n
+-> Emulasi Lisensi :- Tidak membutuhkan Play Store atau koneksi internet dan ini akan mengalihkan pengecekan lisensi ke Patcher, Dapat digunakan tanpa Xposed tetapi membutuhkan Patch \'Dukungan Emulasi\' untuk target app dari UI patch universal.\n\n
+-> Emulasi Pembayaran :- Tidak membutuhkan Play Store atau koneksi internet dan ini akan mengalihkan pembayaran pembelian ke Patcher, Dapat digunakan tanpa Xposed tetapi membutuhkan Patch \'Dukungan Emulasi\' untuk target app dari UI patch universal.\n\n
+-> Pengalihan Lisensi :- Membutuhkan Play Store dan juga koneksi internet pada saat verifikasi dan ini akan menahan Play Store dari meminta dan merespon, dibutuhkan Xposed, tidak dapat digunakan tanpa Xposed.\n\n
+-> Pilih App :- Pilih app yang ingin Anda emulasikan, secara default semua app pengguna yang terinstall akan dipilih, jika Anda tidak memilih app apapun maka meskipun Emulasi dihidupkan, app tersebut tidak akan di alihkan, digunakan untuk app dengan pembelian legal, Ini membutuhkan Xposed jadi jika Anda tidak memiliki Xposed maka gunakan opsi \'Dukungan Emulasi\' pada app target dari Patch Universal yang mana adalah pengganti dari opsi ini.\n\n
+        .......Catatan.......\n\n
+-> Selalu mengecek opsi \'Pembelian\' selagi membeli item yang Non Consumable dan tidak di item Consumable.\n
+Non Consumable :- Premium, Pro dll pada App.\n
+Consumable :- Coins, Gems dll pada Games.\n\n
+-> Setelah mematikan Emulasi Pembayaran, beberapa app dengan item Non Consumable akan kembali lagi ke status gratis tetapi ketika Anda menghidupkan kembali app akan kembali ke status terbeli, Jadi lebih sebaiknya tetaplah menghidupkan Emulasi Pembayaran supaya tetap berjalan karena jenis app ini akan terus mensinkronkan pembelian.\n\n
+-> Jika Anda memiliki lisensi atau pembelian legal, sebaiknya hanya memilih app yang ingin Anda emulasikan atau jika Anda memilih semua app maka matikan semua Emulasi Lisensi, Emulasi Pembayaran dan Pengalihan Lisensi karena salah satunya akan menyebabkan masalah pada Lisensi dan Pembelian legal, Anda juga dapat menggunakan Emulasi pada lisensi dan pembelian yang sebenarnya, pada sebagian besar kasus ini akan berjalan baik-baik saja.\n\n
+-> Dan juga setelah mematikan Emulasi Lisensi, beberapa app meminta lisensi kembali karena mereka terus mensinkronkan lisensi. Jadi sebaiknya tetaplah menghidupkan Emulasi Lisensi supaya tetap berjalan.\n\n
+-> Beberapa app menggunakan Library Lisensi lawas, ketika Emulasi Lisensi dihidupkan dan meskipun app tidak dipilih di daftar, mereka tidak terlisensi dengan lisensi legal karena Patcher mengganggu disebabkan oleh library LVL lawas dan pilihan daftar app tidak berjalan, maka matikan Emulasi Lisensi dan Patcher tidak akan mengganggu Permintaan Lisensi, setelah sudah terlisensi Anda bisa menghidupkan kembali, demikian juga dengan Emulasi Pembayaran.\n\n
+-> Jika Anda tidak memiliki Xposed maka Anda dapat menggunakan Emulasi Lisensi dan Pembayaran dengan Root, Ini membutuhkan Patch \'Dukungan Emulasi\' dari Patch Universal untuk targer app tetapi harap diingat jenis Emulasi Root tidaklah seakurat dengan jenis Emulasi Xposed.\n\n
+-> Beberapa aplikasi memiliki pengecekan tambahan sehingga Anda dapat juga menerapkan \'Dukungan Patch\' dari Patch Universal untuk app target untuk melewati pengecekan tambahan tersebut dan kemudian gunakan Emulasi.\n\n
+-> Emulasi tidak membutuhkan reboot. Setelah menghidupkan emulasi apapun tutup paksa app yang Anda ingin emulasikan, tetapi akan lebih baik jika melalukan reboot agar patch bekerja lebih baik.\n
+    </string>
+	<string name="cuspat">Patch Kustom</string>
+	<string name="kill">Hentikan App</string>
+    <string name="clrdata">Hapus Data</string>
+    <string name="uninst">Copot</string>
+    <string name="bkup">Cadangkan</string>
+    <string name="rstr">Pulihkan</string>
+    <string name="bkapk">Cadangkan Apk</string>
+    <string name="rsapk">Pulihkan Apk</string>
+    <string name="clcacheapps">Bersihkan Cache App</string>
+    <string name="clcachepart">Hapus Partisi Cache</string>
+    <string name="cldlvk">Hapus Dalvik Cache</string>
+    <string name="clodex">Hapus Dalvik Odex Yang Tidak Terpakai</string>
+    <string name="rbtsf">Soft Reboot</string>
+    <string name="rbt">Reboot</string>
+    <string name="rbtrec">Reboot ke Recovery</string>
+    <string name="pwrof">Matikan</string>
+    <string name="loadicons">Nonaktifkan Ikon App</string>
+    <string name="cloadicons">Nonaktifkan memuat ikon app dan gunakan ikon bawaan</string>
+    <string name="hook1">Buat semua app dapat didebug\nNOTE :- Meskipun properti Debuggable tidak ada pada Manifestnya.</string>
+    <string name="hook2">Nonaktifkan pengecekan debugger terhubung\nNOTE :- Akan berakibat tidak ada debugger terhubung, meskipun debugger sedang terhubung.</string>
+    <string name="hook3">Nonaktifkan pengecekan versi Android pada saat pemasangan\nNOTE :- Memasang app meskipun versi Android anda lebih kecil dari versi minimum yang diperlukan app.\nHanya bekerja pada Android Lollipop 5.0 ke atas, versi dibawahnya mungkin bekerja atau mungkin saja tidak.</string>
+    <string name="hook4">Izinkan downgrade app.\nNOTE :- Memasang app versi lebih lama langsung ditimpakan pada app dengan versi lebih baru.\nBekerjs pada Android Lollipop 5.0 ke atas, versi dibawahnya mungkin bekerja atau mungkin saja tidak.</string>
+    <string name="hook5">Nonaktifkan Pengecekan Signature\nNOTE :- Memasang app yang sama dengan signature berbeda langsung ditimpakan pada app dengan yang terpasang dan memiliki signature berbeda lainnya.\Bekerjs pada Android Lollipop 5.0 ke atas, versi dibawahnya mungkin bekerja atau mungkin saja tidak.</string>
+    <string name="hook6">Nonaktifkan Signature APK\nNOTE :- Nonaktifkan pengecekan signature saat memasang APK sehingga anda dapat memodifikasi file di dalam APK tanpa meng-signnya lagi dan tetap memakai signature developer sebelumnya.</string>
+    <string name="hook7">Nonaktifkan Deteksi Hamparan Layar\nNOTE :- Melewati pop up deteksi hamparan layar oleh Android saat memberikan izin atau memasang app.</string>
+
+</resources>

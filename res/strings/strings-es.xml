@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jasi Patcher</string>
+    <string name="upd">Buscar actualización</string>
+    <string name="tss">Solución de problemas</string>
+    <string name="change">Lista de cambios</string>
+    <string name="set">Ajustes</string>
+    <string name="hlp">Ayuda</string>
+    <string name="about">Acerca de</string>
+    <string name="don">Donar</string>
+    <string name="exit">Salir</string>
+    <string name="pa">Parches</string>
+    <string name="to">Herramientas</string>
+    <string name="log">Registros de volcado</string>
+    <string name="genr">General</string>
+    <string name="lang">Idioma</string>
+    <string name="clang">Cambiar idioma</string>
+    <string name="orie">Orientación</string>
+    <string name="corie">Cambiar Orientación</string>
+    <string name="othr">Otros</string>
+    <string name="vib">Vibración</string>
+    <string name="cvib">Haptic Feedback</string>
+    <string name="hid">Ocultar Parche</string>
+    <string name="ext">Extra</string>
+    <string name="chid">Ocultar Patcher de otras aplicaciones\n(Requiere Xposed Módulo habilitado y reiniciado)</string>
+    <string name="intsto">Almacenamiento interno</string>
+    <string name="find">Encuentrame</string>
+    <string name="csort">Cambiar orden de clasificación de aplicaciones</string>
+    <string name="sort">Ordenar</string>
+    <string name="upa">Unpatch</string>
+    <string name="app">..Apps..</string>
+    <string name="internal">Seleccione ubicación de almacenamiento interno</string>
+    <string name="perm">Permisos requeridos</string>
+    <string name="permmsg">Conceda todos los permisos para utilizar esta opción ...</string>
+    <string name="internalmsg">Si no está seguro, haga clic en \'CANCELAR\' ya que está casi correcto.\n\nLa ubicación del almacenamiento interno no está configurada\n\nSegún nuestro cálculo Su ubicación interna de almacenamiento del dispositivo es :- \n\'%1$s\'\n\nSi es correcto, entonces presione \'CANCELAR\' O si es incorrecto, entonces presione \'SELECCIONAR LOCALIZACIÓN \' Para seleccionar manualmente la carpeta raíz de su almacenamiento interno.\n\nEsta localización será utilizada para el trabajo del parche.\nLa ubicación de PS también se puede volver a seleccionar en Ajustes.\n\nNOTA :- Seleccionar ubicación incorrecta puede llevar a bloqueos o los Parches puede fallar en algunas tareas.</string>
+    <string name="selctintloc">Seleccione la ubicación de almacenamiento interno primero y, a continuación, haga clic en la Opción para continuar.</string>
+    <string name="plzrest">¡Reinicie la aplicación para que los cambios surtan efecto!</string>
+    <string name="letitchk">Por favor espera comprobando servidor...</string>
+    <string name="intnotavai">Internet no está disponible \No proceda</string>
+    <string name="ser">Buscar en Play Store</string>
+    <string name="reb">Reiniciar</string>
+    <string name="done">Proceso realizado estado comprobado</string>
+    <string name="cach">Limpiador</string>
+    <string name="pmenuinfo">Nota: - Unpatch sólo se puede hacer en \'Parche de código\',\'Parche de licencia\' y \'Hook Patch\',por lo que no está disponible en \'Dalvik Patch\',\'Module Patch\',\'Native Patch\',\'Generate Patch\' And \'Save Patch\'.\n\nRecuerde :- Antes de actualizar a la nueva versión, haga clic en Unpatch, luego actualizar y Patch nuevamente (sólo se requiere para la revisión de código).</string>
+    <string name="pmenu">Menú de parches</string>
+    <string name="selloc">Seleccione Ubicación</string>
+    <string name="anim">Animación</string>
+    <string name="canim">Cambiar la animación de la lista de aplicaciones</string>
+    <string name="font">Fuente</string>
+    <string name="cfont">Cambiar fuente</string>
+    <string name="unipat">Parche universal</string>
+    <string name="down">Descargar</string>
+    <string name="bati">Habilitar conjunto de instrucciones de 32 bits</string>
+    <string name="cbati">Utilice el conjunto de instrucciones de 32 bits en los firmwares de 64 bits para la corrección \n (sólo se puede seleccionar en los firmwares de 64 bits, El Parche utiliza la instrucción de 64 bits establecida de forma predeterminada en los firmwares de 64 bits para parcheo) Algunos Firmwares utiliza 32 bits de instrucciones incluso los Firmware de 64 bits)</string>
+    <string name="suppat">Parche de soporte</string>
+    <string name="hidtools">Ocultar herramientas de parcheo</string>
+    <string name="chidtools">Ocultar herramientas de parche como Lucky Patcher, Freedom, Game Killer de otras aplicaciones \n (requiere módulo Xposed habilitado y reiniciado)</string>
+    <string name="nonbati">Se detectó el firmware de 64 bits</string>
+    <string name="cnonbati">El firmware es de 64 bits.\n\nEl Parche utiliza 64 bits de instrucciones establecidas por defecto en Firmwares de 64 bits para parche, pero algunos Firmwares utiliza 32 Bits de instrucción incluso Firmware de 64 Bit Así que si el parche no resulta en el parche de Firmwares de 64 bits Entonces puede habilitar 32 Bit Conjunto de instrucciones disponibles en Parches\'s Configuración.</string>
+    <string name="shwagn">Mostrar de nuevo</string>
+    <string name="dntshwagn">No mostrar de nuevo</string>
+    <string name="impset">Importar configuración</string>
+    <string name="cimpset">Importar configuración desde el dispositivo</string>
+    <string name="setimport">Configuración importada correctamente\nLa aplicación se volverá a cargar ahora</string>
+    <string name="setimporterror">No se ha encontrado ninguna copia de seguridad de configuración para importar\n¿Está seguro que la ubicación interna que selecciono es correcta?</string>
+    <string name="expset">Exportar configuración</string>
+    <string name="cexpset">Exportar la configuración al dispositivo</string>
+    <string name="setexport">Configuración exportada a</string>
+    <string name="setexporterror">No puede exportar configuración como directorio no se puede escribir\n¿Está seguro de que la ubicación interna que selecciono es correcta?</string>
+    <string name="autoupdate">Habilitar actualización automática</string>
+    <string name="cautoupdate">Comprobar si hay actualizaciones automáticamente</string>
+	<string name="reload">Refrescar</string>
+	<string name="hidefab">Ocultar FAB</string>
+    <string name="chidefab">Ocultar Floating Action Button</string>
+    <string name="spf">Parodia</string>
+    <string name="apl">Aplicar</string>
+    <string name="hk">Gancho</string>
+	<string name="lm">Emulación</string>
+    <string name="rnd">Aleatorio</string>
+    <string name="clr">Claro</string>
+    <string name="clrset">Reiniciar Ajustes</string>
+    <string name="cclrset">Restablecer Configuración de Patcher</string>
+    <string name="setclr">Ajustes eliminados con éxito\nLa aplicación se volverá a cargar ahora</string>
+    <string name="lau">Lanzar</string>
+    <string name="sftrb">Por favor haga un REINICIO suave del dispositivo para que los cambios tomen efecto correctamente!!</string>
+    <string name="search">Buscar</string>
+    <string name="ads">Quitar anuncios</string>
+    <string name="strprch">Remover Compras Guardadas</string>
+    <string name="selectapps">Seleccionar Aplicaciones</string>
+    <string name="saemu">Seleccionar aplicaciones a Emular</string>
+    <string name="emuandhook">Emulación de licencia y Enganche de licencia no ser s,se ha desactivado la otra opción..</string>
+    <string name="onlyinprem">Solo disponible en modo Premium..\nPor favor active el modo Premium desde la opción donar en el Patcher..</string>
+    <string name="xposednotfound">Xposed no encontrado</string>
+    <string name="xposederror">No se puede proceder, Xposed No encontrado..\n\nHas instalado Xposed Framework y activado Patcher y reiniciado?\n\nNo sabes que es Xposed ?\nBuscalo en Google.</string>
+    <string name="xposederrorbutcanwork">No se puede emular, Xposed No encontrado..\n\nHas instalado Xposed Framework y activado Patcher y reiniciado?\n\nNo tienes Xposed ? No hay problema\n\nAun puedes usar Emulación de licencia y emulación de compra con Root pero necesitas aplicar el parche \'Soporte de emulación\' desde Parche universal a la aplicación deseada, y ten en cuenta que la emulación Root no se acerca a la emulación Xposed.</string>
+    <string name="sptemu">Soporte de emulación</string>
+    <string name="faqs">FAQs</string>
+    <string name="unidetails">
+	.......Detalles.......\n\n
+-> Parches :- Parcha la verificación de licencia de la aplicación necesita ser Unpatch antes de actualizar la aplicación.\n\n
+-> Unpatch :- remueve el parche de la aplicación, devuelve a la aplicación al estado sin licencia, debe ser usado antes de actualizar la aplicación.\n\n
+-> Parche de soporte :- parcha las aplicaciones para ser usadas con parches o emulación, Debe ser aplicado antes de usar el parche o la emulación.\n\n
+-> Soporte de emulación :- parcha la aplicación para emulación de licencia y compra para que funcione con Root, si tienes Xposed no necesitas usarlo ya que el modulo se encargara de ello por su cuenta es alternado de la opción \'seleccionar aplicación\' en emulación.\n\n
+-> Quitar anuncios :- Quita google ads de la aplicación.\n\n
+        .......Nota.......\n\n
+-> Si aplica tanto parche de soporte como parche asegúrese que parche de soporte sea aplicado antes que el parche.\n\n
+-> Solo aplicaciones de usuario con opciones de abrir son mostradas en la lista.\n
+    </string>
+    <string name="emudetails">
+        .......Detalles.......\n\n
+-> Emulación de licencia :- No requiere Play store instalado o conexión de internet, y redirección la verificación de licencia al Patcher, puede ser usado sin Xposed pero requiere el parche \'Soporte de emulación\' a la aplicación desde la interfaz de Parche universal.\n\n
+-> Emulación de Compra :- No requiere la play store instalada o acceso a internet, y redirección la verificación de la compra al Patcher, puede ser usado sin Xposed pero requiere el parche \'Soporte de emulación\' a la aplicación desde la interfaz de Parche universal.\n\n
+-> Enganche de licencia :- Requiere la play store instalada y conexión a internet en verificación,intercepta la Play Store para solicitud y repuesta, Xposed es obligatorio, no puede ser usado sin Xposed.\n\n
+-> Seleccionar aplicación :- Selecciona la aplicaciones que deseas emular,Por defecto todas las aplicaciones del usuario instaladas son seleccionadas, Si deseleccionas cualquier aplicación entonces incluso aunque la emulación este activada esa aplicación no será seleccionada,se deber de usar para excluir aplicaciones legalmente compradas, Requiere Xposed así que si no tienes Xposed entonces usa la opción \'Soporte de emulación\' en la aplicación desde parche universal lo que es la alternativa a esta opción.\n\n
+        .......Nota.......\n\n
+-> Siempre marca la opción\'Guardar compra\' cuando comprar un ítem no consumible, pero nunca al comprar consumibles.\n
+No consumible :- Premium, Pro Etc. en aplicaciones.\n
+Consumible :- monedas, gemas Etc. en juegos.\n\n
+-> Después de apagar la emulación de compra algunas aplicaciones con ítems no consumibles  volverán a ser disponibles,pero cuando lo vuelvas a prender volverán a estar compradas, así que es mejor mantener la emulación de compra siempre prendido porque estas aplicaciones siempre se están sincronizando.\n\n
+-> Después de apagar la emulación de licencia, algunas aplicaciones volverán a pedir la licencia porque siguen sincronizándose, así que es mejor mantener la emulación de compra siempre prendido para que funcione de manera confiable.\n\n
+-> Si tienes licencias legales o compras legales, selecciona solo aquellas aplicaciones en las que quieres que la emulación funcione ya que podría generar problemas con la verificación de las licencias/compras, también puedes usar la emulación de licencias/compras y funcionara bien la mayoría de los casos.\n\n
+-> Algunas aplicaciones usan librerías de licencias antiguas, cuando la emulación de licencia esta activa y esa aplicación no esta ni seleccionada no se podrá validar correctamente en caso de usar una licencia legal, eso es por las librerías antiguas, para solucionarlo se necesita desactivar el emulador de licencias, activarlo de forma legal, y ahí si se puede reactivar el emulador de licencias y se encontrara activo, lo mismo sucede con la emulación de compra.\n\n
+-> Si no tienes Xposed entonces puedes usar emulación de licencia y compra con Root, requiere el parche\'Soporte de emulación\'  a la aplicación desde la interfaz de Parche universal, pero ten en cuenta que la emulación Root no se acerca a la emulación Xposed.\n\n
+-> Algunas aplicaciones tienes verificaciones extra  así que para aplicar \'Soporte de emulación\' a la aplicación desde la interfaz de Parche universal para evitar esas verificaciones extra y usar emulación.\n\n
+-> La Emulación no requiere un Reinicio Suave, después de activar cualquier emulación solo fuerza a Detenerse la aplicación que desees emular, aunque un reinicio suave puede ser mas efectivo.\n
+    </string>
+	<string name="cuspat">Parche Personalizado</string>
+	<string name="kill">Finalizar aplicación</string>
+    <string name="clrdata">Limpiar datos</string>
+    <string name="uninst">Desinstalar</string>
+    <string name="bkup">Respaldar</string>
+    <string name="rstr">Restaurar</string>
+    <string name="bkapk">Respaldar Apk</string>
+    <string name="rsapk">Restaurar Apk</string>
+    <string name="clcacheapps">Limpiar cache de aplicaciones</string>
+    <string name="clcachepart">Limpiar cache de partición</string>
+    <string name="cldlvk">Limpiar cache Dalvik</string>
+    <string name="clodex">Limpiar Odex Dalvik sin usar</string>
+    <string name="rbtsf">Reinicio suave</string>
+    <string name="rbt">Reiniciar</string>
+    <string name="rbtrec">Reiniciar Al Recovery</string>
+    <string name="pwrof">Apagar</string>
+    <string name="loadicons">Desactivar iconos de aplicaciones</string>
+    <string name="cloadicons">Desactivar carga de iconos y usar los predeterminados</string>
+    <string name="hook1">Hacer todas las aplicaciones debuggables\nNOTA :- Incluso si la propiedad de Debugging De las aplicaciones es falsa o no esta presente en el manifiesto.</string>
+    <string name="hook2">Desactivar la verificación de conexión del Debugger\nNOTA :- Resultara en desconexión del debugger, aunque esté conectado.</string>
+    <string name="hook3">Desactivar la verificación de la versión de Android en instalación\nNOTA :- Instala la aplicación aun tu versión de Android sea menor que la versión mínima requerida.\nFunciona en Android Lollipop 5.0 Y superior, en versiones inferiores puede o no puede funcionar.</string>
+    <string name="hook4">Permitir Downgrade Aplicaciones\nNOTA :- Instala una versiona mas antigua de la aplicación a la actualmente instalada.\nFunciona en Android Lollipop 5.0 Y superior, en versiones inferiores puede o no puede funcionar.</string>
+    <string name="hook5">Desactiva al verificación de la firma\nNOTA :- Instalar la misma aplicación con una firma diferente sobre la actualmente instalada.\nFunciona en Android Lollipop 5.0 Y superior, en versiones inferiores puede o no puede funcionar.</string>
+    <string name="hook6">Desactivar firma de APK\nNOTA :- Desactiva la verificación de la firma durante la instalación del APK, así que puedes modificar los archivos dentro del APK sin tener que refirmar el archivo con la firma del desarrollador.</string>
+    <string name="hook7">Desactivar Detección de sobre posición\nNOTA :- Evita el la aparición del aviso por Android mientras entregando permisos o instalando aplicaciones.</string>
+
+</resources>
