@@ -41,7 +41,7 @@
     <string name="reb">Rebooter</string>
     <string name="done">Processing Done Check Status</string>
     <string name="cach">Cleaner</string>
-    <string name="pmenuinfo">Note :- Unpatch Can Only Be Done In \'Code Patch\',\'License Patch\' And \'Hook Patch\',So It Is Not Available In \'Dalvik Patch\',\'Module Patch\',\'Native Patch\',\'Generate Patch\' And \'Save Patch\'.\n\nRemember :- Before Updating To New Version Click Unpatch And Then Update And Patch Again (Required Only In Code Patch).</string>
+    <string name="pmenuinfo">Note :- Unpatch Can Only Be Done In \'Code Patch\',\'License Patch\' And \'Hook Patch\',So It Is Not Available In \'Dalvik Patch\',\'Module Patch\',\'Native Patch\',\'Generate Patch\' And \'Save Patch\'.\n\nRemember :- Before Updating To New Version Click Unpatch And Then Update (Only Required On Kitkat And Below) And Patch Again (Required Only In Code Patch).</string>
     <string name="pmenu">Patch Menu</string>
     <string name="selloc">Select Location</string>
     <string name="anim">Animation</string>
@@ -97,8 +97,8 @@
     <string name="faqs">FAQs</string>
     <string name="unidetails">
 	.......Details.......\n\n
--> Patch :- Patch License Check Of The Target App, It Need To Be Unpatch Before Updating The Target App.\n\n
--> Unpatch :- Remove Patch From The Target App, It Returns Target App To Normal Unlicensed State, Should Be Used To Remove Patch Before Updating The Target App.\n\n
+-> Patch :- Patch License Check Of The Target App, It Need To Be Unpatch Before Updating The Target App (Only Required On Kitkat And Below).\n\n
+-> Unpatch :- Remove Patch From The Target App, It Returns Target App To Normal Unlicensed State, Should Be Used To Remove Patch Before Updating The Target App (Only Required On Kitkat And Below).\n\n
 -> Support Patch :- Support Patch For Apps To Work With Patch Or Emulation, Should Be Applied First Before Using Either Patch Or Emulation.\n\n
 -> Support Emulate :- Patch Target App For License And Billing Emulation To Work With Root, If You Have Xposed Then You Do Not Need This As Xposed Module Will Take Care Of This Itself, It Is Alternate Of \'Select Apps\' Option In Emulation.\n\n
 -> Remove Ads :- Remove Google Ads From The Target App.\n\n
@@ -161,5 +161,7 @@ Consumable :- Coins, Gems Etc In Games.\n\n
     <string name="rbdwn">Reboot Download</string>
     <string name="rbbut">Reboot Bootloader</string>
     <string name="rbsfm">Reboot Safe Mode</string>
+    <string name="sysui">Restart SystemUI</string>
+    <string name="da">Dashboard</string>
 
 </resources>
