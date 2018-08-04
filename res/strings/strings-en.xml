@@ -112,7 +112,7 @@
 -> Billing Emulation :- It Does Not Require Play Store Installed Or Internet Connection And It Redirect Billing Purchase To Patcher, It Can Be Used Without Xposed But Require \'Support Emulate\' Patch To Target App From Universal Patch UI.\n\n
 -> License Hook (Removed In v3.0) :- It Does Require Play Store Installed As Well As Internet Connection On Verification And It Will Intercept Play Store For Requests And Responses, Xposed Is Mandatory So Can Not Be Used Without Xposed.\n\n
 -> Select Apps :- Select The Apps You Want To Emulate, By Default All User Installed Apps Are Selected, If You Unselect Any App Then Even If Emulation Is Turned ON That App Won\'t Be Hooked, Should Be Used To Exclude Legal Bought Apps, It Require Xposed So If You Do Not Have Xposed Then Use \'Support Emulate\' Option On Target App From Universal Patch Which Is Alternate Of This Option.\n\n
--> Core Patch :- Core Patch Is Legacy Method Used For Bypassing At Response, By Default Patcher Uses Advanced Mechanism So After Enabling This Option Will Disable Advanced Mechanism Automatically.
+-> Core Patch :- Core Patch Is Legacy Method Used For Bypassing At Response, By Default Patcher Uses Advanced Mechanism So After Enabling This Option Will Disable Advanced Mechanism Automatically.\n\n
         .......Note.......\n\n
 -> Always Check \'Store Purchase\' Option While Purchasing A Non Consumable Item But Never In Consumable Item.\n
 Non Consumable :- Premium, Pro Etc In Apps.\n
