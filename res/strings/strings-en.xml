@@ -169,5 +169,7 @@ Consumable :- Coins, Gems Etc In Games.\n\n
     <string name="adsblkon">Ads Block</string>
     <string name="adsblkoff">Ads Unblock</string>
     <string name="rv">System Core Patch</string>
+    <string name="sm">Show more&#8230;</string>
+    <string name="sl">Show less&#8230;</string>
 
 </resources>
