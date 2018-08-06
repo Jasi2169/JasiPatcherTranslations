@@ -156,7 +156,7 @@ Consumable :- Coins, Gems Etc In Games.\n\n
     <string name="settheme">Theme Changed Successfully\nApplication Will Reload Now</string>
     <string name="hidedetails">Hide Device Details</string>
     <string name="chidedetails">Hide Device Details On Dashboard</string>
-    <string name="shwaa">Show Apps Without Permissions</string>
+    <string name="shwaa">Show Apps Without License/Billing</string>
     <string name="bkdta">Backup Data</string>
     <string name="rsdta">Restore Data</string>
     <string name="rbdwn">Reboot Download</string>
