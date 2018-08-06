@@ -154,8 +154,8 @@ Pożądane :- Monety, Klejnoty Itp. W Grach.\n\n
     <string name="settheme">Motyw Został Poprawnie Zmieniony\nAplikacja Przeładuję Się Teraz</string>
     <string name="hidedetails">Ukryj Szczegóły Urządzenia</string>
     <string name="chidedetails">Ukryj Szczegóły Urządzenia Na Pulpicie Nawigacyjnym</string>
-    <string name="shwaa">Pokaż Aplikacje Bez Uprawnień</string>
-	<string name="bkdta">Kopia Zapasowa Danych</string>
+    <string name="shwaa">Pokaż Aplikacje Bez Licencji/Płatności</string>
+    <string name="bkdta">Kopia Zapasowa Danych</string>
     <string name="rsdta">Przywróć Dane</string>
     <string name="rbdwn">Zrestartuj Pobieranie</string>
     <string name="rbbut">Uruchom Bootloadera</string>
