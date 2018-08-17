@@ -164,10 +164,10 @@ Consumable :- Coins, Gems Etc für Spiele.\n\n
     <string name="sysui">Starte System Benutzerinterface neu</string>
     <string name="da">Dashboard</string>
     <string name="patres">Patch Ergebnis</string>
-    <string name="adsblk">Ad Blocker</string>
-    <string name="adsblkon">Ads Block</string>
-    <string name="adsblkoff">Ads Unblock</string>
-    <string name="rv">System Core Patch</string>
+    <string name="adsblk">Werbeblocker</string>
+    <string name="adsblkon">Blockiere lästige Werbung</string>
+    <string name="adsblkoff">Entblockiere lästige Werbung</string>
+    <string name="rv">System Kern Patch</string>
     <string name="sm">Zeige mehr&#8230;</string>
     <string name="sl">Zeige weniger&#8230;</string>
 
