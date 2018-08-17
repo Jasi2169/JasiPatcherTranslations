@@ -1,17 +1,17 @@
 # JasiPatcherTranslations
 Translation Files For Jasi Patcher For Android
 
-Translate all three files i.e. help.html, troubelshoot.html and strings.xml to your language.
+<b>Translate all three files i.e. help.html, troubelshoot.html and strings.xml to your language.</b>
 
-a. res/assets/help-en.html
+<i>a. res/assets/help-en.html</i>
 
-b. res/assets/troubelshoot-en.html
+<i>b. res/assets/troubelshoot-en.html</i>
 
-c. res/strings/strings-en.xml
+<i>c. res/strings/strings-en.xml</i>
 
 Points To Remember if adding/updating new Language :-
 
-1. (Add/Update the language files)
+<b>1. (Add/Update the language files)</b>
 
 Never remove any short codes or escape sequences like 
 
@@ -19,21 +19,21 @@ Never remove any short codes or escape sequences like
 
 so just only replace english words to your language without changing any symbols.
   
-2. (Add the language files)
+<b>2. (Add the language files)</b>
 
 When you translate all 3 files then make sure you keep the required files with Locale like
 
-strings-[Locale].xml
+<b>strings-[Locale].xml</b>
 
-help-[Locale].html
+<b>help-[Locale].html</b>
 
-troubelshoot-[Locale].html
+<b>troubelshoot-[Locale].html</b>
 
 Also if the language locale is bn_BD then you should rename file this way
 
-strings-bn-BD.xml
+<i>strings-bn-BD.xml</i>
 
-so instead of "bn_BD" change it to "bn-BD"
+<b>so instead of "bn_BD" change it to "bn-BD"</b>
 
 Some of the locale i have mentioned below which you can use:
 
