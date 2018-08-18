@@ -93,7 +93,7 @@
     <string name="xposednotfound">Xposed wurde nicht gefunden</string>
     <string name="xposederror">Konnte nicht fortfahren, da Xposed nicht installiert ist...\n\nHast du das Xposed Framework installiert und das Modul für den Patcher aktiviert (Gerät neustarten) ?\n\nDu weißt nicht, was Xposed ist?\nSuche bei Google für weitere Infos</string>
     <string name="xposederrorbutcanwork">Konnte nicht emulieren, da Xposed nicht gefunden wurde...\n\nHast du das Xposed Framework installiert und das Modul für den Patcher aktiviert (Gerät neustarten) ?\n\nDu kannst Xposed nicht installieren?\n\nKein Problem!\n\nDu kannst weiterhin Lizenz Emulation und Billing Emulation mit Root verwenden, aber du musst  \'Support Emulate\' zu der jeweiligen App patchen. Beachte, dass diese Art von Emulation nicht so erfolgreich ist, wie eine mit Xposed Modul.</string>
-    <string name="sptemu">Support Emulate</string>
+    <string name="sptemu">Unterstütze Emulation</string>
     <string name="faqs">FAQs</string>
     <string name="unidetails">
 	.......Details.......\n\n
@@ -149,5 +149,26 @@ Consumable :- Coins, Gems Etc für Spiele.\n\n
     <string name="hook5">Deaktiviere Signaturen Überprüfung von Apps\nNOTE :- Installiere die selber App mit einer anderen Signatur, als die installierte App besitzt.\nFunktioniert bei Android Lollipop 5.0 und höher. (Darunter nur teilweise).</string>
     <string name="hook6">Deaktiviere Signaturen Überprüfung von APKs\nNOTE :- Deaktiviere die Signaturen Überprüfung einer APK, sodass du die Dateien in der APK ohne einzuloggen modifizieren kannst. Behält die alte Entwickler Signatur.</string>
     <string name="hook7">Deaktiviere "Overlay erkannt"\nNOTE :- Umgeht die Overlay Überprüfung von Android, während du eine App installierst oder ihr Berechtigungen erteilst.</string>
+    <string name="shwsa">Zeige System Apps</string>
+    <string name="theme">Themen</string>
+    <string name="ctheme">Ändere Thema des Patches</string>
+    <string name="settheme">Thema erfolgreich geändert\nApp wird nun neustarten</string>
+    <string name="hidedetails">Verstecke Geräteinformationen</string>
+    <string name="chidedetails">Versteckt Geräteinformationen im Dashboard</string>
+    <string name="shwaa">Zeige Apps die kein InApp Kauf oder Lizenz unterstützen</string>
+    <string name="bkdta">Sichere Daten</string>
+    <string name="rsdta">Stelle Daten wieder her</string>
+    <string name="rbdwn">Neustart in Download Modus</string>
+    <string name="rbbut">Neustart in den Bootloader</string>
+    <string name="rbsfm">Sicherer Neustart</string>
+    <string name="sysui">Starte System Benutzerinterface neu</string>
+    <string name="da">Dashboard</string>
+    <string name="patres">Patch Ergebnis</string>
+    <string name="adsblk">Werbeblocker</string>
+    <string name="adsblkon">Blockiere lästige Werbung</string>
+    <string name="adsblkoff">Entblockiere lästige Werbung</string>
+    <string name="rv">System Kern Patch</string>
+    <string name="sm">Zeige mehr&#8230;</string>
+    <string name="sl">Zeige weniger&#8230;</string>
 
 </resources>
