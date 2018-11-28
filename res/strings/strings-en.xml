@@ -86,7 +86,7 @@
     <string name="search">Search</string>
     <string name="ads">Remove Ads</string>
     <string name="strprch">Remove Stored Purchases</string>
-    <string name="selectapps">Select Apps</string>
+    <string name="selectapps">Select Apps (Xposed)</string>
     <string name="saemu">Select Apps To Emulate</string>
     <string name="emuandhook">License Emulation And License Hook Can Not Be Selected Together,The Other One Is Turned Off Now..</string>
     <string name="onlyinprem">Available Only In Premium Mode..\nPlease Enable Premium Mode From Donate Option In Patcher..</string>
@@ -156,7 +156,7 @@ Consumable :- Coins, Gems Etc In Games.\n\n
     <string name="settheme">Theme Changed Successfully\nApplication Will Reload Now</string>
     <string name="hidedetails">Hide Device Details</string>
     <string name="chidedetails">Hide Device Details On Dashboard</string>
-    <string name="shwaa">Show Apps Without License/Billing</string>
+    <string name="shwaa">Show Apps Without License/Billing (Xposed)</string>
     <string name="bkdta">Backup Data</string>
     <string name="rsdta">Restore Data</string>
     <string name="rbdwn">Reboot Download</string>
@@ -168,8 +168,19 @@ Consumable :- Coins, Gems Etc In Games.\n\n
     <string name="adsblk">Ad Blocker</string>
     <string name="adsblkon">Ads Block</string>
     <string name="adsblkoff">Ads Unblock</string>
-    <string name="rv">System Core Patch</string>
+    <string name="rv">System Core Patch (Xposed)</string>
     <string name="sm">Show more&#8230;</string>
     <string name="sl">Show less&#8230;</string>
+    <string name="xposedvxp">Virtual Xposed Detected But Module Is Not Enabled!\n\nOpen Xposed Installer In Virtual Xposed And Enable Patcher Module And Then Reboot Virtual Xposed From Menu.</string>
+    <string name="donation">Patcher Is FREE And Always Will Be FREE, I Started This Project As A Hobby And Fun Including Appetite To Gain More Knowledge And Experience.\n\nWe Have Come So Far Together And We Have Very Powerful Product In Our Hand, As We Know Maintaining Patcher Takes Efforts, It Has Made Me To Spend Some Real Money And A Lot Of Time On It Though I Don\'t Expect Anything But If You Can See My Hard Work Behind The Scene And You Think I Have Helped You In Someway Then I Would Really Appreciate If You Buy Me Some Coffee!\n\nPS Donation Will Keep Me MOTIVATED To Work On Patcher\'s Updates And New Innovating Ideas.\n\nClick DONATE NOW And You Will Be Redirected To My Blog For Possible Ways To Donate.\n\nTo Enable Premium Mode Click ENABLE PREMIUM To Unlock Premium Mode For Free.</string>
+    <string name="chkall">Check All</string>
+    <string name="unchkall">Uncheck All</string>
+    <string name="save">Save</string>
+    <string name="donatenow">Donate Now</string>
+    <string name="thankyou">Thank You..</string>
+    <string name="eprem">Enable Premium</string>
+    <string name="dprem">Disable Premium</string>
+    <string name="shwsaa">Show System Apps (Xposed)</string>
+    <string name="appinfo">App Info</string>
 
 </resources>
