@@ -149,5 +149,37 @@
     <string name="hook5">Отключить проверку подписи\nNOTE :- Можно установить одно и тоже приложение с разными подписями поверх без переустановки. Работает на Android 5 и выше, ниже не протестировано.</string>
     <string name="hook6">Отключить подпись APK\nNOTE :- Можно отключить проверку подписи при установке APK. Позволяет менять ресурсы внутри приложения не подписывая его заново, сохраняя прошлую подпись.</string>
     <string name="hook7">Отключить обнаруженное наложение\nNOTE :- Можно обойти ограничение Android, при котором невозможно установить приложение или дать разрешения когда вы устанавливаете приложение, когда включен фильтр экрана.</string>
-
+	<string name="shwsa">Показать системные приложения</string>
+    <string name="theme">Темы</string>
+    <string name="ctheme">Изменить тему патчера</string>
+    <string name="settheme">Тема успешно изменена\nПриложение будет перезагружено</string>
+    <string name="hidedetails">Скрыть сведения об устройстве</string>
+    <string name="chidedetails">Скрыть сведения об устройстве на панели инструментов</string>
+    <string name="shwaa">Показать приложения без лицензии/покупок (Xposed)</string>
+    <string name="bkdta">Backup Data</string>
+    <string name="rsdta">Restore Data</string>
+    <string name="rbdwn">Reboot Download</string>
+    <string name="rbbut">Reboot Bootloader</string>
+    <string name="rbsfm">Reboot Safe Mode</string>
+    <string name="sysui">Restart SystemUI</string>
+    <string name="da">Панель инструментов</string>
+    <string name="patres">Результат патча</string>
+    <string name="adsblk">Блокировщик Рекламы</string>
+    <string name="adsblkon">Реклама заблокирована</string>
+    <string name="adsblkoff">Реклама разблокирована</string>
+    <string name="rv">Патч ядра системы (Xposed)</string>
+    <string name="sm">Показать больше&#8230;</string>
+    <string name="sl">Показать меньше&#8230;</string>
+    <string name="xposedvxp">Обнаружен Virtual Xposed, но модуль не включен!\n\nОткройте Xposed Installer в Virtual Xposed и включите модуль патчера, а затем перезагрузите Virtual Xposed из меню.</string>
+    <string name="donation">Патчер бесплатен и всегда будет бесплатным, я начинал этот проект как хобби и для развлечения,а также чтобы получить больше знаний и опыта.\n\nМы до сих пор вместе и у нас есть очень мощный инструмент в наших руках, а как мы знаем, разработка патчера требует усилий и он заставил меня потратить немного денег и много времени на это, и если вы благодарны мне за мой труд и думаете что я вам помог каким-то образом, то я был бы очень признателен, если ты пожертвуешь мне на чашку кофе!!\n\nPS
+	Пожертвование будет и дальше меня мотивировать, чтобы работать над обновлениями патчера и новыми инновационными идеями.\n\nНажмите кнопку Пожертвовать сейчас, и вы будете перенаправлены в мой блог для информации о возможных способах пожертвования.\n\nЧтобы включить режим премиум, нажмите Включить премиум, чтобы разблокировать режим  премиум бесплатно.</string>
+    <string name="chkall">Проверить все</string>
+    <string name="unchkall">Снять все</string>
+    <string name="save">Сохранить</string>
+    <string name="donatenow">Пожертвовать сейчас</string>
+    <string name="thankyou">Спасибо..</string>
+    <string name="eprem">Включить Премиум</string>
+    <string name="dprem">Отключить Премиум</string>
+    <string name="shwsaa">Показать системные приложения (Xposed)</string>
+    <string name="appinfo">Информация о приложении</string>
 </resources>
