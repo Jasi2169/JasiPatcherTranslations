@@ -22,7 +22,7 @@
     <string name="cvib">Haptic Feedback</string>
     <string name="hid">Hide Patcher</string>
     <string name="ext">Extra</string>
-    <string name="chid">Hide Patcher From Other Apps\n(Requires Xposed Module Enabled And Rebooted)</string>
+    <string name="chid">Hide Patcher From Other Apps\n(Require Xposed And Won\'t Work in VXP)</string>
     <string name="intsto">Internal Storage Location</string>
     <string name="find">Find Me</string>
     <string name="csort">Change Sort Order Of Apps</string>
@@ -32,7 +32,7 @@
     <string name="internal">Select Internal Storage Location</string>
     <string name="perm">Permissions Required</string>
     <string name="permmsg">Please Grant All Permissions To Use This Option...</string>
-    <string name="internalmsg">If You Are Not Sure Click \'CANCEL\' As It Is Almost Correct.\n\nInternal Storage Location Is Not Set\n\nAs Per Our Calculation Your Device Internal Storage Location Is :- \n\'%1$s\'\n\nIf It Is Correct,Then Press \'CANCEL\' Or If It Is Wrong Then Press \'SELECT LOCATION\' To Select Root Folder Of Your Internal Storage Manually.\n\nThis Location Will Be Used For Patcher Work.\nPS Location Can Also Be Reselect In Settings.\n\nNOTE :- Selecting WRONG Location May Lead To Crashes Or Patcher May Fail In Some Tasks.</string>
+    <string name="internalmsg">Internal Storage Location Is Not Set!\n\nBy Default Patcher\'s Working Internal Storage Location Is :- \n\'%1$s\'\n\nIf It Is Okay Then Press \'CANCEL\' Or If You Want To Change Then Press \'SELECT LOCATION\' To Select Folder For Patcher\'s Work.\n\nThis Location Will Be Used For Patcher Work.\nPS Location Can Also Be Reselect In Settings.\n\nNOTE :- Selecting WRONG Location May Lead To Crashes Or Patcher May Fail In Some Tasks.</string>
     <string name="selctintloc">Please Select Internal Storage Location First Then Click Option Again To Proceed..</string>
     <string name="plzrest">Please Restart The App For Changes To Take Effect!!</string>
     <string name="letitchk">Please Wait Let It Check Server..</string>
@@ -182,5 +182,7 @@ Consumable :- Coins, Gems Etc In Games.\n\n
     <string name="dprem">Disable Premium</string>
     <string name="shwsaa">Show System Apps (Xposed)</string>
     <string name="appinfo">App Info</string>
+    <string name="licemu">License Emulation</string>
+    <string name="billemu">Billing Emulation</string>
 
 </resources>
