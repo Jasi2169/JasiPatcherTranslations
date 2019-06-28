@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jasi Patcher</string>
+    <string name="upd">Ricerca aggiornamenti</string>
+    <string name="tss">Risoluzione problemi</string>
+    <string name="change">Changelogs</string>
+    <string name="set">Impostazioni</string>
+    <string name="hlp">Aiuto</string>
+    <string name="about">Info</string>
+    <string name="don">Dona</string>
+    <string name="exit">Esci</string>
+    <string name="pa">Patch</string>
+    <string name="to">Strumenti</string>
+    <string name="log">Prendi Log</string>
+    <string name="genr">Generali</string>
+    <string name="lang">Lingua</string>
+    <string name="clang">Modifica Lingua</string>
+    <string name="orie">Orientamento</string>
+    <string name="corie">Cambia Orientamento</string>
+    <string name="othr">Altro</string>
+    <string name="vib">Vibrazione</string>
+    <string name="cvib">Feedback Tattile</string>
+    <string name="hid">Nascondi Patcher</string>
+    <string name="ext">Extra</string>
+    <string name="chid">Nascondi Patcher dalle altre app\n(Richiede Xposed e non funzionerá in VXP)</string>
+    <string name="intsto">Percorso memoria interna</string>
+    <string name="find">Trovami</string>
+    <string name="csort">Cambia l\'ordinamento delle app</string>
+    <string name="sort">Ordina</string>
+    <string name="upa">Rimuovi patch</string>
+    <string name="app">..Apps..</string>
+    <string name="internal">Seleziona il percorso della memoria interna</string>
+    <string name="perm">Permessi Richiesti</string>
+    <string name="permmsg">Per favore, concedi i seguenti permessi per usare questa opzione...</string>
+    <string name="internalmsg">La posizione della memoria interna non é stata selezionata!\n\nDi default  la posizione è :- \n\'%1$s\'\n\nIf Se va bene tocca \'ANNULLA\' Oppure se vuoi selezionala manualmente toccando \'SCEGLI POSIZIONE\' To Select Folder For Patcher\'s Work.\n\n La posizione puó anche essere selezionata nelle impostazioni.\n\nNOTA:- Selezionare una posizione SBAGLIATA puó portare a crash dell\'applicazione o strani comportamenti.</string>
+    <string name="selctintloc">Per favore selezione prima la posizione della memoria interna, poi scegli nuovamente l\'opzione..</string>
+    <string name="plzrest">Per favore riavvia l\'app affinchè i cambiamenti abbiano effetto!!</string>
+    <string name="letitchk">Attendi la ricerca sul server..</string>
+    <string name="intnotavai">Impossibile procedere, connessione assente..</string>
+    <string name="ser">Trova sul Play Store</string>
+    <string name="reb">Riavviatore</string>
+    <string name="done">Processo completato, controllo lo stato..</string>
+    <string name="cach">Pulitore</string>
+    <string name="pmenuinfo">Nota :- La rimozione della patch puó essere effettuata solo in \'Patch al Codicr\',\'Patch Licenza\' e \'Patch di aggancio\',quindi non è disponibile in \'Patch Dalvik\',\'Patch Moduli\',\'Patch Native\',\'Genera Patch\' e \'Salva Patch\'.\n\Ricorda :- Prima di aggiornare a una nuova versione rimuovi le patch applicate in precedenza (Solo su Kitkat e inferilri) e patcha nuovamente (Richiesto solo in \'Patch al Codice\').</string>
+    <string name="pmenu">Menu delle Patch</string>
+    <string name="selloc">Scegli Posizione</string>
+    <string name="anim">Animazioni</string>
+    <string name="canim">Cambia Animazioni della lista app</string>
+    <string name="font">Caratteri</string>
+    <string name="cfont">Cambia i caratteri</string>
+    <string name="unipat">Patch Universale</string>
+    <string name="down">Download</string>
+    <string name="bati">Abilita Instruction set a 32 bit</string>
+    <string name="cbati">Usa un set di istruzioni a 32 bit su un firmware a 64 bit per le patch\n(Utilizza solo in caso alcune patch non funzionino su firmware a 64 bit con set di istruzioni a 64 bit)</string>
+    <string name="suppat">Patch di Supporto</string>
+    <string name="hidtools">Nascondi gli strumenti di Patch</string>
+    <string name="chidtools">Nascondi strumenti come Lucky Patcher, Freedom, Game Killer da altre app\n(Richiede Xposed abilitato ed attivo)</string>
+    <string name="nonbati">Firmware a 64 bit rilevsto</string>
+    <string name="cnonbati">Possiedi un firmware a 64 bit.\n\nNormalmente vengono usati set di istruzioni a 64 bit su questi firmware. Tuttavia alcuni produttori usano set di istruzioni a 32 bit anche su firmware a 64 bit, per cui se alcune patch non funzionano prova a cambiare set di istruzioni e riprova.</string>
+    <string name="shwagn">Mostra nuovamente</string>
+    <string name="dntshwagn">Non mostrare nuovamente</string>
+    <string name="impset">Importa impostazioni</string>
+    <string name="cimpset">Importa impostazioni dal dispositivo</string>
+    <string name="setimport">Impostazioni importate correttamente\nL\'applicazione si riavvierá adesso.</string>
+    <string name="setimporterror">Nessun backup delle impostazioni trovato. Sei sicuro di aver scelto il percorso giusto per la memoria interna?</string>
+    <string name="expset">Esporta Impostazioni</string>
+    <string name="cexpset">Esporta Impostaziono sul dispositivo</string>
+    <string name="setexport">Impostazioni esportate su</string>
+    <string name="setexporterror">Impossibile esportare impostazioni poichè la memoria è di sola lettura. Controlla il percorso della memoria interna per favore.</string>
+    <string name="autoupdate">Abilita L\'aggiornamento automatico</string>
+    <string name="cautoupdate">Effettua automaticamente la ricerca di nuove versioni</string>
+    <string name="reload">Riavvia app</string>
+    <string name="hidefab">Nascondi FAB</string>
+    <string name="chidefab">Nasconde il pulsante fluttuante</string>
+    <string name="spf">Bypassa</string>
+    <string name="apl">Apploca</string>
+    <string name="hk">Aggancio</string>
+    <string name="lm">Emulazione</string>
+    <string name="rnd">Casuale</string>
+    <string name="clr">Pulisci</string>
+    <string name="clrset">Ripristina Impostazioni</string>
+    <string name="cclrset">Ripristina le impostaziono del Patxher</string>
+    <string name="setclr">Ripristino completato con successo\nL\'applicazione si riavvierá</string>
+    <string name="lau">Lancia</string>
+    <string name="sftrb">Per favore riavvia il dispositivo per rendere effettive le modifiche!!</string>
+    <string name="search">Cerca</string>
+    <string name="ads">Rimuovi Ads</string>
+    <string name="strprch">Rimuovi dati sugli acquisti</string>
+    <string name="selectapps">Scegli app (Xposed)</string>
+    <string name="saemu">Scegli app da emulare</string>
+    <string name="emuandhook">Emulazilne della licenza e Patch di Aggancio non possono essere selezionate in contemporanea,una delle due verrá disabilitata.</string>
+    <string name="onlyinprem">Disponibile solamente in modalitá Premium..\nAbilita la modalitá Premium dalla sezione \'Dona\' del Patcher..</string>
+    <string name="xposednotfound">Xposed non trovato</string>
+    <string name="xposederror">Impossibile procedere senza Xposed installato..\n\nSiciro sia tutto apposto?\n\nNon sai cosa sia Xposed?\nCercalo su Google</string>
+    <string name="xposederrorbutcanwork">Impossobile emulare, Xposed non trovato..\n\nSicuro di averlo installato e abilitato?\n\nNon vuoi usare Xposed? Nessun problema\n\nPuoi comunque usare l\'emulazione della licenza e dei pagamenti con root, ma avrai bisogno di applicare la patch \'Supporto Emulazione\' dalla sezione Patch Universali. Inoltre ricorda che l\'emulazione tramite root non è minimamente paragonabile alla qualitá dell\'emulazione tramite Xposed.</string>
+    <string name="sptemu">Supporto Emulazione</string>
+    <string name="faqs">FAQs</string>
+    <string name="unidetails">
+	.......Dettagli.......\n\n
+-> Patch :- Patch la verifica della licenza sull\'app selezionata, necessita di rimozione della patch prima di aggiornare l\'app (Richiesto solo su Kitkat e inferiori).\n\n
+-> Rimuovi Patch :- Rimuove la patch dall\'app selezionata, riportandola allo stato originario. Dovrebbe essere usata in caso di aggiornamento del Patcher (Richiesto solo su Kitkat e inferiori).\n\n
+-> Patch di Supporto :- Patch di supporto per le alp affinchè funzionino con le normali Patch o con l\'emulazione. Deve essere applicata prima di tentare ogni altra patch o l\'emulazilne stessa.\n\n
+-> Supporto Emulazione :- Patcha l\'app selezionata per permettere l\'emulazione della licenza e dei pagamenti in app, attraverso la root. Se hai Xposed non devi preoccuparti di abilitare questa opzione in quanto un modulo se ne occuperá autonomamente.\n\n
+-> Rimuovi Ads :- Rimuove gli ADS di Google dall\'app selezionata.\n\n
+        .......Nota.......\n\n
+-> Se applichi una patch di supporto assieme ad una patch normale, assicurati di applicare PRIMA la patch di supporto..\n\n
+-> Solo le app utente sono mostrate nella lista.\n
+    </string>
+    <string name="emudetails">
+        .......Dettagli.......\n\n
+-> Emulazione Licenza :- Non richiede Google Play installato e nemmeno connessione internet. Rimanda tutte le verifiche di licenza al Patcher e puó essere usato senza Xposed ma richiede la patch \'Supporto Emulazione\' dalla sezione \'Patch Universali\'.\n\n
+-> Emulazione Pagamenti:- Non richiede Google Play installato e nemmeno connessione internet. Rimanda tutte le richieste di pagamenti al Patcher e puó essere usato senza Xposed ma richiede la patch \'Supporto Emulazione\' dalla sezione \'Patch Universali\'.\n\n
+-> Aggancio Licenza (Rimosso In v3.0) :- Richiede sia internet che Google Play installato. Non funzionerá senza Xposed.\n\n
+-> Scegli App :- Segli su quali app applicare l\'emulazione. Di default sono selezionate tutte le app, ma puoi deselezionare quelle acquistate regolarmente in modo da evitare conflitti./n Richiede Xposed, ma in alternativa puó essere usato atticando la patch \'Supporto Emulazione\'.\n\n
+-> Patch al Core :- Una vecchia patch utilizzata per bypassare determinati processi. Attualmente il Patcher utilizza mecfanismi alternativi ed altamente specializzati. Attivare questa opzione disabilita tali meccanismi.\n\n
+        .......Nota.......\n\n
+-> Spunta sempre la dicitura \'Salva Acquisto\'  quando acquisti un oggetto non consumabile, ma non farlo mai con oggetti consumabili.\n
+Non Consumanilo :- Premium, Pro, Vip ecc.\n
+Consumabili:- Monete, Gemme, Contanti ecc.\n\n
+-> Dopo aver disabilitato l\'emulazione pagamenti, alcune app ritorneranno al loro stato di app gratuite. Mantenere attiva l\'opzione è quindi altamente consigliato.\n\n
+-> Dopo aver disabilitato la verifica della licenza alcune app ritorneranno al loro stato di app senza licenza. Mantenere attiva l\'opzione è quindi altamente consigliato.\n\n
+-> Se hai realmente acquistato delle app, disabilita la verifica della licenza e dell\'emulazione per tali app, in modo da evitare conflitti.\n\n
+-> Alcune app utilizzano vecchi metodi di verifica della licenza (LVL, License Verification Library) per cui si comporteranno diversamente con le patch attuali applicate. Ciò non vuol dire che non funzioneranno\n\n
+-> Se non hai Xposed puoi comunque utilizzare alcuni tipi di emulazione delle licenze e dei pagamenti utilizzando in alternariva il root. Ricorda comunque che questo metodo nonnè minimamente paragonabile alla qualitá del metodo Xposed.\n\n
+-> Alcune app usano verifiche extra. Per bypassare tali verifiche, usa la patch di Supporto Emulazione assieme alle altre giá applicate.\n\n
+-> Dopo qualsiasi emulazione non è necessario riavviare, basta semplicemente forzare l\'app patchata. Tuttavia è sempre consigliato un Soft Reboot.\n
+    </string>
+    <string name="cuspat">Patch Personalizzate</string>
+    <string name="kill">Termina App</string>
+    <string name="clrdata">Pulisci Dati</string>
+    <string name="uninst">Disinstalla</string>
+    <string name="bkup">Backup</string>
+    <string name="rstr">Ripristina</string>
+    <string name="bkapk">Backup Apk</string>
+    <string name="rsapk">Ripristina Apk</string>
+    <string name="clcacheapps">Pulisco Cache</string>
+    <string name="clcachepart">Formatta la partizione Cache</string>
+    <string name="cldlvk">Formatta la Dalvik Cache</string>
+    <string name="clodex">Formatta Dalvok Odex inutilizzati</string>
+    <string name="rbtsf">Soft Reboot</string>
+    <string name="rbt">Riavvio</string>
+    <string name="rbtrec">Riavvia in Recovery</string>
+    <string name="pwrof">Spegni</string>
+    <string name="loadicons">Disabilita icone app</string>
+    <string name="cloadicons">Disabilita il caricamento icone e usa quelle integrate</string>
+    <string name="hook1">Rendi tutte le app pronte per il debug\nNOTA :- Indipendentemente dai valori Manifest.</string>
+    <string name="hook2">Disabilita il controllo Debug \nNOTA :- Risulterá che anche quando un debug sará connesso, apparirá come non connesso.</string>
+    <string name="hook3">Disabilita controllo versione Android durante le installazioni\nNOTE :- Rende le app installabili anche se sviluppate per versioni successive. Funziona su Lollipop e superiori.</string>
+    <string name="hook4">Permette Downgrade delle app\nNOTA :- Abilita l\'installazione di vecchie versioni di app al di sopra di quelle piú recenti. Funziona su Lollipop e superiori.</string>
+    <string name="hook5">Disabilita verifica firma\nNOTA :- Installa un\'app con firma differente al di sopra di quella giá installata. Funziona con Lollipop e superiori.</string>
+    <string name="hook6">Disabilita firma APK\nNOTA :- Permette la modifica di file interni all\'apk senza preoccuparsi della verifica della firma in fase di installazione.</string>
+    <string name="hook7">Disabilita Popup Overlay\nNOTA :- Bypassa il Popuo Overlay mentre installi app o concedi i permessi a tali app.</string>
+    <string name="shwsa">Mostra App di Sistema</string>
+    <string name="theme">Temi</string>
+    <string name="ctheme">Cambia il tema del Patcher</string>
+    <string name="settheme">Tema cambiato con successo\nL\'applicazione verrá riavviata</string>
+    <string name="hidedetails">Nascondi dettagli dispositivo</string>
+    <string name="chidedetails">Nasconde i dettagli del dispositivo dalla Dashboard</string>
+    <string name="shwaa">Mostra all senza Licenza/Pagamento (Xposed)</string>
+    <string name="bkdta">Backup Dati</string>
+    <string name="rsdta">Ripristina Dati</string>
+    <string name="rbdwn">Riavvia in modalitá Download</string>
+    <string name="rbbut">Riavvia in Bootloader</string>
+    <string name="rbsfm">Riavvia in Safe Mode</string>
+    <string name="sysui">Riavvia SystemUI</string>
+    <string name="da">Dashboard</string>
+    <string name="patres">Risultati Patch</string>
+    <string name="adsblk">Ad Blocker</string>
+    <string name="adsblkon">Blocca ADS</string>
+    <string name="adsblkoff">Sblocca ADS</string>
+    <string name="rv">Patch al Core di Sistema (Xposed)</string>
+    <string name="sm">Mostra altro&#8230;</string>
+    <string name="sl">Mostra meno&#8230;</string>
+    <string name="xposedvxp">VXP rilevato ma nessun modulo abilitato!\n\nApri Xposed all\'interno di VXP, abilita i moduli e riavvia VXP dal menu.</string>
+    <string name="donation">Il Patcher è GRATIS e lo sará sempre, Ho cominciato questo progetto come hobby e per divertimento incluso l\'obiettivo di apprendere di piú e fare esperienza.\n\nSiamo arrivati lontano insieme ritrovandoci con un prodotto molto potente tra le mani, e anche se ci ho speso dei soldi veri durante lo sviluppo non mi aspetto nulla in cambio. Ciononostante, se voleste offrirmi qualche caffè per avervi aiutato in qualche modo con il mio lavoro ve ne sarei davvero grato!\n\nLe donazioni sono una grande MOTIVAZIONE per me.\n\nClicca su DONA ORA per essere reindirizzato al mio blog dove troverai diversi modi per donare.\n\nPuoi abilitare anche gratuitamente la modalitá Premium cliccando su Abilita Premium.</string>
+    <string name="chkall">Spunta tutto</string>
+    <string name="unchkall">Disabilita tutte le selezioni</string>
+    <string name="save">Salva</string>
+    <string name="donatenow">Dona Adesso</string>
+    <string name="thankyou">Grazie..</string>
+    <string name="eprem">Abilita Premium</string>
+    <string name="dprem">Disabilita Premium</string>
+    <string name="shwsaa">Mostra app di sistema (Xposed)</string>
+    <string name="appinfo">App Info</string>
+    <string name="licemu">Emulazione Licenza</string>
+    <string name="billemu">Emulazione Pagamenti</string>
+
+</resources>
