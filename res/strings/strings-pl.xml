@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Jasi Patcher</string>
     <string name="upd">Dostępność Aktualizacji</string>
@@ -41,7 +41,7 @@
     <string name="reb">Uruchom Ponownie</string>
     <string name="done">Udało Się Zobacz Status</string>
     <string name="cach">Czyść</string>
-    <string name="pmenuinfo">Uwaga :- Unpatch Można Wykonać Tylko W \ 'Patch Kodu \', \ 'Patch Licencji \' I \ 'Patch Hook \', Więc Nie Jest Dostępny W \ 'Patchu Dalvik \', \ 'Patchu Modułu \', \ 'Native Patch \ ', \' Generate Patch \ 'I \' Save Patch \ '. \ N \ nUwaga: - Przed Aktualizacją Do Nowej Wersji Kliknij Przycisk Unpatch, A Następnie Zaktualizuj I Ponownie Zainstaluj Poprawkę (Wymagane Tylko W Kodzie Patcha).</string>
+    <string name="pmenuinfo">Uwaga :- Unpatch Można Wykonać Tylko W \'Patch Kodu\', \'Patch Licencji\' I \'Patch Hook\', Więc Nie Jest Dostępny W \'Patchu Dalvik\', \'Patchu Modułu\', \'Native Patch\', \'Generate Patch\' I \'Save Patch\'. \ N \ nUwaga: - Przed Aktualizacją Do Nowej Wersji Kliknij Przycisk Unpatch, A Następnie Zaktualizuj I Ponownie Zainstaluj Poprawkę (Wymagane Tylko W Kodzie Patcha).</string>
     <string name="pmenu">Menu Patcha</string>
     <string name="selloc">Zaznacz Lokalizację</string>
     <string name="anim">Ożywienie</string>
@@ -155,7 +155,7 @@ Pożądane :- Monety, Klejnoty Itp. W Grach.\n\n
     <string name="hidedetails">Ukryj Szczegóły Urządzenia</string>
     <string name="chidedetails">Ukryj Szczegóły Urządzenia Na Pulpicie Nawigacyjnym</string>
     <string name="shwaa">Pokaż Aplikacje Bez Licencji/Płatności</string>
-    <string name="bkdta">Kopia Zapasowa Danych</string>
+	<string name="bkdta">Kopia Zapasowa Danych</string>
     <string name="rsdta">Przywróć Dane</string>
     <string name="rbdwn">Zrestartuj Pobieranie</string>
     <string name="rbbut">Uruchom Bootloadera</string>
