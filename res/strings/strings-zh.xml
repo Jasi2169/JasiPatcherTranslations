@@ -148,5 +148,39 @@
     <string name="hook5">禁止应用管理器签名检查\n（使用不同签名的程序包覆盖安装现有应用。此功能理论上对Android 5.0及以上有效，但在5.0以下也有可能会生效。）</string>
     <string name="hook6">禁止ZIP签名检查\n（在修改APK后无需对其再次签名即可安装，即在修改的同时保留原开发者的签名。）</string>
     <string name="hook7">禁止屏幕叠加层检测\n（禁止系统在授予应用权限和安装应用时对屏幕叠加层的检测。）</string>
-
+	<string name="shwsa">显示系统应用</string>
+	<string name="theme">主题</string>
+	<string name="ctheme">更换主题</string>
+	<string name="settheme">"主题成功更改应用程序将立即重新加载"</string>
+	<string name="hidedetails">隐藏设备详细信息</string>
+	<string name="chidedetails">在工具栏上隐藏设备详细信息</string>
+	<string name="shwaa">显示没有授权/内购的应用程序（Xposed）</string>
+	<string name="bkdta">备份数据</string>
+	<string name="rsdta">恢复数据</string>
+	<string name="rbdwn">重启至下载模式</string>
+	<string name="rbbut">重启至引导程序</string>
+	<string name="rbsfm">重启至安全模式</string>
+	<string name="sysui">重启系统界面</string>
+	<string name="da">工具栏</string>
+	<string name="patres">破解结果</string>
+	<string name="adsblk">广告拦截器</string>
+	<string name="adsblkon">广告拦截</string>
+	<string name="adsblkoff">恢复广告</string>
+	<string name="rv">系统核心破解（Xposed）</string>
+	<string name="sm">展开…</string>
+	<string name="sl">收起…</string>
+	<string name="xposedvxp">"检测到Virtual Xposed，但未启用本模块！\n 在Virtual Xposed中打开Xposed Installer并启用Patcher模块，然后从菜单中重启Virtual Xposed。"</string>
+	<string name="donation">"Patcher是免费的，而且永远都是免费的，我开始这个项目是出于爱好和乐趣，包括渴望获得更多知识和经验。\n 我们齐心协力，我们拥有非常强大的产品，正如我们所知，维护Patcher会付出很大的努力，虽然我不希望有任何事情，但它让我花了一些真钱和很多时间，但是如果您可以在幕后看到我的辛勤工作，并且您认为我以某种方式为您提供了帮助，那么如果您给我买点咖啡，我将不胜感激！\n PS捐赠将使我一直积极参与Patcher的更新和新的创新理念。 \n 单击立即捐赠，您将被重定向到我的博客以寻求可能的捐赠方式。\n 要启用高级模式，请单击“启用高级”以免费解锁高级模式。"</string>
+	<string name="chkall">选择所有</string>
+	<string name="unchkall">取消所有选择</string>
+	<string name="save">保存</string>
+	<string name="donatenow">立即捐款</string>
+	<string name="thankyou">谢谢..</string>
+	<string name="eprem">启用高级功能</string>
+	<string name="dprem">禁用高级功能</string>
+	<string name="shwsaa">显示系统应用程序（Xposed）</string>
+	<string name="appinfo">应用程式资讯</string>
+	<string name="licemu">授权验证模拟</string>
+	<string name="billemu">内购模拟</string>
+	
 </resources>
